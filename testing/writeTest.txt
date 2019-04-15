@@ -1,0 +1,109 @@
+<link rel="canonical" href="www.usa.gov/">
+<link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png">
+<link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico">
+<link rel="icon" sizes="32x32" href="/images/favicon.ico">
+<link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/pagelevelsurvey.css">
+<link rel="stylesheet" href="/css/print.css" media="print">
+<a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a>
+<a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a>
+<a href="/phone">1-844-USA-GOV1</a>
+<a class="usa-nav-link" href="/topics"> <span>All Topics and Services</span> </a>
+<a href="/branches-of-government">Branches of the U.S. Government</a>
+<a href="/budget">Budget of the U.S. Government</a>
+<a href="/statistics">Data and Statistics about the U.S.</a>
+<a href="/history">History and Historical Documents</a>
+<a href="/flag">American Flag</a>
+<a href="/life-in-the-us">Learn About Life in the U.S.</a>
+<a href="/presidents">Presidents, Vice Presidents, and First Ladies</a>
+<a href="/agencies">Government Agencies and Elected Officials</a>
+<a href="/laws">Laws and Legal Issues</a>
+<a class="usa-button" href="/about-the-us">About the U.S.</a>
+<a href="/benefits">Benefits</a>
+<a href="/help-with-bills">Help with Bills</a>
+<a href="/grants">Grants and Loans</a>
+<a href="/food-help">Food Assistance</a>
+<a href="/about-social-security">Social Security Questions</a>
+<a href="/finding-home">Affordable Rental Housing</a>
+<a href="/financial-aid">Financial Aid for Students</a>
+<a href="/military-assistance">Military Programs and Benefits</a>
+<a href="/retirement">Retirement</a>
+<a href="/unemployment">Unemployment Help</a>
+<a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a>
+<a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a>
+<a href="/state-tribal-governments">State, Local, and Tribal Governments</a>
+<a href="/elected-officials">Contact Elected Officials</a>
+<a href="/forms">Forms, by Agency</a>
+<a href="/contact-by-topic">Contact Government by Topic</a>
+<a href="/buy-from-government">Buying from the U.S. Government</a>
+<a href="/about-the-us">About the U.S.</a>
+<a href="/branches-of-government">Branches of the U.S. Government</a>
+<a href="/budget">Budget of the U.S. Government</a>
+<a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a>
+<a href="/job-search">Looking for a New Job</a>
+<a href="/unemployment">Unemployment Help</a>
+<a href="/labor-laws">Labor Laws and Issues</a>
+<a href="/federal-employees">U.S. Government Employees</a>
+<a href="/retirement">Retirement</a>
+<a href="/volunteer">Public Service and Volunteer Opportunities</a>
+<a href="/jobs-careers">Research Career Fields</a>
+<a href="/business">Small Business</a>
+<a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a>
+<a href="/taxes">Taxes</a>
+<a href="/credit-and-debt">Credit and Debt</a>
+<a href="/spend-save-invest">Spending, Saving and Investing</a>
+<a href="/unclaimed-money">Unclaimed Money from the Government</a>
+<a href="/state-lotteries">State Lottery Results</a>
+<a href="/currency">Currency</a>
+<a href="/benefits-grants-loans">Benefits, Grants, Loans</a>
+<a href="/consumer">Consumer Issues</a>
+<a href="/handbook">Download a Copy of the Consumer Action Handbook</a>
+<a href="/housing">Housing</a>
+<a href="/retirement">Retirement</a>
+<a class="usa-button" href="/money">Money and Taxes</a>
+<a href="/travel-abroad">Passports and International Travel</a>
+<a href="/immigration-and-citizenship">Immigration and Citizenship</a>
+<a href="/visas-and-visitors">Visas and Visiting the U.S.</a>
+<a href="/recreation-and-travel">Recreation and Travel within the U.S.</a>
+<a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a>
+<a href="/espanol/" lang="es" xml:lang="es"> Español </a>
+<a href="/unclaimed-money">Find unclaimed money the government owes me</a>
+<a href="/file-taxes">File my taxes</a>
+<a href="/government-jobs">Find a government job</a>
+<a href="/benefits-grants-loans">Find benefits, grants and loans</a>
+<a href="/how-to-use">Learn what you can do on this site</a>
+<a href="#tpcs">All Topics and Services</a>
+<a href="#tpcs"><img src="../images/Icon_Down_Arrow_Blue.png" alt="“All" Topics“></a>
+<a href="/about-the-us" class="topic-flag"> <span class="mocklink">About the U.S.</span> <p>Have a question about the USA? Learn where to find answers to the most requested facts about the United States of America.</p> </a>
+<a href="/benefits-grants-loans" class="topic-benefit"> <span class="mocklink">Benefits, Grants, Loans</span> <p>Learn about government programs that provide financial help for individuals and organizations.</p> </a>
+<a href="/consumer" class="topic-consumer"> <span class="mocklink">Consumer Issues</span> <p>Learn how to be a safe consumer, what to do when a purchase or service goes wrong, and more.</p> </a>
+<a href="/disability-services" class="topic-disability"> <span class="mocklink">Disability Services</span> <p>Find information for people with disabilities.</p> </a>
+<a href="/disasters-and-emergencies" class="topic-bullhorn"> <span class="mocklink">Disasters and Emergencies</span> <p>Learn how to prepare for and recover from disasters and emergencies.</p> </a>
+<a href="/earth-and-environment" class="topic-plant"> <span class="mocklink">Earth and the Environment</span> <p>Find government information on energy, green technology, pollution, wildlife, and more.</p> </a>
+<a href="/education" class="topic-cap"> <span class="mocklink">Education</span> <p>Find government information on education including primary, secondary, and higher education.</p> </a>
+<a href="/agencies" class="topic-agencies"> <span class="mocklink">Government Agencies and Elected Officials</span> <p>Find information for federal, state, and local government agencies and elected officials.</p> </a>
+<a href="/health" class="topic-heart"> <span class="mocklink">Health</span> <p>Find health resources from the government.</p> </a>
+<a href="/housing" class="topic-mortgage"> <span class="mocklink">Housing</span> <p>Get information and services to help with finding and keeping a home.</p> </a>
+<a href="/jobs-and-unemployment" class="topic-job"> <span class="mocklink">Jobs and Unemployment</span> <p>Find out how and where to look for a new job or career, get help if you are unemployed, and more.</p> </a>
+<a href="/laws" class="topic-scales"> <span class="mocklink">Laws and Legal Issues</span> <p>Learn how to report a crime, locate a federal inmate, research common U.S. laws, and file a complaint against the government. </p> </a>
+<a href="/military-and-veterans" class="topic-medal"> <span class="mocklink">Military and Veterans</span> <p>Learn more about help for veterans and service members, joining the military, and more.</p> </a>
+<a href="/money" class="topic-tax"> <span class="mocklink">Money and Taxes</span> <p>Learn about taxes, money the government may owe you, investing, credit help, and more.</p> </a>
+<a href="/business" class="topic-busa"> <span class="mocklink">Small Business</span> <p>Learn the steps to start a small business, get financing help from the government, and more.</p> </a>
+<a href="/travel-and-immigration" class="topic-globe"> <span class="mocklink">Travel and Immigration</span> <p>Learn about visiting, traveling within, and moving to the United States.</p> </a>
+<a href="/voting" class="topic-ballot"> <span class="mocklink">Voting and Elections</span> <p>Find answers to common questions about voting in the United States.</p> </a>
+<a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a>
+<a href="/about">About Us and Site Notices</a>
+<a href="/media">For the Media</a>
+<a href="/developer">For Developers</a>
+<a href="/site-issue-report-form">Report a Website Issue</a>
+<a href="/site-index">Site Index</a>
+<a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a>
+<a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a>
+<a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a>
+<a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a>
+<a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a>
+<a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a>
+<a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a>
+<a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a>
+<a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a>

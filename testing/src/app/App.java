@@ -33,10 +33,53 @@ public class App {
 
 //        w.close();
     	HashSet<String> temp = new HashSet<String>();
-    	HashSet<String> t = parseWeb("https://www.usa.gov",temp);
+    	HashSet<String> t = parseWeb("https://www.usa.gov/federal-employees",temp);
+//    	FileWriter w = new FileWriter("writeTest.txt",true);
+//    	BufferedWriter writer = new BufferedWriter(w);
+//    	writer.write(Jsoup.connect("https://www.usa.gov/federal-employees").get().toString());
+//    	writer.close();
+    	
     	for(String i:t) {
     		System.out.println(i);
     	}
+//    	for(String i:t) {
+//    		System.out.println(i + "  IsHost =>" +isHost(i));
+//    	}
+    	
+//    	String testing = "24324234234https.gov/dd/";
+//    	System.out.println(testing.substring(testing.indexOf("http")));
+    }
+    public static HashSet<String> crawlWeb(HashSet<String> h) throws IOException{
+    	if(h.isEmpty()) {
+    		return null;
+    	}
+    	HashSet<String> temp = new HashSet<String>();
+    	for(String i:h) {
+    		HashSet<String> t = parseWeb(i,temp);
+//    		temp.add(t);
+    		HashSet<String> next = crawlWeb(t);
+    		temp.addAll(next);
+    		temp.addAll(t);
+    	}
+    	return temp;
+    }
+    public static boolean isHost(String web){
+//    	System.out.println(web.length());
+    	if(web.length()>4) {
+//    		System.out.println(web.lastIndexOf('/'));
+    		if(web.lastIndexOf('/') == web.length()-1) {
+    			if(web.charAt(web.length()-5)=='.'){
+    				return true;
+    			}
+//    			System.out.println("line1");
+    		}else{
+    			if(web.charAt(web.length()-4)=='.'){
+    				return true;
+    			}
+//    			System.out.println("line2");
+    		}
+    	}
+    	return false;
     }
     public static HashSet<String> parseWeb(String web, HashSet<String> h) throws IOException {
     	org.jsoup.nodes.Document doc = Jsoup.connect(web).get();
@@ -50,8 +93,8 @@ public class App {
     			if(temp.charAt(0) == '/') {
     				hs.add(web+temp);
 //    				System.out.println(web+temp);
-    			}else {
-    				hs.add(temp);
+    			}else{
+    				hs.add(temp.substring(temp.indexOf("https")));
 //    				System.out.println(temp);
     			}
 //    			System.out.println(t.attr("href"));
@@ -68,7 +111,7 @@ public class App {
     public static String preProcess(String href) {
     	if(href.compareTo("/") == 0) {
     		return null;
-    	}else {
+    	}else{
 	    	for(String i:NON_PARSER) {
 	    		if(href.contains(i)) {
 	    			return null;

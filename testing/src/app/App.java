@@ -2,6 +2,11 @@ package app;
 import java.awt.TextField;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.Vector;
 
 import javax.lang.model.element.Element;
 
@@ -27,26 +32,78 @@ public class App {
 //        IndexWriter w = new IndexWriter(index, config);
 
 //        w.close();
-        //System.out.println("Working");
-        //System.out.println(index);
-        //System.out.println(config);
-        //System.out.println(analyzer);
-    	org.jsoup.nodes.Document doc = Jsoup.connect("https://www.usa.gov/").get();
-    	org.jsoup.nodes.Document doc2 = Jsoup.parse(doc.toString());
-    	FileWriter tester= new FileWriter("writeTest.txt");
-    	BufferedWriter writer = new BufferedWriter(tester);
-//    	String t = "TESTING";
-    	Elements hrefs = doc.select("[href]");
-    	//System.out.println(hrefs);
-    	
-    	for(org.jsoup.nodes.Element t:hrefs) {
-    		System.out.println(t.attr("href"));
-    		writer.write(t.toString()+"\n");
+    	HashSet<String> temp = new HashSet<String>();
+    	HashSet<String> t = parseWeb("https://www.usa.gov",temp);
+    	for(String i:t) {
+    		System.out.println(i);
     	}
-//    	writer.write(doc.toString());
-//    	writer.write(hrefs.toString());
-    	writer.close();
-//    	System.out.println(doc);
     }
-
+    public static HashSet<String> parseWeb(String web, HashSet<String> h) throws IOException {
+    	org.jsoup.nodes.Document doc = Jsoup.connect(web).get();
+    	
+    	Elements hrefs = doc.select("[href]");
+    	HashSet<String> hs = new HashSet<String>();
+    	hs = h;
+    	for(org.jsoup.nodes.Element t:hrefs) {
+    		String temp = preProcess(t.attr("href"));
+    		if(temp!=null) {
+    			if(temp.charAt(0) == '/') {
+    				hs.add(web+temp);
+//    				System.out.println(web+temp);
+    			}else {
+    				hs.add(temp);
+//    				System.out.println(temp);
+    			}
+//    			System.out.println(t.attr("href"));
+    		}
+//    		writer.write(t.toString()+"\n");
+    	}
+//    	System.out.println(hs);
+//    	for(String i:hs) {
+//    		System.out.println(i);
+//    	}
+    	return hs;
+    }
+    final static String[] NON_PARSER = {".png",".ico",".css","#"};
+    public static String preProcess(String href) {
+    	if(href.compareTo("/") == 0) {
+    		return null;
+    	}else {
+	    	for(String i:NON_PARSER) {
+	    		if(href.contains(i)) {
+	    			return null;
+	    		}
+	    	}
+	    	return href;
+    	}
+    }
+    /*
+    public static int distance(int[] a, int b[]){
+    	int sum=0;
+    	for(int i=0;i<a.length;i++) {
+    		sum+= Math.pow(a[i]-b[i],2);
+    	}
+    	return sum;
+    }
+    
+    public static void hashing(String t[]) {
+    	Vector<String> bitArray = new Vector<String>();
+//    	HashMap<String,Integer> weight = new HashMap<String,Integer>();
+    	
+    	for(int i=0;i<t.length;i++) {
+//    		System.out.println("Weight");
+    		int temp = hashing(t[i].toLowerCase())%256;
+    		System.out.print(String.format("%8s",Integer.toBinaryString(temp)).replace(" ", "0"));
+    		System.out.println("   word = "+t[i].toLowerCase());
+    	}
+    }
+    public static int hashing(String t) {
+    	int sum=0;
+    	for(int i=0;i<t.length();i++) {
+    		
+    		sum+= t.charAt(i);
+    	}
+    	return sum;
+    }
+	*/
 }

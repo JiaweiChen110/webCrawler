@@ -1,4 +1,5 @@
 package app;
+
 import java.awt.TextField;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -32,19 +33,29 @@ public class App {
 //        IndexWriter w = new IndexWriter(index, config);
 
 //        w.close();
-    	HashSet<String> temp = new HashSet<String>();
-    	HashSet<String> t = parseWeb("https://www.usa.gov");
+//    	HashSet<String> temp = new HashSet<String>();
+//    	HashSet<String> t = parseWeb("https://www.usa.gov");
     	FileWriter w = new FileWriter("writeTest.txt",true);
     	BufferedWriter writer = new BufferedWriter(w);
 //    	writer.write(Jsoup.connect("https://www.usa.gov").get().toString());
 //    	writer.close();
     	
-    	
-    	
+//    	Thread testing2 = new Thread(new MultiThreads());
     	
     	HashSet<String> tSet = new HashSet<String>();
     	tSet.add("https://www.usa.gov");
-//    	tSet.add("https://www.state.gov");
+    	tSet.add("https://www.state.gov");
+    	for(String i:tSet) {
+    		Thread testing2 = new Thread(new MultiThreads(i));
+    		testing2.start();
+    	}
+    	
+//    	Thread testing2 = new Thread(new MultiThreads("https://www.usa.gov"));
+//		testing2.start();
+    	/*
+    	HashSet<String> tSet = new HashSet<String>();
+    	tSet.add("https://www.usa.gov");
+    	tSet.add("https://www.state.gov");
     	HashSet<String> fSet = crawlWeb(tSet,0);
     	for(String i:fSet) {
 //    		System.out.println(i);
@@ -52,37 +63,22 @@ public class App {
     		writer.newLine();
     	}
     	writer.close();
-//    	tSet.add("https://www.usa.gov");
-//    	tSet.add("https://www.usa.gov");
-//    	for(String i:tSet) {
-//    		System.out.println(i);
-//    		if(isHost(i)) {
-//    			temp = parseWeb(i);
-//    			for(String j:temp) {
-//	    			System.out.println(j);
-//	    		}
-////    			System.out.println("start");
-//    		}
-//    	}
+    	*/
     }
     
     public static HashSet<String> crawlWeb(HashSet<String> h,int max) throws IOException{
-    	if(h == null || max > 2) {
+    	if(h == null || max > 1) {
     		return null;
     	}
-    	System.out.println("t");
     	HashSet<String> temp = new HashSet<String>();
     	int count = max;
+    	count++;
     	for(String i:h) {
-    		count++;
+//    		count++;
     		HashSet<String> parseI = parseWeb(i);
-//    		temp.add(t);
-//    		HashSet<String> next = crawlWeb(t);
     		if(parseI != null) {
     			temp.addAll(parseI);
-//    			temp.remove(i);
     		}
-//    		temp.addAll(t);
     	}
     	HashSet<String> next = crawlWeb(temp,count);
     	HashSet<String> result = new HashSet<String>();
@@ -93,19 +89,15 @@ public class App {
     	return result;
     }
     public static boolean isHost(String web){
-//    	System.out.println(web.length());
     	if(web.length()>4) {
-//    		System.out.println(web.lastIndexOf('/'));
     		if(web.lastIndexOf('/') == web.length()-1) {
     			if(web.charAt(web.length()-5)=='.'){
     				return true;
     			}
-//    			System.out.println("line1");
     		}else{
     			if(web.charAt(web.length()-4)=='.'){
     				return true;
     			}
-//    			System.out.println("line2");
     		}
     	}
     	return false;
@@ -121,29 +113,19 @@ public class App {
     	
     	Elements hrefs = doc.select("[href]");
     	HashSet<String> hs = new HashSet<String>();
-//    	hs = h;
     	for(org.jsoup.nodes.Element t:hrefs) {
     		String temp = preProcess(t.attr("href"));
     		if(temp!=null) {
     			if(temp.charAt(0) == '/') {
     				hs.add(web+temp);
-//    				System.out.println(web+temp);
     			}else{
-//    				System.out.println(temp);
     				int index = temp.indexOf("https");
     				if(index>0) {
     					hs.add(temp.substring(index));
     				}
-//    				System.out.println(temp);
     			}
-//    			System.out.println(t.attr("href"));
     		}
-//    		writer.write(t.toString()+"\n");
     	}
-//    	System.out.println(hs);
-//    	for(String i:hs) {
-//    		System.out.println(i);
-//    	}
     	return hs;
     }
     final static String[] NON_PARSER = {".png",".ico",".css","#"};

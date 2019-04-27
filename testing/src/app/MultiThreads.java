@@ -22,12 +22,12 @@ public class MultiThreads implements Runnable{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-    	BufferedWriter writer = new BufferedWriter(w);
-    	
-    	HashSet<String> tSet = new HashSet<String>();
-    	tSet.add(hLink);
 ////    	tSet.add("https://www.state.gov");
     	try {
+    		BufferedWriter writer = new BufferedWriter(w);
+        	
+        	HashSet<String> tSet = new HashSet<String>();
+        	tSet.add(hLink);
 			HashSet<String> fSet = App.crawlWeb(tSet,0);
 			for(String i:fSet) {
 	//    		System.out.println(i);

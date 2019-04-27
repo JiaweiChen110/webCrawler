@@ -1,7 +1,9 @@
 package app;
 
 import java.awt.TextField;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
@@ -42,13 +44,28 @@ public class App {
     	
 //    	Thread testing2 = new Thread(new MultiThreads());
     	
-    	HashSet<String> tSet = new HashSet<String>();
-    	tSet.add("https://www.usa.gov");
-    	tSet.add("https://www.state.gov");
-    	for(String i:tSet) {
-    		Thread testing2 = new Thread(new MultiThreads(i));
-    		testing2.start();
+//    	HashSet<String> tSet = new HashSet<String>();
+//    	tSet.add("https://www.usa.gov");
+//    	tSet.add("https://www.state.gov");
+//    	for(String i:tSet) {
+//    		Thread testing2 = new Thread(new MultiThreads(i));
+//    		testing2.start();
+//    	}
+    	
+    	FileReader r = new FileReader("writeTest.txt");
+    	BufferedReader reader = new BufferedReader(r);
+    	//reader.readLine()
+    	int count = 0;
+    	while(reader.ready()) {
+    		downloadHTML(reader.readLine(),Integer.toString(count));
+//    		System.out.println(reader.ready());
+//    		System.out.println(reader.readLine());
+    		count++;
     	}
+    	reader.close();
+    	
+//    	Thread testing3 = new Thread(new MultiThreadsDlFile("https://www.u","downloadFiles/testing3.txt"));
+//    	testing3.start();
     	
 //    	Thread testing2 = new Thread(new MultiThreads("https://www.usa.gov"));
 //		testing2.start();
@@ -64,6 +81,14 @@ public class App {
     	}
     	writer.close();
     	*/
+    }
+    
+    public static void downloadHTML(String s, String i) {
+//    	for(String i:s) {
+    	Thread t = new Thread(new MultiThreadsDlFile(s,"downloadFiles/"+"File"+i+".txt"));
+    	t.start();
+//    	}
+    	
     }
     
     public static HashSet<String> crawlWeb(HashSet<String> h,int max) throws IOException{

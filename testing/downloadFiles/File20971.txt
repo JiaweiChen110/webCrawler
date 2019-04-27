@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "37632, 36822, 37587, 211555, 211671, 36737",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "About the U.S.",
+    "TaxLevel3": "History and Historical Documents",
+    "TaxLevel4": "History and Historical Documents",
+    "TaxLevel5": "History and Historical Documents",
+    "TaxLevel6": "History and Historical Documents"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>U.S. History and Historical Documents  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/history"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Discover highlights from American history, including military events and founding documents."> 
+  <meta property="og:url" content="https://www.usa.gov/history"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="U.S. History and Historical Documents | USAGov"> 
+  <meta property="og:description" content="Discover highlights from American history, including military events and founding documents."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10669';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/historia-simbolos-documentos-historicos" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">About the U.S.</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/flag" class="url" onmousedown="_sendEvent('Outbound','/flag','/',0);"> American Flag </a> </span> </li> 
+        <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/statistics" class="url" onmousedown="_sendEvent('Outbound','/statistics','/',0);"> Data and Statistics about the U.S. </a> </span> </li> 
+        <li> <span> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);"> Government Agencies and Elected Officials </a> </span> </li> 
+        <li class="slctd"> <a> <span>History and Historical Documents</span> </a> </li> 
+        <li> <span> <a href="/laws" class="url" onmousedown="_sendEvent('Outbound','/laws','/',0);"> Laws and Legal Issues </a> </span> </li> 
+        <li> <span> <a href="/life-in-the-us" class="url" onmousedown="_sendEvent('Outbound','/life-in-the-us','/',0);"> Learn About Life in the U.S. </a> </span> </li> 
+        <li> <span> <a href="/presidents" class="url" onmousedown="_sendEvent('Outbound','/presidents','/',0);"> Presidents, Vice Presidents, and First Ladies </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>U.S. History and Historical Documents</h1> 
+      <p>Discover highlights from American history, including military events and founding documents.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-37632" onclick="document.getElementById('item-37632').focus();"> American History </a> </li> 
+        <li> <a href="#item-36822" onclick="document.getElementById('item-36822').focus();"> Declaration of Independence </a> </li> 
+        <li> <a href="#item-37587" onclick="document.getElementById('item-37587').focus();"> U.S. Constitution </a> </li> 
+        <li> <a href="#item-211555" onclick="document.getElementById('item-211555').focus();"> Military History and Museums </a> </li> 
+        <li> <a href="#item-211671" onclick="document.getElementById('item-211671').focus();"> Military Memorials and Monuments </a> </li> 
+        <li> <a href="#item-36737" onclick="document.getElementById('item-36737').focus();"> The U.S. National Anthem </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-37632"> 
+      <header> 
+       <h2 id="item-37632">American History</h2> 
+      </header> 
+      <p>The history of the United States is vast and complex, but can be broken down into moments and time periods that divided, unified, and changed the United States into the country it is today:</p>
+      <h3>1700-1799</h3>
+      <ul>
+       <li>The&nbsp;<a href="https://www.archives.gov/research/military/american-revolution">American Revolution</a>&nbsp;(sometimes referred to as the American War of Independence or the Revolutionary War) was a conflict that lasted from 1775-1783 and allowed the original 13 colonies to remain independent from Great Britain.</li>
+       <li>American politician and soldier George Washington became the first president of the United States in 1789, serving two terms.</li>
+       <li>Beginning in Great Britain in the late&nbsp;1790s,&nbsp;the&nbsp;<a href="http://www.loc.gov/teachers/classroommaterials/primarysourcesets/industrial-revolution/">Industrial Revolution</a>&nbsp;eventually made its way to the United States and changed the focus of the U.S. economy and the way it manufactured products.</li>
+      </ul>
+      <h3>1800-1899</h3>
+      <ul>
+       <li>In 1803, President Thomas Jefferson agreed to the <a href="https://history.state.gov/milestones/1801-1829/louisiana-purchase">Louisiana Purchase</a>, successfully adding 530 million acres of land to the United States. The area was purchased from France for $15 million. The following year, President Jefferson assigned&nbsp;Meriwether&nbsp;Lewis (who asked for help from William Clark) to head west and <a href="http://www.archives.gov/education/lessons/lewis-clark/">explore the newly purchased land</a>. It took about a year and a half for the duo to reach the west coast.</li>
+       <li>The <a href="https://www.nps.gov/subjects/warof1812/index.htm">War of 1812</a>&nbsp;resolved outstanding tensions between&nbsp;the United States and Great Britain. The two year war&nbsp;ended&nbsp;British military posts on&nbsp;U.S. soil and British interference with American trade.</li>
+       <li><a href="http://www.civilwar.org/education/history/civil-war-overview/overview.html">The&nbsp;American Civil War</a>&nbsp;divided the United States in two—the Northern States versus the Southern States. The outcome of the four year battle (1861-1865) kept the United States together as one whole nation and ended slavery.</li>
+      </ul>
+      <h3>1900-1999</h3>
+      <ul>
+       <li>On December 17, 1903, brothers <a href="https://airandspace.si.edu/exhibitions/wright-brothers/online/">Wilbur and Orville Wright</a> became the first people to maintain a controlled flight in a powered, heavier-than-air machine. The Wright Flyer only flew for 12 seconds for a distance of 120 feet, but the technology would change the modern world forever.</li>
+       <li>On April 6, 1917, the United States entered&nbsp;<a href="https://theworldwar.org/explore/interactive-wwi-timeline">World War I</a>&nbsp;by declaring war on Germany.</li>
+       <li>After nearly 100 years of protests, demonstrations, and sit-ins, women of the United States were officially <a href="https://www.nps.gov/wori/index.htm">granted the right to vote</a> after the&nbsp;19th&nbsp;Amendment was ratified on August 26, 1920.</li>
+       <li>The worst economic crisis to happen in the United States occurred when the stock market crashed in October 1929, resulting in the&nbsp;<a href="http://www.loc.gov/teachers/classroommaterials/themes/great-depression/">Great Depression</a>. &nbsp;</li>
+       <li><a href="http://www.nationalww2museum.org/history/final/interactive_timeline.html">World War II</a> officially begins in September 1939 after Germany invades Poland. The United States didn’t enter the war until after the Japanese attack on <a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1941/pearl-harbor.html">Pearl Harbor</a> on December 7, 1941.</li>
+       <li>On August 6 and August 9, 1945, the United States dropped an atomic bomb on the Japanese cities of <a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/hiroshima.htm">Hiroshima and Nagasaki</a>, effectively ending World War II.&nbsp;</li>
+       <li>After World War II, an agreement was reached to divide Korea into two parts: a northern half to be controlled by the Soviet Union and a southern half to be controlled by the United States. The division was originally meant as a temporary solution, but the Soviet Union managed to block elections that were held to elect someone to unify to the country. Instead, the Soviet Union sent North Korean troops across the 38th parallel leading to the three-year-long (1950-1953) <a href="https://www.army.mil/koreanwar/">Korean War</a>.&nbsp;</li>
+       <li>From 1954-1968, the <a href="https://www.nps.gov/subjects/civilrights/modern-civil-rights-movement.htm">African-American Civil Rights movement</a> took place, especially in the Southern states. Fighting to put an end to racial segregation and discrimination, the movement resulted in the 1964 <a href="http://www.archives.gov/legislative/features/civil-rights-1964/">Civil Rights Act</a>, the 1965 <a href="http://www.justice.gov/crt/about/vot/intro/intro_b.php">Voting Rights Act</a>, and the 1968 <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">Fair Housing Act</a>.</li>
+       <li>The <a href="https://www.archives.gov/research/vietnam-war">Vietnam War</a> was a nearly 20-year battle (November 1, 1955–April 30, 1975) between North Vietnam and South Vietnam. North Vietnam won the war and Vietnam became a unified country.</li>
+       <li>The <a href="https://airandspace.si.edu/explore-and-learn/topics/apollo/apollo-program/landing-missions/apollo11.cfm">Apollo 11</a> mission (July 16-24, 1969) allowed United States astronauts Neil Armstrong and Edwin “Buzz” Aldrin to become the first humans to walk on the moon’s surface.</li>
+      </ul>
+      <h3>2000-Present</h3>
+      <ul>
+       <li>The terrorist attacks on <a href="https://www.911memorial.org/teach-learn">September 11, 2001</a>, changed the United States forever. Less than a month later (October 7, 2001) the United States began the <a href="https://www.state.gov/r/pa/ei/bgn/5380.htm">War in Afghanistan</a>, which is still happening today.</li>
+       <li>On March 20, 2003, the United States <a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/terrorism/operation-iraqi-freedom.html">invaded and occupied Iraq</a>. The war lasted for more than eight years before it was officially declared over on December 18, 2011.</li>
+       <li>In 2008, Barack Obama became the first African-American to be elected president of the United States.</li>
+      </ul>
+      <h3>Library of Congress Resources</h3>
+      <p><a href="http://www.loc.gov/">The Library of Congress</a> has compiled a <a href="http://memory.loc.gov/ammem/today/today.html">list of historic events</a> for each day of the year, titled "This Day in History." The website is updated daily and visitors can view the previous day's history as well as&nbsp;whatever documents, pictures, or outside information is available for each historical event.&nbsp;</p>
+      <p>The <a href="http://www.loc.gov/topics/americanhistory.php">American History</a> section of the Library of Congress is separated by time period or subject and offers an in-depth look at the history of the United States.&nbsp;</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36822"> 
+      <header> 
+       <h2 id="item-36822">Declaration of Independence</h2> 
+      </header> 
+      <p>The <a href="https://www.archives.gov/founding-docs/declaration">Declaration of Independence</a> is one of the most important documents in the history of the United States.&nbsp;</p>
+      <h3>Fast Facts</h3>
+      <ul>
+       <li>It took <a href="https://www.whitehouse.gov/about-the-white-house/presidents/thomas-jefferson/">Thomas Jefferson</a> 17 days to write the Declaration of Independence.</li>
+       <li>On July 2, 1776, Congress voted to declare independence from Great Britain.</li>
+       <li>On July 4, 1776, Congress voted to accept the Declaration of Independence, marking July 4 as <a href="https://www.usa.gov/life-in-the-us#item-37617">Independence Day</a>.</li>
+      </ul>
+      <p>To learn more, you may want to:</p>
+      <ul>
+       <li><a href="https://www.archives.gov/founding-docs/declaration-transcript">Read the complete text</a> of the Declaration of Independence.</li>
+       <li><a href="https://bookstore.gpo.gov/products/declaration-independence-and-constitution-united-states">Order a printed copy</a>&nbsp;of the document.</li>
+       <li><a href="https://www.usa.gov/federal-agencies/national-archives-and-records-administration">Contact the National Archives and Records Administration</a>.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37587"> 
+      <header> 
+       <h2 id="item-37587">U.S. Constitution</h2> 
+      </header> 
+      <span class="fea-img-cont col-md-6 col-sm-12"> <p><img class="fea-img" src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/Constitution_Pg1of4_AC.jpg" alt=""></p> </span> 
+      <p>The foundation of the American government, its purpose, form, and structure, are in the <a href="https://www.archives.gov/founding-docs/constitution">Constitution of the United States</a>. The <a href="https://history.state.gov/milestones/1784-1800/convention-and-ratification">Constitutional Convention</a> adopted the Constitution on September 17, 1787. &nbsp;</p>
+      <p>The <a href="https://www.archives.gov/founding-docs/bill-of-rights">Bill of Rights</a> is the first 10 amendments to the Constitution. It guarantees greater constitutional protection for individual liberties and lists specific prohibitions on government power. There are <a href="http://www.archives.gov/founding-docs/amendments-11-27">27 Constitutional Amendments</a> in all. The 27th Amendment, which was originally proposed&nbsp;in 1789, was not ratified until 1992.&nbsp;</p>
+      <h3>Where to View the Constitution</h3>
+      <p>You can view the original, parchment copy of the Constitution at the <a href="http://www.archives.gov/dc-metro/washington/">National Archives Building</a>. You can also <a href="https://catalog.archives.gov/id/1667751">view an online copy of the U.S. Constitution</a> or <a href="https://bookstore.gpo.gov/products/constitution-united-states-and-declaration-independence-pocket-edition">order a printed copy of the Constitution.</a></p> 
+      <div class="embed"> 
+      </div> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211555"> 
+      <header> 
+       <h2 id="item-211555">Military History and Museums</h2> 
+      </header> 
+      <h3>Military History</h3>
+      <p>The <a href="http://www.archives.gov/research/alic/reference/military/american-military-history.html">United States Armed Forces</a> date to 1775, when America needed a defense force to protect the original 13 colonies from a British invasion. Today, there are five branches:</p>
+      <ul>
+       <li>The <a href="http://www.army.mil/">United States Army</a> is the oldest (established June 14, 1775) and largest of the five branches. Soldiers are responsible for performing land-based military operations.</li>
+       <li>The <a href="http://www.navy.mil/">United States Navy</a> mainly operates from the waters (seas and oceans) providing protection both in the water and in the air.</li>
+       <li>The modern-day&nbsp;<a href="http://www.af.mil/">United States Air Force</a> is the youngest of the five branches (established September 18, 1947). Before the modern-day Air Force was created, it was an arm of the U.S. Army, dating to 1907.&nbsp;Airmen are responsible for carrying out aerial military operations.</li>
+       <li>The&nbsp;<a href="http://www.marines.mil/">United States Marine Corps</a>&nbsp;is the smallest of the four branches under the Department of Defense. Marines provide both land and sea support to the Army, Navy, Air Force, and, in times of war, Coast Guard.</li>
+       <li>The <a href="https://www.uscg.mil/">United States Coast Guard</a> is the only branch that falls under the Department of Homeland Security. The Coast Guard is multi-functional, with many peacetime missions. <a href="https://www.history.uscg.mil/Home/Missions/">Coast Guard missions</a> include: maritime search and rescue, maritime law enforcement, marine environmental protection, and ports, waterways, and coastal security.&nbsp;</li>
+      </ul>
+      <h3>Military Museums</h3>
+      <p>Military museums offer visitors insight into the history, defining moments, and current status of the branches of the U.S. Armed Forces:</p>
+      <ul>
+       <li>The U.S. Army does not have an official museum but there are interactive exhibits&nbsp;<a href="http://www.history.army.mil/">available online</a>&nbsp;as well as smaller,&nbsp;<a href="http://www.history.army.mil/museums/directory.html">more focused museums</a>&nbsp;located across the country. &nbsp; &nbsp; &nbsp;
+        <ul>
+         <li>There is a <a href="https://history.army.mil/museums/nmusa.html">plan in progress</a> to develop a national museum in the Washington, DC, area.&nbsp;</li>
+        </ul></li>
+       <li>The <a href="http://www.usmcmuseum.com/index.asp">National Museum of the Marine Corps</a> is located next to the Marine Corps Base in Quantico, Virginia, and features exhibits on the actions of Marines during World Wars I and&nbsp;II, the Korean War, and the Vietnam War.</li>
+       <li>Located in downtown Washington, DC, the&nbsp;<a href="https://www.history.navy.mil/content/history/museums/nmusn.html">National Museum of the U.S. Navy</a>&nbsp;has exhibits on different navigational tools used by the Navy as well as artifacts captured by the Navy.</li>
+       <li>The&nbsp;<a href="http://www.nationalmuseum.af.mil/">National Museum of the U.S. Air Force</a>&nbsp;is located at Wright-Patterson Air Force Base in Ohio and features a collection of aircraft used throughout the history of the Air Force.</li>
+       <li>The&nbsp;<a href="http://www.history.uscg.mil/Museum/">United States Coast Guard Museum</a>&nbsp;is located on the campus of the Coast Guard Academy in New London, Connecticut, and features artifacts from the nearly 230-year history of the Coast Guard.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211671"> 
+      <header> 
+       <h2 id="item-211671">Military Memorials and Monuments</h2> 
+      </header> 
+      <p>Across the United States, military memorials and monuments commemorate wars, battles, and those who lived and served during those times. Popular points of interest by each major war include:</p>
+      <h3>American Revolution:</h3>
+      <ul>
+       <li><a href="http://www.nps.gov/vafo/index.htm">Valley Forge National Historical Park</a> is located in Pennsylvania and is a reminder of the sacrifices made by soldiers at one of the best-known locations from the American Revolution.</li>
+       <li><a href="http://www.nps.gov/adam/index.htm">Adams National Historic Park</a> is located in Massachusetts and offers visitors a chance to see the birthplace of Presidents John Adams and John Quincy Adams.</li>
+       <li><a href="http://www.nps.gov/morr/index.htm">Morristown National Historic Park</a> in New Jersey is a memorial to those members of George Washington’s army who survived an unusually cold winter.</li>
+      </ul>
+      <h3>War of 1812:</h3>
+      <ul>
+       <li>The&nbsp;<a href="http://ussconstitutionmuseum.org/">USS Constitution Museum</a>,&nbsp;located in Massachusetts, provides interactive exhibits on life on the frigate as well as how the ship handled different battles.</li>
+       <li><a href="http://www.nps.gov/fomc/index.htm">Fort McHenry</a>&nbsp;in Baltimore, Maryland, is the location that inspired&nbsp;the writing of the&nbsp;<a href="http://www.usa.gov/history#item-36737">Star-Spangled Banner</a>.&nbsp;</li>
+      </ul>
+      <h3>Civil War:</h3>
+      <ul>
+       <li>The <a href="http://www.afroamcivilwar.org/index.php">African American Civil War Memorial and Museum</a> in Washington, DC, has collections and exhibits to help visitors remember the African Americans who fought in the Civil War.</li>
+       <li>The National Park Service has an <a href="http://www.nps.gov/civilwar/soldiers-and-sailors-database.htm">online Civil War database</a> that contains information on the soldiers and sailors who fought in the Civil War.</li>
+       <li><a href="http://www.nps.gov/frsp/index.htm">Fredericksburg and&nbsp;Spotsylvania National Military Park</a> in Virginia reminds visitors of some of the Civil War’s most devastating battles.</li>
+       <li><a href="http://www.nps.gov/gett/index.htm">Gettysburg National Military Park</a> is located on the site of the Civil War’s deadliest battle—and is often referred to as the turning point of the entire war.</li>
+       <li>The <a href="http://www.civilwarmed.org/">National Museum of Civil War Medicine</a> in Maryland has exhibits on those who volunteered to take care of the sick and&nbsp;wounded during the Civil War.</li>
+      </ul>
+      <h3>World War I:</h3>
+      <ul>
+       <li>President's Park in Washington, DC, includes monuments to the thousands of fallen American soldiers of the&nbsp;<a href="https://www.nps.gov/whho/learn/historyculture/first-division-monument.htm">First</a>&nbsp;and&nbsp;<a href="https://www.nps.gov/whho/planyourvisit/explore-the-southern-trail.htm#CP_JUMP_2801870">Second</a> Infantry Divisions.</li>
+       <li>The <a href="https://theworldwar.org/">National World War I Museum and Memorial</a>&nbsp;in Kansas City, Missouri, has various artifacts from the war—including uniforms, tanks and weapons, and illustrations, political cartoons and soldiers' drawings created during the Great War.</li>
+      </ul>
+      <h3>World War II:</h3>
+      <ul>
+       <li>The <a href="http://www.nps.gov/gwmp/learn/historyculture/usmcwarmemorial.htm">US Marine Corps War Memorial</a>, also known as the Iwo Jima Memorial, is located in Virginia near <a href="http://www.arlingtoncemetery.mil/">Arlington National Cemetery</a>.</li>
+       <li>The <a href="http://www.nps.gov/valr/index.htm">World War II Valor in the Pacific National Monument</a>, near Pearl Harbor in Honolulu, Hawaii, includes the USS Arizona Memorial and exhibits on events that occurred in the Pacific Theater during the war.</li>
+       <li>The <a href="http://www.nps.gov/wwii/index.htm">National WW II Memorial</a> in Washington, DC, is a tribute to those who served during the war in battle and at home.</li>
+      </ul>
+      <h3>Korean War:</h3>
+      <ul>
+       <li>The <a href="http://www.nps.gov/kowa/index.htm">Korean War Veterans Memorial</a>&nbsp;depicts those who fought in the three-year war.</li>
+      </ul>
+      <h3>Vietnam War:</h3>
+      <ul>
+       <li>In Washington, DC, the <a href="http://www.nps.gov/vive/index.htm">Vietnam Veterans Memorial</a> has the names of the 58,000 Americans who died during the conflict etched into the walls of the monument.</li>
+      </ul>
+      <p>Visit the <a href="http://www.nps.gov/findapark/index.htm">National Park Service</a> to search for more military&nbsp;memorials and monuments located&nbsp;throughout the United States.&nbsp;</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36737"> 
+      <header> 
+       <h2 id="item-36737">The U.S. National Anthem</h2> 
+      </header> 
+      <p>The <a href="http://amhistory.si.edu/starspangledbanner/">Star-Spangled Banner</a> is the <a href="http://blogs.loc.gov/music/2010/03/our-national-anthem/">national anthem</a> of the United States of America. To celebrate a victory over British forces during the War of 1812,&nbsp;U.S. soldiers raised a large&nbsp;American flag at Fort McHenry in Baltimore, Maryland, on September 14, 1814.&nbsp;Inspired by those events, Francis Scott Key wrote a poem called "Defence of Fort M'Henry," which eventually became the Star Spangled Banner and the&nbsp;United States national anthem.&nbsp;</p> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/history&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=U.S. History and Historical Documents https://www.usa.gov/history"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=U.S. History and Historical Documents&amp;body=https://www.usa.gov/history"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: November 9, 2018</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>  
+ </body>
+</html>

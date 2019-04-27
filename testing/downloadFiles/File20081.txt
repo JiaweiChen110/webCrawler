@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "37317, 213446, 36527, 213545",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Money and Taxes",
+    "TaxLevel3": "Currency",
+    "TaxLevel4": "Currency",
+    "TaxLevel5": "Currency",
+    "TaxLevel6": "Currency"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>United States Currency  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/currency"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn about American money."> 
+  <meta property="og:url" content="https://www.usa.gov/currency"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="United States Currency | USAGov"> 
+  <meta property="og:description" content="Learn about American money."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10868';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/money" class="url" onmousedown="_sendEvent('Outbound','/money','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Money and Taxes</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/benefits-grants-loans" class="url" onmousedown="_sendEvent('Outbound','/benefits-grants-loans','/',0);"> Benefits, Grants, Loans </a> </span> </li> 
+        <li> <span> <a href="/consumer" class="url" onmousedown="_sendEvent('Outbound','/consumer','/',0);"> Consumer Issues </a> </span> </li> 
+        <li> <span> <a href="/credit-and-debt" class="url" onmousedown="_sendEvent('Outbound','/credit-and-debt','/',0);"> Credit and Debt </a> </span> </li> 
+        <li class="slctd"> <a> <span>Currency</span> </a> </li> 
+        <li> <span> <a href="/handbook" class="url" onmousedown="_sendEvent('Outbound','/handbook','/',0);"> Download a Copy of the Consumer Action Handbook </a> </span> </li> 
+        <li> <span> <a href="/housing" class="url" onmousedown="_sendEvent('Outbound','/housing','/',0);"> Housing </a> </span> </li> 
+        <li> <span> <a href="/retirement" class="url" onmousedown="_sendEvent('Outbound','/retirement','/',0);"> Retirement </a> </span> </li> 
+        <li> <span> <a href="/spend-save-invest" class="url" onmousedown="_sendEvent('Outbound','/spend-save-invest','/',0);"> Spending, Saving and Investing </a> </span> </li> 
+        <li> <span> <a href="/state-lotteries" class="url" onmousedown="_sendEvent('Outbound','/state-lotteries','/',0);"> State Lottery Results </a> </span> </li> 
+        <li> <span> <a href="/taxes" class="url" onmousedown="_sendEvent('Outbound','/taxes','/',0);"> Taxes </a> </span> </li> 
+        <li> <span> <a href="/unclaimed-money" class="url" onmousedown="_sendEvent('Outbound','/unclaimed-money','/',0);"> Unclaimed Money from the Government </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>United States Currency</h1> 
+      <p>Learn about U.S. paper and coin money, or learn how to convert between international currencies.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-37317" onclick="document.getElementById('item-37317').focus();"> American Money </a> </li> 
+        <li> <a href="#item-213446" onclick="document.getElementById('item-213446').focus();"> Video: How to Authenticate U.S. Currency </a> </li> 
+        <li> <a href="#item-36527" onclick="document.getElementById('item-36527').focus();"> Currency Exchange </a> </li> 
+        <li> <a href="#item-213545" onclick="document.getElementById('item-213545').focus();"> Video: Field Trip to the Money Factory </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-37317"> 
+      <header> 
+       <h2 id="item-37317">American Money</h2> 
+      </header> 
+      <p>The United States issues paper currency and coins to pay for purchases, taxes, and debts.</p>
+      <h3>Paper Money</h3>
+      <p>American paper currency is issued in several <a href="http://www.moneyfactory.gov/uscurrency.html">denominations</a>: $1, $2, $5, $10, $20, $50, and $100. The Bureau of Engraving and Printing manufactures paper money. It also <a href="https://www.moneyfactory.gov/hmimdesigning.html">redesigns money</a>, with new appearances and&nbsp;enhanced <a href="https://www.uscurrency.gov/denominations">security features</a>&nbsp;to prevent counterfeiting. You can <a href="http://www.moneyfactorystore.gov/">purchase commemorative or bulk versions of American currency</a> through the Bureau's Money Store.</p>
+      <p>The United States no longer issues bills in larger denominations, such as $500,&nbsp;$1,000, $5,000, and $10,000&nbsp;bills. However, they are still legal tender and&nbsp;may still be in circulation.&nbsp;</p>
+      <h3>Coins</h3>
+      <p>The United States issues several denominations, with the most common being: 1¢, 5¢, 10¢, 25¢, 50¢, and $1. The U.S. Mint is responsible for manufacturing and circulating coins to pay for goods and services. It also issues <a href="http://catalog.usmint.gov/shop/gift-ideas/">collectible</a> and <a href="http://catalog.usmint.gov/coins/commemoratives/">commemorative coins</a> that honor a person, place, or event and are available for <a href="http://catalog.usmint.gov/">purchase</a>.</p>
+      <h3>Mutilated Money</h3>
+      <p>If you have paper money that is extremely&nbsp;damaged, you can <a href="http://www.bep.gov/services/currencyredemption.html">redeem it</a> with the Bureau of Engraving and Printing. Examples of damaged paper money include bills that are less than one half of the bill, or in such a condition that you're unable to tell the denomination of the bill. If you have paper money that is dirty, defaced, torn or more than half of the original size, you can take it to your local bank to exchange it for a bill that is in better shape.</p>
+      <p>You can <a href="https://www.usmint.gov/news/consumer-alerts/mutilated-coin-program">redeem bent or partial coins</a> through the Mutilated Coin Redemption Program.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213446"> 
+      <header> 
+       <h2 id="item-213446">Video: How to Authenticate U.S. Currency</h2> 
+      </header> 
+      <p>Learn how to use the security features in the design of U.S. paper money. </p> 
+      <div class="embed"> 
+       <div style="position:relative;height:0;padding-bottom:56.25%">
+        <iframe src="https://www.youtube.com/embed/Ybt04VtOmzE?ecver=2" title="How to Authenticate U.S. Currency" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
+       </div> 
+      </div> 
+      <article role="complementary" aria-labelledby="amendment-b-213446"> 
+       <div class="usa-accordion-bordered"> 
+        <ul> 
+         <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide the Video Transcript" data-initialtext="Show the Video Transcript" aria-expanded="false" aria-controls="amendment-b-213446" aria-labelledby="Video: How to Authenticate U.S. Currency">Show the Video Transcript</button> 
+          <div id="amendment-b-213446" class="usa-accordion-content" aria-hidden="true"> 
+           <p>0:00 As a regular handler of cash you can avoid accepting counterfeit notes by</p>
+           <p>0:05 becoming familiar with the security features in US currency. All you need to do</p>
+           <p>0:10 is feel the paper, tilt the note, and check with light.</p>
+           <p>0:14 Let's take a look at some easy to use security features in the $20 note. You'll</p>
+           <p>0:19 also find these features on other current style denominations. Feel the</p>
+           <p>0:24 paper, move your finger across the note. It should feel slightly rough to the</p>
+           <p>0:28 touch as a result of the printing process and the unique composition of the</p>
+           <p>0:32 paper. Tilt the note.&nbsp;Denominations $10 and higher have color shifting ink in the</p>
+           <p>0:37 numeral on the lower right corner of the note. On the current style of notes, the color</p>
+           <p>0:42 should change from copper to green. The current style $100 note also includes</p>
+           <p>0:48 two new security features that you can check by tilting the note; the color</p>
+           <p>0:52 shifting bell in the inkwell and the 3d security ribbon. The 3d security ribbon</p>
+           <p>0:57 contains images of the bells and 100s that shift as you tilt the note. Check</p>
+           <p>1:02 with light. Hold the note to light to check the watermark and security thread</p>
+           <p>1:06 which are incorporated into denominations five dollars and higher.</p>
+           <p>1:09 The watermark and security thread should be visible from both sides of the note when</p>
+           <p>1:14 held to light. For denominations ten dollars and higher, the watermark matches</p>
+           <p>1:19 the portrait on the face of the banknote. The most recent five-dollar note has two</p>
+           <p>1:23 watermarks both of the numeral five. The security thread appears in a different</p>
+           <p>1:28 location for each denomination and glows a unique color when exposed to UV light.</p>
+           <p>1:32 To learn more about authenticating banknotes explore the interactive notes</p>
+           <p>1:38 and training module on uscurrency.gov.</p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </article> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36527"> 
+      <header> 
+       <h2 id="item-36527">Currency Exchange</h2> 
+      </header> 
+      <p>Each country has its own currency or monetary system for buying and selling products and services. The exchange rate between two countries tells you the price you pay to buy another country's currency. When you travel internationally, you will want to have some of that country's currency to buy products or services.&nbsp;</p>
+      <h3>Exchanging Currency</h3>
+      <p>Research the costs and process of purchasing currency for a&nbsp;foreign country:</p>
+      <ul>
+       <li>Use online&nbsp;currency conversion tools&nbsp;to compare the value of your country's currency with the value of other countries' currencies. Each week, the&nbsp;<a href="http://www.federalreserve.gov/releases/h10/current/">Federal Reserve Board</a>&nbsp;lists&nbsp; the&nbsp;currency value of over 20 countries against the value of the U.S. dollar. The rates are not in real time.&nbsp;</li>
+       <li>Check with local banks to learn how to buy currency for another country.</li>
+       <li>Use currency exchange booths, exchange vending machines, and ATMs at international airports or train stations. These booths may charge a fee for the exchange service.</li>
+      </ul>
+      <p>If you plan to use a credit card or ATM card abroad, the exchange rate may be different than the rates at currency exchange booths.</p>
+      <h3>Cash Limits When Traveling Abroad or Entering the U.S.</h3>
+      <ul>
+       <li>Look up the&nbsp;<a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html">country or countries you plan to visit</a>&nbsp;for their currency guidelines and country information.</li>
+       <li>Find out if you must <a href="https://help.cbp.gov/app/answers/detail/a_id/195/~/currency-%2F-monetary-instruments---amount-that-can-be-brought-into-or-leave-the">declare the amount of money</a> you take out of the United States.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213545"> 
+      <header> 
+       <h2 id="item-213545">Video: Field Trip to the Money Factory</h2> 
+      </header> 
+      <p>Meet Brian, a designer and Dixie, an engraver. Learn about their jobs and how money is made. Here's a <a href="/money-factory-lesson-plan">lesson plan</a>.</p> 
+      <div class="embed"> 
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/-IBHbe-t-X4" frameborder="0" title="Watch the video" scrolling="auto"> &lt;a href="https://www.youtube.com/watch?v=-IBHbe-t-X4&amp;feature=relmfu"&gt;Field Trip to the Money Factory Video&lt;/a&gt; &amp;nbsp; </iframe> 
+      </div> 
+      <article role="complementary" aria-labelledby="amendment-b-213545"> 
+       <div class="usa-accordion-bordered"> 
+        <ul> 
+         <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide the Video Transcript" data-initialtext="Show the Video Transcript" aria-expanded="false" aria-controls="amendment-b-213545" aria-labelledby="Video: Field Trip to the Money Factory">Show the Video Transcript</button> 
+          <div id="amendment-b-213545" class="usa-accordion-content" aria-hidden="true"> 
+           <p>Narrator:<br>It takes one person to spend money, but many people to create money. These are the people from the Bureau of Engraving and Printing, also known as the Money Factory.</p>
+           <p>Meet Brian. He's one of the Banknote Designers at the Bureau of Engraving and Printing.</p>
+           <p>Brian Thompson, Banknote Designer:<br>My job is to design&nbsp;<a href="https://www.uscurrency.gov/denominations" style="color: rgb(89, 89, 89);">United States currency.</a></p>
+           <p>One thing about being a bank note designer is it's 98% thinking. You have to think about what you're going to do and think about what's going to work when it gets on the press. The easiest approach when designing, it's a big puzzle. You take different pieces and aspects of America or different things and piece it together almost like one united, almost like a story.</p>
+           <p>Different icons, such as the eagle, because I know we hand draw those and to end up seeing those on a note is pretty awesome, because you know, it's like your artwork is all over the world.</p>
+           <p>Narrator:<br>Once the design team has finalized the design, steel plates need to be created for the printing press.</p>
+           <p>This is Dixie. She's a script engraver and puts the finalized design into steel.</p>
+           <p>Dixie March, Script Engraver:<br>If you notice your money it has lettering on it and it also has numerals on it to denote the denomination. While we have designers that pick up and make designs, my job is to interpret their designs in steel.</p>
+           <p>Sitting and cutting script, because it's very rhythmical. You're just looking in your die through your glass and twirling the die around and cutting it.</p>
+           <p>There's not too many artists that could say that they've had their work replicated billions of times.</p>
+           <p>Narrator:<br>Once the plates are created, the&nbsp;<a href="https://www.uscurrency.gov/life-cycle/journey-circulation" style="color: rgb(89, 89, 89);">money starts being printed.</a>&nbsp;Blank currency sheets are brought in. First, the background images are printed. Then presses print the backs of the notes and then the faces of the notes. The final step is the printing of the serial number and&nbsp;<a href="https://www.treasury.gov/about/role-of-treasury/Pages/default.aspx" style="color: rgb(89, 89, 89);">Treasury</a>&nbsp;and Federal Reserve seals.</p>
+           <p>Once the bills are printed, they're cut and packaged into "bricks." The completed loads are transferred and securely stored in the Federal Reserve Vault.</p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </article> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/currency&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=United States Currency https://www.usa.gov/currency"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=United States Currency&amp;body=https://www.usa.gov/currency"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: February 26, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

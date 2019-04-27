@@ -1,0 +1,629 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "212313, 213279, 37277, 212374, 35692, 36792, 35137, 35102",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Benefits, Grants, Loans",
+    "TaxLevel3": "Social Security Questions",
+    "TaxLevel4": "Social Security Questions",
+    "TaxLevel5": "Social Security Questions",
+    "TaxLevel6": "Social Security Questions"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Top Questions About Social Security  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/about-social-security"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Find answers to common questions about Social Security, including retirement and disability benefits, how to get, replace, or correct your Social Security card, and more. 
+"> 
+  <meta property="og:url" content="https://www.usa.gov/about-social-security"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Top Questions About Social Security | USAGov"> 
+  <meta property="og:description" content="Find answers to common questions about Social Security, including retirement and disability benefits, how to get, replace, or correct your Social Security card, and more. 
+"> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10679';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/seguro-social" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/benefits-grants-loans" class="url" onmousedown="_sendEvent('Outbound','/benefits-grants-loans','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Benefits, Grants, Loans</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/finding-home" class="url" onmousedown="_sendEvent('Outbound','/finding-home','/',0);"> Affordable Rental Housing </a> </span> </li> 
+        <li> <span> <a href="/benefits" class="url" onmousedown="_sendEvent('Outbound','/benefits','/',0);"> Benefits </a> </span> </li> 
+        <li> <span> <a href="/financial-aid" class="url" onmousedown="_sendEvent('Outbound','/financial-aid','/',0);"> Financial Aid for Students </a> </span> </li> 
+        <li> <span> <a href="/food-help" class="url" onmousedown="_sendEvent('Outbound','/food-help','/',0);"> Food Assistance </a> </span> </li> 
+        <li> <span> <a href="/grants" class="url" onmousedown="_sendEvent('Outbound','/grants','/',0);"> Grants and Loans </a> </span> </li> 
+        <li> <span> <a href="/help-with-bills" class="url" onmousedown="_sendEvent('Outbound','/help-with-bills','/',0);"> Help with Bills </a> </span> </li> 
+        <li> <span> <a href="/military-assistance" class="url" onmousedown="_sendEvent('Outbound','/military-assistance','/',0);"> Military Programs and Benefits </a> </span> </li> 
+        <li> <span> <a href="/retirement" class="url" onmousedown="_sendEvent('Outbound','/retirement','/',0);"> Retirement </a> </span> </li> 
+        <li class="slctd"> <a> <span>Social Security Questions</span> </a> </li> 
+        <li> <span> <a href="/unemployment" class="url" onmousedown="_sendEvent('Outbound','/unemployment','/',0);"> Unemployment Help </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Top Questions About Social Security</h1> 
+      <p>Find answers to common questions about Social Security, including retirement and disability benefits, how to get, replace, or correct your Social Security card, and more. </p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-212313" onclick="document.getElementById('item-212313').focus();"> Social Security and How It Works </a> </li> 
+        <li> <a href="#item-213279" onclick="document.getElementById('item-213279').focus();"> Social Security Retirement Benefits Planner </a> </li> 
+        <li> <a href="#item-37277" onclick="document.getElementById('item-37277').focus();"> Get, Replace, or Correct a Social Security Card </a> </li> 
+        <li> <a href="#item-212374" onclick="document.getElementById('item-212374').focus();"> SSA Benefits for U.S. Citizens Overseas </a> </li> 
+        <li> <a href="#item-35692" onclick="document.getElementById('item-35692').focus();"> Get Proof of Social Security Income </a> </li> 
+        <li> <a href="#item-36792" onclick="document.getElementById('item-36792').focus();"> Government Checks and Payments </a> </li> 
+        <li> <a href="#item-35137" onclick="document.getElementById('item-35137').focus();"> Report the Death of a Social Security or Medicare Beneficiary </a> </li> 
+        <li> <a href="#item-35102" onclick="document.getElementById('item-35102').focus();"> Set Up Direct Deposit for Your Federal Benefits </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-212313"> 
+      <header> 
+       <h2 id="item-212313">Social Security and How It Works</h2> 
+      </header> 
+      <h3>What’s Social Security?</h3>
+      <p>Social Security is a federal government program that provides a source of income for you or your legal dependents (spouse, children, or parents) if you qualify for benefits. You also need a Social Security number to get a job.</p>
+      <p>Find how to apply to get a <a href="http://www.socialsecurity.gov/ssnumber/">Social Security number or to replace your Social Security card</a>.</p>
+      <h3>How Do Benefits Work and How Can I Qualify?</h3>
+      <p>While you work, you pay Social Security taxes. This tax money goes into a trust fund that pays benefits to those who are currently retired, to people with disabilities, and to the surviving spouses and children of workers who have died. Each year you work, you’ll get credits to help you become eligible for benefits when it’s time for you to retire. Find all the benefits <a href="https://www.ssa.gov/">Social Security Administration (SSA) offers</a>.</p>
+      <h4>There are four main types of benefits that the SSA offers:</h4>
+      <ul>
+       <li><p><a href="https://www.ssa.gov/retire/index.html">Retirement benefits</a></p></li>
+       <li><p><a href="https://www.ssa.gov/planners/disability/">Disability benefits</a></p></li>
+       <li><p><a href="https://www.ssa.gov/planners/survivors/">Benefits for spouses or other survivors of a family member who's passed</a></p></li>
+       <li><p><a href="https://www.ssa.gov/ssi/text-eligibility-ussi.htm">Supplemental Security Income (SSI) </a></p></li>
+      </ul>
+      <h3>How to Open a “my Social Security” Account</h3>
+      <p>If you receive or will receive Social Security benefits, you may want to open a&nbsp;<a href="http://www.socialsecurity.gov/myaccount/">"my Social Security" account</a>. This online account is a service from the SSA that allows you to keep track of and manage your SSA benefits, and allows you to make changes to your Social Security record.</p>
+      <h3>How to Find More Help</h3>
+      <p>If you have specific questions about your Social Security benefits, you can review the <a href="https://faq.ssa.gov/en-US/">Social Security Administration’s frequently asked questions</a> or <a href="https://www.ssa.gov/agency/contact/">contact Social Security Administration directly</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213279"> 
+      <header> 
+       <h2 id="item-213279">Social Security Retirement Benefits Planner</h2> 
+      </header> 
+      <p>How much Social Security income you’ll receive depends on your earnings over your lifetime, the age at which you'll begin receiving benefits, and whether you'll be eligible to receive a spouse’s benefit instead of your own.</p>
+      <p>You can use <a href="https://www.ssa.gov/planners/retire/">Social Security’s retirement benefits planner</a> to:</p>
+      <ul>
+       <li><p>Estimate your benefits at each age, from 62 (the earliest you can receive them) to 70 (when you hit your maximum amount)</p></li>
+       <li><p>Apply for retirement benefits</p></li>
+       <li><p>Learn about earning limits if you plan to work while receiving Social Security benefits.</p></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37277"> 
+      <header> 
+       <h2 id="item-37277">Get, Replace, or Correct a Social Security Card</h2> 
+      </header> 
+      <h3><strong>What is a Social Security Card?</strong></h3>
+      <p>Your Social Security card is an important piece of identification that you'll need to get a job and collect Social Security and other government benefits.</p>
+      <p>When you apply for a Social Security number (SSN), the Social Security Administration (SSA) will assign you a nine-digit number, which is the same number printed on the Social Security card that SSA will issue you. If you change your name, you will need to get a corrected card.</p>
+      <h3>How to Get a Social Security Card</h3>
+      <ol>
+       <li><p><strong>Gather your </strong><strong>documents</strong><strong>—</strong>Learn<a href="http://www.socialsecurity.gov/ssnumber/ss5doc.htm"> what documents you'll need</a> to get an original, replacement, or corrected Social Security card, whether it's for a child or adult, U.S. citizen or noncitizen.</p></li>
+       <li><p><strong>Complete your </strong><strong>application</strong><strong>—</strong>Read the instructions for and<a href="http://www.socialsecurity.gov/forms/ss-5.pdf"> fill out an application</a>&nbsp;for a new, replacement, or corrected card.</p></li>
+       <li><p><strong>Mail your application—</strong>Print your application and find out<a href="https://secure.ssa.gov/ICON/main.jsp"> where to take it in person or mail it</a>.</p></li>
+      </ol>
+      <h3>Getting a Social Security Number for a New Baby</h3>
+      <h4><strong>When to Get a Social Security Number for Your Child</strong></h4>
+      <p>The easiest way to get a Social Security number for your child is at the hospital after they are born and when you give information for your child’s birth certificate.</p>
+      <p>If you wait to apply for a number at a Social Security office, there may be delays while SSA verifies your child’s birth certificate. Processing times average about two weeks. See <a href="https://faq.ssa.gov/en-us/Topic/article/KA-01969">SSA’s frequently asked questions</a>&nbsp;for an estimate for your state. Learn more with the<a href="http://www.socialsecurity.gov/pubs/EN-05-10023.pdf"> Social Security Numbers for Children publication</a>.</p>
+      <p>If you want to claim your child as a dependent on your income tax return, open a bank account in their name, get medical coverage for them, or apply for government services for them, they will need their own Social Security number.</p>
+      <h3><strong>Apply for a Replacement Social Security Card Online</strong></h3>
+      <p>A new feature on the SSA website allows you to apply for a replacement Social Security card online via your <a href="https://www.ssa.gov/myaccount/">my Social Security account.</a></p>
+      <p>To apply for a replacement card online, you must:&nbsp;</p>
+      <ul>
+       <li>Be a U.S. citizen age 18 or older with a U.S. mailing address (this includes APO, FPO and DPO addresses)</li>
+       <li>Not be requesting a name change or any other change to your card</li>
+       <li>Have a valid driver's license or a state-issued identification card from one of the following:&nbsp;
+        <ul>
+         <li>Arizona (driver's license only)</li>
+         <li>Arkansas</li>
+         <li>California</li>
+         <li>Colorado</li>
+         <li>Delaware (driver's license only)</li>
+         <li>District of Columbia (driver's license only)&nbsp;</li>
+         <li>Florida</li>
+         <li>Georgia</li>
+         <li>Idaho (driver's license only)</li>
+         <li>Illinois</li>
+         <li>Indiana</li>
+         <li>Iowa</li>
+         <li>Kentucky</li>
+         <li>Louisiana</li>
+         <li>Maine</li>
+         <li>Maryland</li>
+         <li>Massachusetts</li>
+         <li>Michigan</li>
+         <li>Mississippi</li>
+         <li>Missouri</li>
+         <li>Montana</li>
+         <li>Nebraska</li>
+         <li>New Mexico</li>
+         <li>North Dakota (driver's license only)&nbsp;</li>
+         <li>Pennsylvania&nbsp;</li>
+         <li>Rhode Island</li>
+         <li>South Dakota&nbsp;</li>
+         <li>Texas</li>
+         <li>Vermont</li>
+         <li>Virginia</li>
+         <li>Washington&nbsp;</li>
+         <li>Wisconsin (driver's license only)&nbsp;</li>
+         <li>Wyoming</li>
+        </ul></li>
+      </ul>
+      <p><a href="https://faq.ssa.gov/en-US/Topic/article/KA-01981">Follow these instructions</a> if you want to change or correct your Social Security card.</p>
+      <h3><strong>Prevent Identify Theft</strong></h3>
+      <p>Keep your Social Security card in a safe place to<a href="https://blog.ssa.gov/protecting-your-social-security-number-from-identity-theft/"> protect yourself from identity theft</a> if it's lost or stolen. You are limited to three replacement cards in a year and 10 during your lifetime.</p>
+      <h3><strong>Contact SSA</strong></h3>
+      <p>For more information, contact <a href="https://www.usa.gov/federal-agencies/social-security-administration">SSA</a>. If you live outside the U.S., SSA's<a href="http://www.ssa.gov/foreign/"> Office of International Operations</a>&nbsp;may be able to help you.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-212374"> 
+      <header> 
+       <h2 id="item-212374">SSA Benefits for U.S. Citizens Overseas </h2> 
+      </header> 
+      <h3><strong>Getting SSA Benefits While Living Overseas</strong></h3>
+      <p>U.S. citizens can travel to or live in most, but not all, foreign countries and still receive their Social Security benefits. To find out if you can receive benefits in the country you’ll be living in or visiting, use the Social Security Administration’s (SSA)<a href="https://www.ssa.gov/international/payments_outsideUS.html"> payment verification tool</a> and pick the country from the drop-down menu options.</p>
+      <h3><strong>If I Work Overseas, Does it Count Toward My Social Security Record</strong>?</h3>
+      <p>If you do not have enough credits from your work in the United States to qualify for retirement benefits, you may be able to count your<a href="https://faq.ssa.gov/en-US/Topic/article/KA-02405"> work credits from another country</a>. The SSA has agreements with 24 countries. If you earned credits in one of those countries, they can help you qualify for U.S. benefits.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35692"> 
+      <header> 
+       <h2 id="item-35692">Get Proof of Social Security Income</h2> 
+      </header> 
+      <h3>How to Get Proof of Income</h3>
+      <p>You can get either type of Social Security verification online:</p>
+      <ul>
+       <li>A <a href="https://faq.ssa.gov/en-us/Topic/article/KA-01717">Benefit Verification Letter</a> verifies your monthly benefit amount</li>
+       <li>An <a href="https://faq.ssa.gov/en-us/Topic/article/KA-01723">SSA-1099/1042S form</a> is for tax purposes</li>
+      </ul>
+      <h3>Reasons to Prove Your Social Security Income</h3>
+      <p>You may need to provide proof of your Social Security income if you're:</p>
+      <ul>
+       <li>Applying for energy benefits or other assistance programs</li>
+       <li>Moving into a new rental house or apartment</li>
+       <li>Applying for a bank loan for a large purchase</li>
+       <li>Filing a tax return and lost or didn't receive your SSA-1099/1042S form in the mail</li>
+      </ul>
+      <p>You can also <a href="https://www.usa.gov/federal-agencies/social-security-administration">contact the Social Security Administration (SSA) </a>to schedule an appointment with your local office.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36792"> 
+      <header> 
+       <h2 id="item-36792">Government Checks and Payments</h2> 
+      </header> 
+      <h3>Lost, Missing, Stolen, or Expired Federal Payments</h3>
+      <p>Report your <a href="https://www.fiscal.treasury.gov/fsservices/gov/pmt/chkClaims/payments_lost.htm">lost, missing, stolen, or expired federal check or direct deposit</a> to the agency that issued the payment. You can get contact information from the&nbsp;<a href="https://www.usa.gov/federal-agencies/a">A-Z Index of U.S. Government Departments and Agencies</a>.</p>
+      <p>To get an update on your claim, contact the&nbsp;<a href="https://www.fiscal.treasury.gov/fsservices/gov/pmt/chkClaims/chkClaims_home.htm">Bureau of the Fiscal Service's Check Claims office</a>.</p>
+      <h3>If You're Not Sure Why You Received a Payment</h3>
+      <p><a href="http://www.usa.gov/federal-agencies/a">Contact the authorizing agency directly</a> to find out why they sent the payment.&nbsp;</p>
+      <p>If you're unsure which agency authorized the payment, <a href="http://www.fiscal.treasury.gov/fsservices/gov/pmt/chkClaims/payments_why.htm ?">call the Treasury Regional Financial Center (RFC) that issued your check</a>.&nbsp;They&nbsp;can help you determine which government agency you need to contact. To find which&nbsp;RFC&nbsp;you need to call, look for its city and state at the top&nbsp;center of the check.&nbsp;</p>
+      <h3>Make Payments to the Federal Government</h3>
+      <p>Learn how to use <a href="http://www.pay.gov/">Pay.gov</a> to make secure, electronic payments to government agencies from your checking or savings account. You can use the online service for VA medical care copayments, U.S. District Court tickets, USCG Merchant Mariner user fee payments, and more.</p>
+      <p>If you need help, <a href="https://www.pay.gov/WebHelp/HTML/faq_and_help_customer_service.html">contact Pay.gov customer service</a>.&nbsp;</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35137"> 
+      <header> 
+       <h2 id="item-35137">Report the Death of a Social Security or Medicare Beneficiary</h2> 
+      </header> 
+      <p>The Social Security Administration (SSA) processes death reports for both Social Security and Medicare recipients.</p>
+      <h3><strong>What You Need to Do</strong></h3>
+      <p>To report a death:</p>
+      <ul>
+       <li>Provide the deceased person's Social Security number to the funeral director so they can report the death to the SSA.</li>
+       <li>Or contact your <a href="https://secure.ssa.gov/ICON/main.jsp">local Social Security office</a> or call <a href="tel:18007721213">1-800-772-1213</a> (TTY <a href="tel:18003250778">1-800-325-0778</a>) to make the report.&nbsp;</li>
+      </ul>
+      <h3><strong>Social Security Checks Stop Payment</strong></h3>
+      <p>The SSA can’t pay benefits for the month of a recipient’s death. That means if the person died in July, the check received in August (which is payment for July) must be returned.&nbsp;</p>
+      <p>If the payment is by direct deposit, notify the financial institution as soon as possible so it can return any payments received after death.&nbsp;</p>
+      <p>Family members may be eligible for Social Security survivors benefits when a person getting benefits dies. Visit the <a href="https://www.ssa.gov/survivors/">SSA's Survivors Benefits page</a> to learn more.&nbsp;</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35102"> 
+      <header> 
+       <h2 id="item-35102">Set Up Direct Deposit for Your Federal Benefits</h2> 
+      </header> 
+      <h3><strong>How to Receive Federal Benefits</strong></h3>
+      <p>To begin receiving your federal benefits, like Social Security or veterans benefits, you must sign up for electronic payments with direct deposit.</p>
+      <h4>If You Have a Bank or Credit Union Account:&nbsp;</h4>
+      <ul>
+       <li><a href="https://www.godirect.gov/gpw/enrollment">Enroll online</a></li>
+       <li><a href="https://www.godirect.gov/gpw/registerByMail/">Enroll by mail</a>&nbsp;</li>
+       <li>Call the Go Direct Helpline at <a href="tel:18003331795">1-800-333-1795</a> (TTY: <a href="tel:18665690447">1-866-569-0447</a>).</li>
+      </ul>
+      <h4>If You Don't have a Bank or Credit Union Account:&nbsp;</h4>
+      <ul>
+       <li><a href="https://www.fiscal.treasury.gov/fsservices/indiv/pmt/dirExpss/dirExpss_home.htm">Direct Express Debit MasterCard</a>&nbsp;- a pre-paid debit card. Get help by calling the Go Direct Helpline at <a href="tel:18003331795">1-800-333-1795</a> (TTY: <a href="tel:18665690447">1-866-569-0447</a>).&nbsp;</li>
+       <li>Electronic Transfer Account (ETA) - a low-cost account for federal payment recipients. Get help by calling <a href="tel:18883823311">1-888-382-3311</a> (TTY: <a href="tel:18773265833">1-877-326-5833</a>).&nbsp; Effective August 8, 2018, the Treasury Department will end the ETA program. <a href="https://www.eta-find.gov/eta/">Learn more about your options</a>.&nbsp;</li>
+      </ul>
+      <h4>Make Changes to an Existing Direct Deposit Account:</h4>
+      <p>Learn how to <a href="https://www.godirect.gov/gpw/updateExisting/">make changes to an existing direct deposit account</a>. You also may contact the<a href="https://www.usa.gov/federal-agencies/a"> federal agency</a> that pays your benefit for help with your enrollment.</p> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/about-social-security&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Top Questions About Social Security https://www.usa.gov/about-social-security"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Top Questions About Social Security&amp;body=https://www.usa.gov/about-social-security"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: March 22, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>  
+ </body>
+</html>

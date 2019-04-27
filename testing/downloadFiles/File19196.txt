@@ -1,0 +1,618 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "211477, 37562, 213376",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "About the U.S.",
+    "TaxLevel3": "Branches of the U.S. Government",
+    "TaxLevel4": "Branches of the U.S. Government",
+    "TaxLevel5": "Branches of the U.S. Government",
+    "TaxLevel6": "Branches of the U.S. Government"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Branches of the U.S. Government  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/branches-of-government"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn about the executive, legislative, and judicial branches of the U.S. government."> 
+  <meta property="og:url" content="https://www.usa.gov/branches-of-government"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Branches of the U.S. Government | USAGov"> 
+  <meta property="og:description" content="Learn about the executive, legislative, and judicial branches of the U.S. government."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '11026';
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/como-funciona-el-gobierno" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">About the U.S.</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/flag" class="url" onmousedown="_sendEvent('Outbound','/flag','/',0);"> American Flag </a> </span> </li> 
+        <li class="slctd"> <a> <span>Branches of the U.S. Government</span> </a> </li> 
+        <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/statistics" class="url" onmousedown="_sendEvent('Outbound','/statistics','/',0);"> Data and Statistics about the U.S. </a> </span> </li> 
+        <li> <span> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);"> Government Agencies and Elected Officials </a> </span> </li> 
+        <li> <span> <a href="/history" class="url" onmousedown="_sendEvent('Outbound','/history','/',0);"> History and Historical Documents </a> </span> </li> 
+        <li> <span> <a href="/laws" class="url" onmousedown="_sendEvent('Outbound','/laws','/',0);"> Laws and Legal Issues </a> </span> </li> 
+        <li> <span> <a href="/life-in-the-us" class="url" onmousedown="_sendEvent('Outbound','/life-in-the-us','/',0);"> Learn About Life in the U.S. </a> </span> </li> 
+        <li> <span> <a href="/presidents" class="url" onmousedown="_sendEvent('Outbound','/presidents','/',0);"> Presidents, Vice Presidents, and First Ladies </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Branches of the U.S. Government</h1> 
+      <p>Learn about the executive, legislative, and judicial branches of the U.S. government.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-211477" onclick="document.getElementById('item-211477').focus();"> Infographic: 3 Branches of the U.S. Government </a> </li> 
+        <li> <a href="#item-37562" onclick="document.getElementById('item-37562').focus();"> How the U.S. Government Is Organized </a> </li> 
+        <li> <a href="#item-213376" onclick="document.getElementById('item-213376').focus();"> Infographic: How the Supreme Court Works </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-211477"> 
+      <header> 
+       <h2 id="item-211477">Infographic: 3 Branches of the U.S. Government </h2> 
+      </header> 
+      <p> Learn the executive, legislative, and judicial branches of government and see a lesson plan for teachers. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/USA_Government_Branches_Infographic.png" alt="3 Branches of U.S. Government infographic. See description below."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="3 Branches of U.S. Government infographic. See description below."> <a href="https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/USA_Government_Branches_Infographic.pdf" aria-labelledby="item-211477" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/USA_Government_Branches_Infographic.pdf',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-211477"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-211477" aria-labelledby="item-211477">Show Description of Infographic </button> 
+           <div id="infograph-b-211477" class="usa-accordion-content">
+            <p></p>
+            <h3>U.S. Constitution</h3>
+            <p>The&nbsp;<a href="https://www.archives.gov/founding-docs/founding-fathers">Founding Fathers</a>, the framers of the&nbsp;<a href="https://www.archives.gov/founding-docs/constitution">U.S. Constitution</a>, wanted to form a government that did not allow one person to have too much control. With this in mind, they wrote the Constitution to provide for a separation of powers, or three separate branches of government.</p>
+            <p>Each branch has its own responsibilities and at the same time, the three branches work together to make the country run smoothly and to assure that the rights of citizens are not ignored or disallowed. This is done through&nbsp;<a href="http://bensguide.gpo.gov/j-check-balance">checks and balances</a>. A branch may use its powers to check the powers of the other two in order to maintain a balance of power among the three branches of government.</p>
+            <h3>Legislative - Makes Laws</h3>
+            <p>Congress is composed of two parts: the&nbsp;<a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">Senate</a>&nbsp;and the&nbsp;<a href="http://house.gov/representatives/">House of Representatives</a>.</p>
+            <h4><strong>Senate</strong></h4>
+            <p>The Senate has 100 elected senators total; 2 senators per state. Each senator serves a 6-year term.</p>
+            <h4><strong>House of Representatives</strong></h4>
+            <p>The House has 435 voting representatives; the&nbsp;<a href="http://history.house.gov/Institution/Apportionment/Determining-Apportionment/">number of representatives</a>&nbsp;from each state is based on the state's population. Each representative serves a two-year term and may be re-elected.</p>
+            <h3>Executive - Carries Out Laws</h3>
+            <p>The executive branch is composed of the president, vice president, and Cabinet members.</p>
+            <h4><strong>President</strong></h4>
+            <p>The president is the head of state, head of the U.S. government, and the commander-in-chief of the U.S. military.</p>
+            <h4><strong>Vice President</strong></h4>
+            <p>The vice president not only supports the president but also acts as the&nbsp;<a href="http://www.senate.gov/pagelayout/senators/a_three_sections_with_teasers/leadership.htm">presiding officer of the Senate</a>.</p>
+            <h4><strong>Cabinet</strong></h4>
+            <p>The Cabinet members are nominated by the president and must be approved by the Senate (with at least 51 votes). They serve as the president's advisors and heads of various departments and agencies.</p>
+            <h3>Judicial - Evaluates Laws</h3>
+            <p>The judicial branch of government is made up of the court system.</p>
+            <h4><strong><strong>Supreme Court</strong></strong></h4>
+            <p>The&nbsp;<a href="http://www.supremecourt.gov/about/biographies.aspx">Supreme Court</a>&nbsp;is the highest court in the country. The nine&nbsp;justices are nominated by the president and must be approved by the Senate (with at least 51 votes).</p>
+            <h4><strong>Other Federal Courts</strong></h4>
+            <p>There are lower&nbsp;<a href="http://www.uscourts.gov/FederalCourts.aspx">Federal courts</a>&nbsp;but they were not created by the Constitution. Congress established them around the country to handle federal business as the country grew, using power granted by the Constitution.</p>
+            <p>You can&nbsp;<a href="https://pueblo.gpo.gov/Publications/PuebloPubs.php?PubID=6146">download or order a kids' version of our 3 Branches poster</a>.</p>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37562"> 
+      <header> 
+       <h2 id="item-37562">How the U.S. Government Is Organized</h2> 
+      </header> 
+      <p>The <a href="https://www.archives.gov/founding-docs/constitution">Constitution of the United States</a> divides the federal government into three branches to make sure no individual or group will have too much power:</p>
+      <ul>
+       <li>Legislative—Makes laws (Congress—House of Representatives and Senate)</li>
+       <li>Executive—Carries out laws (president, vice president, Cabinet, most federal agencies)</li>
+       <li>Judicial—Evaluates laws (Supreme Court and other courts)</li>
+      </ul>
+      <p>Each branch of government can change acts of the other branches:</p>
+      <ul>
+       <li>The president can veto legislation created by Congress and nominates heads of federal agencies.</li>
+       <li>Congress confirms or rejects the president's nominees and can remove the president from office in exceptional circumstances.</li>
+       <li>The Justices of the Supreme Court, who can overturn unconstitutional laws, are nominated by the president and confirmed by the Senate.</li>
+      </ul>
+      <p>This ability of each branch to respond to the actions of the other branches is called the system of checks and balances.</p>
+      <h3>Legislative Branch</h3>
+      <p>The legislative branch <a href="/how-laws-are-made#item-35837">drafts proposed laws</a>, confirms or rejects presidential nominations for heads of federal agencies, federal judges, and the Supreme Court, and has the authority to declare war. This branch includes Congress (the Senate and House of Representatives) and <a href="/legislative-agencies">special agencies and offices</a> that provide support services to Congress. American citizens have the right to vote for Senators and Representatives through free, confidential ballots.</p>
+      <ul>
+       <li><a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm">Senate</a>—There are two elected Senators per state, totaling 100 Senators. A Senate term is six years and there is no limit to the number of terms an individual can serve.</li>
+       <li><a href="https://www.house.gov/representatives">House of Representatives</a>—There are 435 elected Representatives, which are divided among the 50 states in proportion to their total population. There are additional non-voting delegates who represent the District of Columbia and the territories. A Representative serves a two-year term, and there is no limit to the number of terms an individual can serve.</li>
+      </ul>
+      <h3>Executive Branch</h3>
+      <p>The <a href="https://www.whitehouse.gov/about-the-white-house/the-executive-branch/">executive branch</a> carries out and enforces laws. It includes the president, vice president, the Cabinet, executive departments, independent agencies, and other boards, commissions, and committees.</p>
+      <p>American citizens have the right to vote for the president and vice president through free, confidential ballots.</p>
+      <p>Key roles of the executive branch include:</p>
+      <ul>
+       <li><a href="https://www.whitehouse.gov/people/donald-j-trump/">President</a>—The president leads the country. He or she is the head of state, leader of the federal government, and Commander in Chief of the United States Armed Forces. The president serves a four-year term and can be elected no more than two times.</li>
+       <li><a href="https://www.whitehouse.gov/people/mike-pence/">Vice president</a>—The vice president supports the president. If the president is unable to serve, the vice president becomes president. The vice president can be elected and serve an unlimited number of four-year terms as vice president, even under a different president.</li>
+       <li><a href="https://www.whitehouse.gov/the-trump-administration/the-cabinet/">The Cabinet</a>—Cabinet members serve as advisors to the president. They include the vice president, heads of executive departments, and other high-ranking government officials. Cabinet members are nominated by the president and must be approved by a simple majority of the Senate—51 votes if all 100 Senators vote.</li>
+      </ul>
+      <h4>Executive Branch Agencies, Commissions, and Committees</h4>
+      <p>Much of the work in the executive branch is done by federal agencies, departments, committees, and other groups.</p>
+      <ul>
+       <li><a href="/executive-office-of-the-president">Executive Office of the President</a>&nbsp;– The Executive Office of the president communicates the president's message and deals with the federal budget, security, and other high priorities.</li>
+       <li><a href="/executive-departments">Executive Departments</a>&nbsp;– These are the main agencies of the federal government. The heads of these 15 agencies are also members of the president's cabinet.
+        <ul>
+         <li><a href="/sub-agencies">Executive Department Sub-Agencies</a>&nbsp;– Smaller sub-agencies support specialized work within their parent executive department agencies.</li>
+        </ul></li>
+       <li><a href="/independent-agencies">Independent Agencies</a>&nbsp;– These agencies are not represented in the cabinet and are not part of the Executive Office of the president. They deal with government operations, the economy, and regulatory oversight.</li>
+       <li><a href="/boards-commissions-committees">Boards, Commissions, and Committees</a>&nbsp;– Congress or the president establish these smaller organizations to manage specific tasks and areas that don't fall under parent agencies.</li>
+       <li><a href="/quasi-official">Quasi-Official Agencies</a>&nbsp;– Although they're not officially part of the executive branch, these agencies are required by federal statute to release certain information about their programs and activities in the&nbsp;<a href="https://www.federalregister.gov/">Federal Register</a>, the daily journal of government activities.</li>
+      </ul>
+      <h3>Judicial Branch</h3>
+      <p>The <a href="https://www.whitehouse.gov/about-the-white-house/the-judicial-branch/">judicial branch</a> interprets the meaning of laws, applies laws to individual cases, and decides if laws violate the Constitution. It's comprised of the Supreme Court and other federal courts.</p>
+      <ul>
+       <li><a href="http://www.supremecourt.gov/">Supreme Court</a>—The Supreme Court is the highest court in the United States. The Justices of the Supreme Court are nominated by the president and must be approved by the Senate.
+        <ul>
+         <li><a href="https://www.supremecourt.gov/about/justices.aspx">Nine members</a> make up the Supreme Court— a Chief Justice and eight Associate Justices. There must be a minimum or quorum of <a href="https://www.supremecourt.gov/about/faq_general.aspx">six Justices</a> to decide a case.</li>
+         <li>If there is an even number of Justices and a case results in a tie, the lower court's decision stands.</li>
+         <li>There is no fixed term for Justices. They serve until their death, retirement, or removal in exceptional circumstances.</li>
+        </ul></li>
+       <li><p><a href="/judicial-agencies">Federal Courts and Judicial Agencies</a>&nbsp;– The Constitution gives Congress the authority to establish other&nbsp;<a href="http://www.uscourts.gov/about-federal-courts">federal courts</a> to handle cases that involve federal laws including tax and bankruptcy, lawsuits involving U.S. and state governments or the Constitution, and more. Other federal judicial agencies and programs support the courts and research judicial policy.</p></li>
+      </ul>
+      <h4>Confirmation Process for Judges and Justices</h4>
+      <p>Appointments for Supreme Court Justices and other federal judgeships follow the same basic process:</p>
+      <ul>
+       <li>The president nominates a person to fill a vacant judgeship.</li>
+       <li>The <a href="https://www.judiciary.senate.gov/nominations">Senate Judiciary Committee</a> holds a hearing on the nominee and votes on whether to forward the nomination to the full Senate.</li>
+       <li>If the nomination moves forward, the Senate can debate the nomination. Debate must end before the Senate can vote on whether to confirm the nominee. A Senator will request unanimous consent to end the debate, but any Senator can refuse.</li>
+       <li>Without unanimous consent, the Senate must pass a <a href="https://www.senate.gov/reference/reference_index_subjects/Cloture_vrd.htm">cloture motion</a> to end the debate. It takes a simple majority of votes—51 if all 100 Senators vote—to pass cloture and end debate about a federal judicial nominee.</li>
+       <li>Once the debate ends, the Senate votes on confirmation. The nominee for Supreme Court or any other federal judgeship needs a simple majority of votes—51 if all 100 Senators vote—to be confirmed.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213376"> 
+      <header> 
+       <h2 id="item-213376">Infographic: How the Supreme Court Works</h2> 
+      </header> 
+      <p> Learn how cases reach the Supreme Court and how the Justices make their decisions. Use <a href="/supreme-court-lesson-plan">this lesson plan</a> in class. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/Supreme Court Wireframe2R-Arial_0.jpg" alt="How the Supreme Court Works infographic. See description below."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="How the Supreme Court Works infographic. See description below."> <a href="https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/SupremeCourt508PDFarrows.pdf" aria-labelledby="item-213376" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app_usa_prod_eqffnyamdzrb.s3.amazonaws.com/SupremeCourt508PDFarrows.pdf',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-213376"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-213376" aria-labelledby="item-213376">Show Description of Infographic </button> 
+           <div id="infograph-b-213376" class="usa-accordion-content">
+            <p></p>
+            <h3>How the Supreme Court Works</h3>
+            <h4>The Supreme Court is:</h4>
+            <ul>
+             <li>The highest court in the country</li>
+             <li>Located in Washington, DC</li>
+             <li>The head of the judicial branch of the federal government</li>
+             <li>Responsible for deciding whether laws violate the Constitution</li>
+             <li>In session from early October until late June or early July</li>
+            </ul>
+            <h4>How a Case Gets to the Supreme Court</h4>
+            <p>Most cases reach the Court on appeal. An appeal is a request for a higher court to reverse the decision of a lower court. Most appeals come from federal courts. They can come from state courts if a case deals with federal law.</p>
+            <p>Rarely, the Court hears a new case, such as one between states.</p>
+            <ol>
+             <li><p><strong>Dissatisfied parties petition the Court for review</strong><br>Parties may appeal their case to the Supreme Court, petitioning the Court to review the decision of the lower court.</p></li>
+             <li><p><strong>Justices study documents</strong><br>The Justices examine the petition and supporting materials.</p></li>
+             <li><p><strong>Justices vote</strong><br>Four Justices must vote in favor for a case to be granted review.</p></li>
+            </ol>
+            <h4>What Happens Once a Case is Selected for Review?</h4>
+            <ol>
+             <li><p><strong>Parties make arguments</strong><br>The Justices review the briefs (written arguments) and hear oral arguments. In oral arguments, each side usually has 30 minutes to present its case. The Justices typically ask many questions during this time.</p></li>
+             <li><p><strong>Justices write opinions</strong><br>The Justices vote on the case and write their opinions.<br><br>The majority opinion shared by more than half of the Justices becomes the Court’s decision.<br><br>Justices who disagree with the majority opinion write dissenting or minority opinions.</p></li>
+             <li><p><strong>The Court issues its decision</strong><br>Justices may change their vote after reading first drafts of the opinions. Once the opinions are completed and all of the Justices have cast a final vote, the Court “hands down” its decision.<br><br>All cases are heard and decided before summer recess. It can take up to nine months to announce a decision.</p></li>
+            </ol>
+            <h4>Every year:</h4>
+            <p>The Court receives 7,000-8,000 requests for review and grants 70-80 for oral argument. Other requests are granted and decided without argument.</p>
+            <h4>About the Justices:</h4>
+            <p>There are nine Justices:</p>
+            <ul>
+             <li>A Chief Justice, who sits in the middle and is the head of the judicial branch.</li>
+             <li>Eight Associate Justices</li>
+            </ul>
+            <p>When a new Justice is needed:</p>
+            <ul>
+             <li>The President nominates a candidate, usually a federal judge.</li>
+             <li>The Senate votes to confirm the nominee.</li>
+             <li>The Court can continue deciding cases with less than nine Justices, but if there is a tie, the lower court’s decision stands.</li>
+            </ul>
+            <p>Justices are appointed for life, though they may resign or retire.</p>
+            <ul>
+             <li>They serve an average of 16 years.</li>
+            </ul>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/branches-of-government&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Branches of the U.S. Government https://www.usa.gov/branches-of-government"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Branches of the U.S. Government&amp;body=https://www.usa.gov/branches-of-government"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: April 5, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

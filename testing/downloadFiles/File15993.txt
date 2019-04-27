@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "36987, 37157, 36857",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "About the U.S.",
+    "TaxLevel3": "Data and Statistics about the U.S.",
+    "TaxLevel4": "Data and Statistics about the U.S.",
+    "TaxLevel5": "Data and Statistics about the U.S.",
+    "TaxLevel6": "Data and Statistics about the U.S."
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>U.S. Data and Statistics  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/statistics"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Find data about the U.S., such as maps and population, demographic, and economic data."> 
+  <meta property="og:url" content="https://www.usa.gov/statistics"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="U.S. Data and Statistics | USAGov"> 
+  <meta property="og:description" content="Find data about the U.S., such as maps and population, demographic, and economic data."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10666';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">About the U.S.</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/flag" class="url" onmousedown="_sendEvent('Outbound','/flag','/',0);"> American Flag </a> </span> </li> 
+        <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
+        <li class="slctd"> <a> <span>Data and Statistics about the U.S.</span> </a> </li> 
+        <li> <span> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);"> Government Agencies and Elected Officials </a> </span> </li> 
+        <li> <span> <a href="/history" class="url" onmousedown="_sendEvent('Outbound','/history','/',0);"> History and Historical Documents </a> </span> </li> 
+        <li> <span> <a href="/laws" class="url" onmousedown="_sendEvent('Outbound','/laws','/',0);"> Laws and Legal Issues </a> </span> </li> 
+        <li> <span> <a href="/life-in-the-us" class="url" onmousedown="_sendEvent('Outbound','/life-in-the-us','/',0);"> Learn About Life in the U.S. </a> </span> </li> 
+        <li> <span> <a href="/presidents" class="url" onmousedown="_sendEvent('Outbound','/presidents','/',0);"> Presidents, Vice Presidents, and First Ladies </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Data and Statistics about the U.S.</h1> 
+      <p>Find data about the U.S., such as maps and population, demographic, and economic data.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-36987" onclick="document.getElementById('item-36987').focus();"> U.S. Census Data and Statistics </a> </li> 
+        <li> <a href="#item-37157" onclick="document.getElementById('item-37157').focus();"> Find Data and Statistics from the Government </a> </li> 
+        <li> <a href="#item-36857" onclick="document.getElementById('item-36857').focus();"> Maps </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-36987"> 
+      <header> 
+       <h2 id="item-36987">U.S. Census Data and Statistics</h2> 
+      </header> 
+      <p>The <a href="http://www.census.gov">United States Census Bureau</a> provides data about the nation’s people and economy. Every 10 years, it conducts the Population and Housing Census, in which every resident in the United States is counted. The agency also gathers data through more than 100 other surveys of households and businesses every one to five years. You can explore the results of the surveys or find popular quick facts.</p>
+      <h3>Frequently Requested Statistics from the U.S. Census</h3>
+      <p>Get population and demographic information about the country, individual states, and more:</p>
+      <ul>
+       <li>View <a href="https://www.census.gov/quickfacts/">the latest QuickFacts statistics and estimates</a> for the most popular topics.</li>
+       <li>Zoom in and sort data from the 2010 Census with the <a href="https://www.census.gov/2010census/popmap/">Interactive Population Map</a>.</li>
+       <li>See U.S. and world population estimates changing live with the <a href="https://www.census.gov/popclock/">Population Clock</a>.</li>
+       <li>View <a href="https://www.census.gov/topics/population/age-and-sex/data/tables.html">age and sex data</a>&nbsp;to understand population change over time.</li>
+      </ul>
+      <h3>Research U.S. Census Survey Results</h3>
+      <p><a href="https://www.census.gov/data.html">Explore a variety of&nbsp;data</a>:</p>
+      <ul>
+       <li>Examine <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">data by community (such as city or ZIP code) across many different surveys</a>.</li>
+       <li>Focus on the <a href="https://www.census.gov/2010census/">data and research from the 2010 Census</a>.</li>
+       <li>Review all of the surveys and their data conducted by the Bureau:
+        <ul>
+         <li><a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/survey-list/household-survey-list.html">Surveys of households</a></li>
+         <li><a href="https://www.census.gov/econ/">Surveys of businesses</a></li>
+        </ul></li>
+      </ul>
+      <h3>Other Popular U.S. Census Information</h3>
+      <ul>
+       <li>Use U.S. Census data for&nbsp;<a href="https://www.census.gov/history/www/genealogy/">genealogical research</a>.</li>
+       <li>Census population data is used to divide&nbsp;<a href="http://www.census.gov/topics/public-sector/congressional-apportionment.html">the seats in the U.S. House of Representatives</a> among the 50 states.</li>
+       <li>Curious about whether a request you received to participate in a U.S. Census Bureau survey is real?
+        <ul>
+         <li><a href="https://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">Learn how to avoid </a><a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">scams</a><a href="https://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">&nbsp;that claim to be from the U.S. Census Bureau</a>.</li>
+         <li>Find out how to contact the U.S. Census Bureau to&nbsp;confirm the <a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/contact-us.html">validity of requests for information</a>.</li>
+        </ul></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37157"> 
+      <header> 
+       <h2 id="item-37157">Find Data and Statistics from the Government</h2> 
+      </header> 
+      <p>Many government agencies have statistical information on a wide range of topics. You may need to do further research to find out which agency has the information you are looking for or can help you find it.</p>
+      <p>Remember, keywords are important when doing a search. Make sure your keywords can help narrow down the search results. For example, instead of trying a search for "education statistics," try something more specific like "campus security statistics" or "graduation rates."</p>
+      <h3>Federal Government Data and Statistics</h3>
+      <p>These federal agency programs collect, analyze, and disseminate statistical data and information:</p>
+      <ul>
+       <li><a href="https://www.bea.gov/">Bureau of Economic Analysis</a>&nbsp;collects information on economic indicators, national and international trade, accounts, and industry.</li>
+       <li><a href="https://www.bjs.gov/">Bureau of Justice Statistics</a>&nbsp;reports on justice systems, crime, criminal offenders, and victims of crime.</li>
+       <li><a href="https://www.bls.gov/">Bureau of Labor Statistics</a>&nbsp;measures labor market activity, working conditions, and price changes in the U.S. economy.</li>
+       <li><a href="https://www.bts.gov/">Bureau of Transportation Statistics</a>&nbsp;provides data on airline on-time performance, pirates at sea, transportation safety and availability, motorcycle trends, and more.</li>
+       <li><a href="https://www.census.gov/">Census Bureau</a> is the main source of data about our nation's people and economy.</li>
+       <li><a href="https://analytics.usa.gov/">DAP Public Dashboard</a>&nbsp;provides a window into how people are interacting with the government online.</li>
+       <li><a href="https://www.data.gov/">Data.gov</a> is the home of the U.S. Government's open data. Find federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more.&nbsp;</li>
+       <li><a href="https://www.ers.usda.gov/">Economic Research Service</a>&nbsp;informs public and private decision making on economic and policy issues related to agriculture, food, the environment, and rural development. &nbsp;</li>
+       <li><a href="https://www.eia.gov/">Energy Information Administration</a>&nbsp;provides data on U.S. use of coal, natural gas, nuclear energy, renewable energy, and more.</li>
+       <li><a href="https://www.nass.usda.gov/">National Agricultural Statistical Service</a>&nbsp;researches data on food production and supply, organic sales, chemical use, demographics of U.S. producers, and more.&nbsp;Every five years it conducts the <a href="https://www.agcensus.usda.gov/">Census of Agriculture</a> that provides agricultural data for every county in&nbsp;the United States.</li>
+       <li><a href="https://nces.ed.gov/">National Center for Education Statistics</a> researches education in the United States.&nbsp;It publishes the <a href="https://nces.ed.gov/programs/digest/"><em>Digest of Education Statistics</em></a><em>,</em>&nbsp;which includes international comparisons of students, and the annual report to Congress,&nbsp;<em><a href="https://nces.ed.gov/programs/coe/">The&nbsp;Condition of Education</a>,&nbsp;</em>which reports the progress of American education.</li>
+       <li><a href="https://www.cdc.gov/nchs/">National Center for Health Statistics</a>&nbsp;is the principal health statistics agency for improving the health of the American people.</li>
+       <li><a href="https://www.nsf.gov/statistics/">National Center for Science and Engineering Statistics</a>&nbsp;publishes data on the American science and engineering workforce and the progress of science, technology, engineering, and mathematics (STEM) education in the United States.</li>
+       <li><a href="https://www.opm.gov/">Office of Personnel Management</a>&nbsp;provides statistics on the Federal civilian workforce through data sources such as&nbsp;<a href="https://www.opm.gov/policy-data-oversight/data-analysis-documentation/fedscope/">FedScope</a>.</li>
+       <li>Social Security Administration <a href="https://www.ssa.gov/policy/about/ORES.html">Office of Research Evaluation and Statistics</a>&nbsp;offers data on social security&nbsp;program benefits, payments, covered workers, and more.</li>
+       <li>Internal Revenue Service&nbsp;<a href="https://www.irs.gov/statistics">Statistics of Income</a>&nbsp;examines tax returns to report on such things as&nbsp;sources of income, exemptions,&nbsp;use of medical savings accounts, migration and geographic data, tax information on&nbsp;foreign corporations controlled by U.S. parent corporations, exports, international boycotts, and investments and activities in the U.S. by foreign persons.</li>
+      </ul>
+      <p>You may also search a federal agency's website to see what types of statistical information it provides. Find the <a href="https://www.usa.gov/federal-agencies/a">U.S. government department or agency</a> you want to search.</p>
+      <h3>State and Local Government Data and Statistics</h3>
+      <p>State and local government agencies also compile and maintain statistical information. Contact a state or local government for more information:</p>
+      <ul>
+       <li><a href="https://www.usa.gov/states-and-territories">State and Territorial Governments</a></li>
+       <li><a href="https://www.usa.gov/local-governments">Local Governments</a></li>
+       <li><a href="https://www.census.gov/quickfacts/fact/table/US/PST045217">State and County QuickFacts</a></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36857"> 
+      <header> 
+       <h2 id="item-36857">Maps</h2> 
+      </header> 
+      <p>The <a href="https://nationalmap.gov/">National Map</a> offers mapping products&nbsp;from federal, state, and local partners on a variety of topics, such as recreation, environmental resources, scientific analysis, and emergency response.</p>
+      <p>Other maps cover:</p>
+      <ul>
+       <li><a href="https://www.census.gov/programs-surveys/geography.html">Demographic data</a></li>
+       <li><a href="https://www3.epa.gov/myenv/MyMap.html">Local environmental data</a>&nbsp;and <a href="https://water.usgs.gov/maps.html">water resources</a></li>
+       <li><a href="https://www.weather.gov/forecastmaps">Current weather</a></li>
+       <li><a href="https://www.nass.usda.gov/Charts_and_Maps/">Agricultural information by commodity</a></li>
+       <li><a href="https://www.recreation.gov/unifSearch.do">Recreational places and activities</a></li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/statistics&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Data and Statistics about the U.S. https://www.usa.gov/statistics"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Data and Statistics about the U.S.&amp;body=https://www.usa.gov/statistics"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: November 8, 2018</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

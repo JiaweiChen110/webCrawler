@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="es" xml:lang="es">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "home",
+    "TaxLevel1": "USAGov en Espa\u00f1ol",
+    "TaxLevel2": "Inicio",
+    "TaxLevel3": "Inicio",
+    "TaxLevel4": "Inicio",
+    "TaxLevel5": "Inicio",
+    "TaxLevel6": "Inicio",
+    "assetIDs": "null"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Guía oficial de información y servicios del Gobierno  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/espanol/"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Página principal de USAGov en Español, el portal oficial del Gobierno de Estados Unidos en español."> 
+  <meta property="og:url" content="https://www.usa.gov/espanol/"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Guía oficial de información y servicios del Gobierno | USAGov"> 
+  <meta property="og:description" content="Página principal de USAGov en Español, el portal oficial del Gobierno de Estados Unidos en español."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail_spanish.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail_spanish.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+            /* The following script si injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+            jQuery(document).ready( function () {
+                var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/es\/reader\/\">descargar Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=10\">descargar Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">descargar Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">descargar Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=13\">descargar Power Point Reader<\/a><\/span>)"});
+            });
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10977';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async></script> 
+  <meta name="google-site-verification" content="p7YQsJ1axaK_4XZeFOVM_tVuvS-hu5fUcEFT0vYJfTM"> 
+  <meta name="msvalidate.01" content="7ED9318B2E16491CECD0F0CFCB5594E8"> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Por favor active JavaScript en su navegador. De lo contrario, algunas secciones de este sitio web podrían funcionar incorrectamente.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Saltar al contenido principal </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> Un sitio oficial del Gobierno de Estados Unidos </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Así es como usted puede verificarlo </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>El dominio .gov significa que es oficial.</strong> <br> Los sitios del Gobierno federal frecuentemente terminan en dominios .gov o .mil. Antes de compartir información confidencial, asegúrese de que está en un sitio del Gobierno federal. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>Este sitio es seguro.</strong> <br> El protocolo <strong>https://</strong> le asegura que se está conectando al sitio web oficial y que cualquier información que usted proporcione está encriptada y será transmitida de forma segura. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/espanol/" title="Página principal"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov_Spanish.png" alt="USAGov en Español Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENÚ</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close"> Cerrar</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small"> Buscar </label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="gobiernousa"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Busque en el Gobierno" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Buscar</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/espanol/centro-de-llamadas">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <link rel="stylesheet" type="text/css" href="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/taxtable_1.css"> 
+     <ul class="usa-nav-primary usa-accordion"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/espanol/#tpcs"> <span>Todos los temas y servicios</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>Ayuda financiera y beneficios</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/programas-sociales">Programas sociales del Gobierno</a></li>
+          <li><a href="/espanol/prestamos-y-subvenciones">Préstamos y subvenciones</a></li>
+          <li><a href="/espanol/ayuda-financiera-para-estudiantes">Ayuda financiera para estudiantes</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/seguro-social">Seguro Social</a></li>
+          <li><a href="/espanol/asistencia-alimentaria">Asistencia alimentaria</a></li>
+          <li><a href="/espanol/pago-facturas">Pago de facturas</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/beneficios-familias-militares">Beneficios para militares</a></li>
+          <li><a href="/espanol/desempleo">Beneficios por desempleo</a></li>
+          <li><a href="/espanol/jubilacion">Jubilación</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/vivienda-accesible">Vivienda de renta asequible</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/espanol/ayuda-financiera-becas-beneficios">Ayuda financiera y beneficios</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Ciudadanía, inmigración y viajes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/deportacion">Deportación</a></li>
+          <li><a href="/espanol/viajes-al-exterior">Viajes al exterior</a></li>
+          <li><a href="/espanol/pasaportes-documentos-de-viaje">Pasaporte estadounidense</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/naturalizacion">Ciudadanía y naturalización</a></li>
+          <li><a href="/espanol/residencia-permanente">Permiso de residencia permanente</a></li>
+          <li><a href="/espanol/registros-de-entrada">Entradas y salidas de EE. UU.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/inmigrantes-noresidentes">Visas para extranjeros</a></li>
+          <li><a href="/espanol/tramites-migratorios">Temas migratorios comunes</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/espanol/ciudadania-inmigracion-viajes">Ciudadanía, inmigración y viajes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Dinero e impuestos</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/credito-y-deuda">Crédito y deuda</a></li>
+          <li><a href="/espanol/gasto-ahorro-inversion">Gasto, ahorro e inversión</a></li>
+          <li><a href="/espanol/impuestos">Impuestos</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/seguros">Seguros</a></li>
+          <li><a href="/espanol/dinero-sin-reclamar">Dinero sin reclamar</a></li>
+          <li><a href="/espanol/ayuda-financiera-becas-beneficios">Ayuda financiera y beneficios</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/ordene-guia-consumidor">Descargue la Guía del Consumidor</a></li>
+          <li><a href="/espanol/proteccion-consumidor">Temas del consumidor</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/espanol/dinero">Dinero e impuestos</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Directorios del Gobierno</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/funcionarios-elegidos">Funcionarios elegidos</a></li>
+          <li><a href="/espanol/consulados-embajadas">Consulados y embajadas</a></li>
+          <li><a href="/espanol/agencias-gobierno">Agencias del Gobierno</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/subastas-ventas-gobierno">Subastas y ventas del Gobierno</a></li>
+          <li><a href="/espanol/acerca-de-estados-unidos">Acerca de EE. UU.</a></li>
+          <li><a href="/espanol/como-funciona-el-gobierno">Cómo funciona el Gobierno</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/espanol/directorios">Directorios del Gobierno</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Temas del consumidor</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/presentar-queja">Presentar una queja</a></li>
+          <li><a href="/espanol/telecomunicaciones">Telecomunicaciones</a></li>
+          <li><a href="/espanol/proteja-su-privacidad">Proteja su privacidad</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/telemercadeo-correo-basura">Telemercadeo insistente y correo basura</a></li>
+          <li><a href="/espanol/estafas-fraudes">Estafas y fraudes</a></li>
+          <li><a href="/espanol/ordene-guia-consumidor">Descargue la Guía del Consumidor</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/dinero">Dinero e impuestos</a></li>
+          <li><a href="/espanol/estados-consumidor">Oficinas estatales de protección al consumidor</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-consumer"> <a class="usa-button" href="/espanol/proteccion-consumidor">Temas del consumidor</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Trabajo y desempleo</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/empleo-capacitacion-laboral">Empleo y capacitación laboral</a></li>
+          <li><a href="/espanol/jubilacion">Jubilación</a></li>
+          <li><a href="/espanol/desempleo">Beneficios por desempleo</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/espanol/negocios-y-organizaciones-ONG">Pequeñas empresas</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/espanol/trabajo-y-desempleo">Trabajo y desempleo</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/" lang="en" xml:lang="en"> English </a></li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <section class="how-do-i"> 
+    <div class="usa-grid"> 
+     <div> 
+      <h1> Cómo puedo ... </h1> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="usa-hero"> 
+    <div class="usa-grid"> 
+     <div class="floating-box-1"> 
+      <ul>
+       <li><a href="/espanol/pasaportes-documentos-de-viaje">Solicitar un pasaporte estadounidense y otros documentos de viaje</a></li>
+       <li><a href="/espanol/programas-sociales">Conocer mis beneficios del Seguro Social</a></li>
+       <li><a href="/espanol/tramites-migratorios">Verificar el estatus de mi caso de inmigración</a></li>
+       <li><a href="/espanol/declaracion-impuestos">Presentar mi declaración de impuestos</a></li>
+      </ul> 
+     </div> 
+     <div class="floating-box-2 usa-width-one-third">
+      <p>USAGov en Español es su guía en Internet de información y servicios del Gobierno.</p>
+      <p><a href="/espanol/forma-de-uso">Conozca lo que puede&nbsp;hacer&nbsp;en este sitio</a></p>
+     </div> 
+    </div>
+   </section> 
+   <div id="alltpcs-link"> 
+    <p> <a href="#tpcs">Todos los temas y servicios</a> </p> 
+    <a href="#tpcs"><img src="../images/Icon_Down_Arrow_Blue.png" alt="“All" Topics“></a> 
+   </div> 
+   <div class="container clearfix"> 
+    <article> 
+     <header> 
+      <h1 id="tpcs">Servicios e información del Gobierno</h1> 
+     </header> 
+     <section class="infobytpc clearfix row"> 
+      <ul class="topics">
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/acerca-de-estados-unidos" class="topic-flag"> <span class="mocklink">Acerca de EE. UU.</span> <p>Información general sobre Estados Unidos, incluyendo historia, Gobierno, estructura política, etc.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/ayuda-financiera-becas-beneficios" class="topic-benefit"> <span class="mocklink">Ayuda financiera y beneficios</span> <p>Información sobre ayuda federal para estudiantes, beneficios y programas sociales del Gobierno.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/ciudadania-inmigracion-viajes" class="topic-globe"> <span class="mocklink">Ciudadanía, inmigración y viajes</span> <p>Información oficial del Gobierno sobre pasaportes, residencia permanente, visas y viajes.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/desastres-y-emergencias" class="topic-bullhorn"> <span class="mocklink">Desastres y emergencias</span> <p>Sepa qué hacer para estar preparado ante una emergencia y recibir ayuda para la recuperación después de un desastre natural.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/dinero" class="topic-tax"> <span class="mocklink">Dinero e impuestos</span> <p>Recomendaciones sobre el manejo del dinero, impuestos, crédito y deudas, dinero sin reclamar y más.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/directorios" class="topic-agencies"> <span class="mocklink">Directorios del Gobierno</span> <p>Información de contacto de las agencias federales, estatales y locales del Gobierno, funcionarios y embajadas.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/educacion" class="topic-cap"> <span class="mocklink">Educación</span> <p>Información del Gobierno sobre ayuda para estudiantes y personas que quieren aprender inglés. </p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/leyes-y-asuntos-legales" class="topic-scales"> <span class="mocklink">Leyes y asuntos legales</span> <p>Información del Gobierno de EE. UU. sobre discriminación, derechos y leyes federales.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/militares-y-veteranos" class="topic-medal"> <span class="mocklink">Militares y veteranos</span> <p>Conozca cómo inscribirse en el Servicio Selectivo, las Fuerzas Armadas y los beneficios para los militares y sus familias.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/negocios-y-organizaciones-ONG" class="topic-busa"> <span class="mocklink">Pequeñas empresas</span> <p>Información sobre contratación de empleados, propiedad intelectual, recursos en general y más.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/salud" class="topic-heart"> <span class="mocklink">Salud</span> <p>Información del Gobierno de EE. UU. sobre seguros médicos, atención y tratamiento de enfermedades.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/proteccion-consumidor" class="topic-consumer"> <span class="mocklink">Temas del consumidor</span> <p>Consejos para protegerse del fraude, presentar una queja por producto o servicio, etc.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/trabajo-y-desempleo" class="topic-job"> <span class="mocklink">Trabajo y desempleo</span> <p>Recursos para trabajadores, personas desempleadas, jubilados y emprendedores de negocios u organizaciones.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/vivienda" class="topic-mortgage"> <span class="mocklink">Vivienda</span> <p>Información oficial del Gobierno de EE. UU. para propietarios e inquilinos de casas o apartamentos.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/espanol/elecciones" class="topic-ballot"> <span class="mocklink">Votaciones y elecciones</span> <p>Información oficial del Gobierno para votar en EE. UU.</p> </a> </li> 
+      </ul> 
+     </section> 
+    </article> 
+   </div> 
+   <div class="usa-grid usa-footer-return-to-top"> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Subir </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>Sobre USAGov en Español</h3> </li> 
+       <li><a href="/espanol/acerca-de-gobiernosusa">Acerca de nosotros y avisos de este sitio</a></li> 
+       <li><a href="/espanol/medios">Medios</a></li> 
+       <li><a href="https://www.usa.gov/developer">Desarrolladores (en inglés)</a></li> 
+       <li><a href="/espanol/reporte-problemas-en-este-sitio-web">Reporte problemas en este sitio</a></li> 
+       <li><a href="/espanol/sitio-indice">Índice del sitio</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Envíenos sus preguntas</h3> </li> 
+       <li><a href="/espanol/centro-de-llamadas">Llame al 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://www.usa.gov/contact" lang="en" xml:>In English</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Reciba alertas por email</h3> 
+      <form action="https://conectate.gobiernousa.gov/suscripciones" method="get"> 
+       <label class="" for="email-2" id="">Su email</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Subscríbase</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/usagovespanol"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook"></a> </li> 
+       <li> <a href="https://www.youtube.com/USAgovespanol"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube"></a> </li> 
+       <li> <a href="https://twitter.com/usagovespanol"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter"></a> </li> 
+       <li> <a href="https://usa.gov/espanol/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Guía oficial de información y servicios del Gobierno</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-28227333-1', 'auto');
+		ga('send', 'pageview');
+	</script> 
+  <script type="text/javascript">
+
+	//<![CDATA[
+		var usasearch_config = { siteHandle:"gobiernousa" };
+					var script = document.createElement("script");
+					script.type = "text/javascript";
+					script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+					document.getElementsByTagName("head")[0].appendChild(script);
+	//]]>
+
+	</script> 
+  <!-- Needed_for_USA.gov_uptime_check -->  
+ </body>
+</html>

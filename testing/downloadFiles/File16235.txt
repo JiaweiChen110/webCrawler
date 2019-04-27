@@ -1,0 +1,631 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "213996, 211654, 35882, 35787, 36602, 35462",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Benefits, Grants, Loans",
+    "TaxLevel3": "Benefits",
+    "TaxLevel4": "Benefits",
+    "TaxLevel5": "Benefits",
+    "TaxLevel6": "Benefits"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Government Benefits  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/benefits"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Get information on government benefits that may help you pay for food, housing, health care, and other basic living expenses. Find out about eligibility requirements for programs like food stamps, welfare, and Medicaid, and how to apply for them.
+"> 
+  <meta property="og:url" content="https://www.usa.gov/benefits"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Government Benefits | USAGov"> 
+  <meta property="og:description" content="Get information on government benefits that may help you pay for food, housing, health care, and other basic living expenses. Find out about eligibility requirements for programs like food stamps, welfare, and Medicaid, and how to apply for them.
+"> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10677';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async></script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/programas-sociales" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/benefits-grants-loans" class="url" onmousedown="_sendEvent('Outbound','/benefits-grants-loans','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Benefits, Grants, Loans</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/finding-home" class="url" onmousedown="_sendEvent('Outbound','/finding-home','/',0);"> Affordable Rental Housing </a> </span> </li> 
+        <li class="slctd"> <a> <span>Benefits</span> </a> </li> 
+        <li> <span> <a href="/financial-aid" class="url" onmousedown="_sendEvent('Outbound','/financial-aid','/',0);"> Financial Aid for Students </a> </span> </li> 
+        <li> <span> <a href="/food-help" class="url" onmousedown="_sendEvent('Outbound','/food-help','/',0);"> Food Assistance </a> </span> </li> 
+        <li> <span> <a href="/grants" class="url" onmousedown="_sendEvent('Outbound','/grants','/',0);"> Grants and Loans </a> </span> </li> 
+        <li> <span> <a href="/help-with-bills" class="url" onmousedown="_sendEvent('Outbound','/help-with-bills','/',0);"> Help with Bills </a> </span> </li> 
+        <li> <span> <a href="/military-assistance" class="url" onmousedown="_sendEvent('Outbound','/military-assistance','/',0);"> Military Programs and Benefits </a> </span> </li> 
+        <li> <span> <a href="/retirement" class="url" onmousedown="_sendEvent('Outbound','/retirement','/',0);"> Retirement </a> </span> </li> 
+        <li> <span> <a href="/about-social-security" class="url" onmousedown="_sendEvent('Outbound','/about-social-security','/',0);"> Social Security Questions </a> </span> </li> 
+        <li> <span> <a href="/unemployment" class="url" onmousedown="_sendEvent('Outbound','/unemployment','/',0);"> Unemployment Help </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Government Benefits</h1> 
+      <p>Get information on government programs that may help you pay for food, housing, health care, and other basic living expenses. Find out about eligibility requirements for programs like food stamps, welfare, and Medicaid, and how to apply for them. </p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-213996" onclick="document.getElementById('item-213996').focus();"> Infographic: Get Help with Living Expenses </a> </li> 
+        <li> <a href="#item-211654" onclick="document.getElementById('item-211654').focus();"> Benefits and Financial Assistance from the Government </a> </li> 
+        <li> <a href="#item-35882" onclick="document.getElementById('item-35882').focus();"> Apply for Unemployment Benefits </a> </li> 
+        <li> <a href="#item-35787" onclick="document.getElementById('item-35787').focus();"> Food Stamps (SNAP Food Benefits) </a> </li> 
+        <li> <a href="#item-36602" onclick="document.getElementById('item-36602').focus();"> Welfare or Temporary Assistance for Needy Families (TANF) </a> </li> 
+        <li> <a href="#item-35462" onclick="document.getElementById('item-35462').focus();"> Medicaid and Children's Health Insurance Program (CHIP) </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-213996"> 
+      <header> 
+       <h2 id="item-213996">Infographic: Get Help with Living Expenses</h2> 
+      </header> 
+      <p> Federal government benefit programs can help people with a low income cover basic expenses like food, housing, and healthcare. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/Government_Benefits_Final_2019.png" alt="Infographic explaining government benefits for people with a low income."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="Infographic explaining government benefits for people with a low income."> <a href="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Government_Benefits_Final_2019_Hires.png" aria-labelledby="item-213996" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Government_Benefits_Final_2019_Hires.png',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-213996"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-213996" aria-labelledby="item-213996">Show Description of Infographic </button> 
+           <div id="infograph-b-213996" class="usa-accordion-content">
+            <p></p>
+            <p>If you have a low income and need help with basic living expenses, you may qualify for government benefits to help cover food, housing, medical, and other costs.</p>
+            <h3>Major Government Benefits Programs</h3>
+            <p>The federal government creates and gives money to states to run major assistance programs. Your state helps pay for some of these and may offer others too.</p>
+            <h4>Food</h4>
+            <p><strong>Supplemental Nutrition Assistance Program (SNAP, or food stamps)</strong> provides eligible people with benefits cards, used like debit cards, to buy food at authorized grocery stores and farmers markets.</p>
+            <p>Other food aid programs offer:</p>
+            <ul>
+             <li><p>Healthy foods to pregnant women, new moms, and kids under age 5</p></li>
+             <li><p>Free or low-cost meals or milk to kids at schools and daycare centers</p></li>
+             <li><p>Monthly food packages and farmers market coupons to seniors</p></li>
+            </ul>
+            <h4>Healthcare</h4>
+            <p><strong>Medicaid </strong>provides free or low-cost health benefits to adults, kids, pregnant women, seniors, and people with disabilities.</p>
+            <p><strong>Children’s Health Insurance Program (CHIP)</strong> offers free or low-cost medical and dental care to uninsured kids up to age 19 whose family income is above Medicaid’s limit but below their state’s CHIP limit.</p>
+            <h4>Housing</h4>
+            <p><strong>Subsidized Housing, Housing Vouchers, and Public Housing programs</strong> help low-income families, seniors, and people with disabilities get into affordable private or government-owned rental housing.</p>
+            <p><strong>Low Income Home Energy Assistance Program (LIHEAP)</strong> helps low-income households pay heating and cooling bills and offers low-cost home improvements to reduce those costs.&nbsp;</p>
+            <h4>Financial Assistance</h4>
+            <p><strong>Welfare or Temporary Assistance for Needy Families (TANF)</strong> provides cash for a limited time to low-income families working toward self-sufficiency. TANF may also offer non-cash benefits such as child care and job training.</p>
+            <p><strong>Supplemental Security Income (SSI)</strong> provides cash to low-income seniors and low-income adults and kids with disabilities.</p>
+            <h3>Eligibility and Application Requirements</h3>
+            <ul>
+             <li><p>All programs have income limits.</p></li>
+             <li><p>Most programs require you to be a U.S. citizen or eligible non-citizen.</p></li>
+             <li><p>Many programs have other state requirements like a family’s size and financial resources.</p></li>
+            </ul>
+            <p>Learn more about who’s eligible and how to apply for these programs at Benefits.gov or your state’s social, human, or health services office.</p>
+            <h3>Grants and Loans Are Not Benefits</h3>
+            <p><strong>Don’t believe ads</strong> for “free government grants” to start a business or pay personal expenses.<strong> The federal government does not give grants to individuals.</strong> It awards grants to states, universities, and other organizations.</p>
+            <p>You may be able to get a government loan to help with school, housing, and business costs, but <strong>you must repay it,</strong> typically with interest.</p>
+            <p>Learn more at USA.gov/benefits-grants-loans.</p>
+            <p>Brought to you by USAGov</p>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211654"> 
+      <header> 
+       <h2 id="item-211654">Benefits and Financial Assistance from the Government</h2> 
+      </header> 
+      <p>If you're looking for immediate or emergency help, your <a href="https://www.usa.gov/states-and-territories">state's human service or social service agency</a> might be able to provide financial assistance or refer you to local community organizations.</p>
+      <h3>Search for Financial Assistance from the Government</h3>
+      <p>Benefits.gov is a free website that can help you determine which types of government assistance you might qualify for and how and where to apply.</p>
+      <ul>
+       <li><a href="http://www.benefits.gov/benefits/benefit-finder#benefits&amp;qc=cat_1">Using the Benefit Finder</a>, answer questions about yourself and your needs to see if you’re eligible for programs to help you pay for food, health insurance, or other necessities.</li>
+      </ul>
+      <p>Check back with <a href="http://www.benefits.gov/">Benefits.gov</a> in the future to see if you’re eligible for additional benefits after major life events and as new benefit programs become available.</p>
+      <h3>Search for Benefits and Programs for People with Disabilities</h3>
+      <p>Find government and local disability programs including <a href="https://www.usa.gov/disability-programs">housing, jobs, education, and health care</a>.</p>
+      <p>If you receive Social Security disability benefits (SSDI), review these <a href="https://www.usa.gov/about-social-security">top questions about Social Security</a>.</p>
+      <h3>Search for Benefits for Military Veterans and Their Families</h3>
+      <p><a href="https://www.usa.gov/veterans">Learn about veterans benefits</a> such as burial, education, health, and housing.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35882"> 
+      <header> 
+       <h2 id="item-35882">Apply for Unemployment Benefits</h2> 
+      </header> 
+      <h3>What help is available?</h3>
+      <p>There are a variety of benefit and aid programs to help you if you lose your job.&nbsp;<a href="https://www.careeronestop.org/">CareerOneStop.org</a> is a good place to start. It can help with unemployment insurance benefits, job training, and finding a job.</p>
+      <h3>Unemployment Insurance</h3>
+      <h4>Am I eligible?</h4>
+      <p>Unemployment insurance programs pay you money if you lose your job through no fault of your own. You must meet your state's eligibility requirements.</p>
+      <h4>How do I apply?</h4>
+      <p>Each state runs its own program. <a href="https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/unemployment-benefits.aspx">Select your state from this map</a> to find out how to apply. You may be able to file online, by phone, or in person.&nbsp;</p>
+      <h4>Is there anything else I need to know?</h4>
+      <ul>
+       <li><p>Some states provide extended benefits when there's high unemployment. Extended unemployment insurance benefits last for 13 weeks. You can apply for extended benefits only once you've run out of regular benefits. Check with your state; not everyone qualifies.</p></li>
+       <li><p>You must <a href="https://www.irs.gov/taxtopics/tc418">report unemployment benefits as income</a> on your tax return.</p></li>
+      </ul>
+      <h3>Other Types of Benefits and Programs for the Unemployed</h3>
+      <h4>Educational Help</h4>
+      <p>Federal agencies offer many <a href="https://www.careeronestop.org/LocalHelp/EmploymentAndTraining/employment-and-training.aspx">unemployment education and training programs</a>. They are generally free or low cost to the unemployed.</p>
+      <h4>Self-Employment Help</h4>
+      <p><a href="http://workforcesecurity.doleta.gov/unemploy/self.asp">Self-employment assistance programs</a> help unemployed workers start their own small businesses. Delaware, Mississippi, New Hampshire, New York, and Oregon offer this program.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35787"> 
+      <header> 
+       <h2 id="item-35787">Food Stamps (SNAP Food Benefits)</h2> 
+      </header> 
+      <h3>What help is available?</h3>
+      <p>If you have a low income, the <a href="https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap">Supplemental Nutrition Assistance Program (SNAP)</a>, formerly known as "food stamps," is a federal nutrition program that can help you stretch your food budget.</p>
+      <h3>Am I eligible?</h3>
+      <p>To determine if you are eligible, you must meet certain <a href="https://www.fns.usda.gov/snap/eligibility">requirements including resource and income limits</a>.&nbsp;</p>
+      <h3>How do I apply?</h3>
+      <p>Find the <a href="http://www.fns.usda.gov/snap/apply">online application for your state</a>, local office addresses, and phone numbers. You may &nbsp;also apply in person at a state or local office.</p>
+      <h3>Is there anything else I need to know?</h3>
+      <ul>
+       <li><p>You get benefits each month on a plastic electronic benefits transfer (EBT) card, which you use like a credit or debit card to purchase eligible food items at your local authorized SNAP grocery stores&nbsp;and some <a href="https://www.fns.usda.gov/ebt/snap-and-farmers-markets">farmer's markets.&nbsp;</a></p></li>
+       <li><p>Some states have <a href="http://www.fns.usda.gov/ebt/state-ebt-websites">websites set up for managing your benefits</a>. If your state doesn't have an EBT management website, you can contact your <a href="http://www.fns.usda.gov/snap/state-informationhotline-numbers">state SNAP office</a> to check your benefits.</p></li>
+      </ul>
+      <h3>How do I file a complaint?</h3>
+      <p>If you need to file a complaint concerning your food stamps or attempt to get food stamps, the following resources can help:</p>
+      <ul>
+       <li><p>If you have <a href="http://asktheexpert.custhelp.com/app/answers/detail/a_id/1595">questions about your benefit amount</a>, contact your <a href="https://www.fns.usda.gov/snap/state-informationhotline-numbers">local field office</a> to request a hearing.</p></li>
+       <li><p>File a <a href="http://www.usda.gov/oig/hotline.htm">complaint online or by phone about a SNAP retailer</a>. You will need to give the name and the location of the store. You may remain anonymous if you choose.</p></li>
+       <li><p>If you suspect fraud or abuse of the SNAP program, contact your <a href="https://www.fns.usda.gov/report-nutrition-assistance-fraud-state">state's SNAP fraud hotline &nbsp;or website</a>.</p></li>
+       <li><p><a href="https://www.ascr.usda.gov/node/119">Learn how to file a complaint</a> if you believe you have experienced discrimination in the SNAP program because of age, sex, color, race, disability, religious creed, national origin, limited English proficiency, or political beliefs.</p></li>
+      </ul>
+      <h3>For Retailers</h3>
+      <p>If you are a retailer or farmers market trying to become authorized to accept SNAP benefits, <a href="https://www.fns.usda.gov/snap/retailer-apply">follow these application steps</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36602"> 
+      <header> 
+       <h2 id="item-36602">Welfare or Temporary Assistance for Needy Families (TANF)</h2> 
+      </header> 
+      <p><a href="https://www.acf.hhs.gov/ofa/programs/tanf/about">Temporary Assistance for Needy Families (TANF)</a>, also known as welfare, is designed to help families recover from temporary difficulties and move forward.</p>
+      <h3>What help is available?</h3>
+      <p>Recipients may qualify for help with food, housing, home energy, child care, job training, and more.</p>
+      <p>Each state TANF program is operated differently and <a href="https://aspe.hhs.gov/dataset/tanf-program-names">has a different name</a>.</p>
+      <p>Some <a href="https://www.acf.hhs.gov/ofa/programs/tribal/tribal-tanf">tribal groups</a> operate their own TANF programs.</p>
+      <h3>Am I eligible? &nbsp;</h3>
+      <ul>
+       <li>Each state or tribal territory decides the specific eligibility criteria for financial assistance or other benefits and services.</li>
+       <li>You must be a resident of the state where you are applying.</li>
+      </ul>
+      <h3>How do I apply?</h3>
+      <ul>
+       <li>To sign-up for temporary benefits, you can apply at your local or county social services agency. <a href="https://www.acf.hhs.gov/ofa/help">Call your state TANF office</a> for your local contact information.</li>
+      </ul>
+      <h3>How do I report TANF benefit fraud?</h3>
+      <p>If you suspect possible welfare fraud, contact your local TANF office or contact the Department of Health and Human Services (HHS) <a href="https://www.usa.gov/federal-agencies/hhs-tips-fraud-hotline">Inspector General’s Fraud Hotline</a>.</p>
+      <h3>What else do I need to know?</h3>
+      <p>If you receive TANF, you may be eligible to receive <a href="https://www.usa.gov/benefits#item-211654">other government benefits</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35462"> 
+      <header> 
+       <h2 id="item-35462">Medicaid and Children's Health Insurance Program (CHIP)</h2> 
+      </header> 
+      <p>Medicaid is a&nbsp;federal and state health insurance program for people with a low income.</p>
+      <p>The Children’s Health Insurance Program (CHIP) offers health coverage to children in families with incomes too high to qualify for Medicaid, but who can’t afford private coverage. Medicaid and CHIP program <a href="https://www.healthcare.gov/medicaid-chip-program-names/">names are different in each state</a>.</p>
+      <h3>Medicaid</h3>
+      <h4>What help is available?</h4>
+      <p><a href="https://www.medicaid.gov/">Medicaid</a> provides free or low-cost medical benefits to eligible low-income adults, children, pregnant women, seniors, and people with disabilities.</p>
+      <h4>Am I eligible?</h4>
+      <p>Check with your state’s Medicaid office to see if you or your family members are <a href="https://www.healthcare.gov/medicaid-chip/">eligible for benefits</a>. In general, it depends on at least one or a combination of</p>
+      <ul>
+       <li>Age</li>
+       <li>Income level</li>
+       <li>Number of people in your family</li>
+       <li>If you are pregnant or have a disability</li>
+      </ul>
+      <h4>How do I apply?</h4>
+      <p>There are two ways to apply for Medicaid:</p>
+      <ul>
+       <li><a href="https://www.medicaid.gov/state-overviews/index.html">Contact your state Medicaid agency</a>. You must be a resident of the state where you are applying for benefits.</li>
+       <li><a href="https://www.healthcare.gov/create-account">Fill out an application through the Health Insurance Marketplace</a>.</li>
+      </ul>
+      <h4>How do I complain?</h4>
+      <p>If you have a problem with Medicaid or CHIP services, you can file a complaint. These programs are managed by each state rather than the federal government. Contact your <a href="https://www.medicaid.gov/state-overviews/index.html">state's Medicaid program</a> to report your issue.</p>
+      <h3>What additional help is available for children?</h3>
+      <p>If your income is too high for Medicaid, your child may still qualify for the <a href="https://www.insurekidsnow.gov/index.html">Children’s Health Insurance Program (CHIP)</a>. It covers medical and <a href="https://www.insurekidsnow.gov/coverage/find-a-dentist/index.html">dental care</a> for uninsured children and teens up to age 19.</p>
+      <h4>Is my child eligible for CHIP?</h4>
+      <p><a href="http://www.insurekidsnow.gov/coverage/questions/index.html#childEligible">Rules to qualify are different in every state</a>. In most cases, they depend on income.</p>
+      <h4>How do I apply?</h4>
+      <p>You have two ways to apply for CHIP:</p>
+      <ul>
+       <li><a href="https://www.insurekidsnow.gov/coverage/index.html">Find a program by state</a> or call 1-877-KIDS-NOW (<a href="tel:18775437669">1-877-543-7669</a>).</li>
+       <li>Fill out an application through the <a href="https://www.healthcare.gov/medicaid-chip/getting-medicaid-chip/">Health Insurance Marketplace</a>.</li>
+      </ul>
+      <h4>Is there anything else I need to know?</h4>
+      <ul>
+       <li>You can apply for and enroll in Medicaid or CHIP anytime during the year.</li>
+       <li><a href="https://www.healthcare.gov/medicaid-chip/using-medicaid-or-chip-coverage/index.html">Learn how to use your Medicaid or CHIP coverage</a>.</li>
+      </ul>
+      <ul>
+       <li>The <a href="https://www.medicaid.gov/basic-health-program/index.html">Basic Health Program (BHP)</a> offers affordable, continued coverage for people whose income shifts above and below Medicaid or CHIP levels.</li>
+       <li><a href="https://www.usa.gov/health-insurance">Get information on other common types of health insurance</a>, such as Medicare, and find help paying for medical bills.</li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/benefits&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Government Benefits https://www.usa.gov/benefits"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Government Benefits&amp;body=https://www.usa.gov/benefits"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: March 29, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

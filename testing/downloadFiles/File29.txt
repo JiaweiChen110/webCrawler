@@ -1,0 +1,794 @@
+<!doctype html>
+<html xmlns:esi="http://www.edge-delivery.org/esi/1.0" lang="en-US" class="no-js">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-60x60.png" sizes="60x60" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon"> 
+  <link href="/state-responsive/images/favicons/apple-touch-icon-180x180.png" sizes="180x180" rel="apple-touch-icon"> 
+  <link sizes="32x32" href="/state-responsive/images/favicons/favicon-32x32.png" type="image/png" rel="icon"> 
+  <link sizes="192x192" href="/state-responsive/images/favicons/android-chrome-192x192.png" type="image/png" rel="icon"> 
+  <link sizes="96x96" href="/state-responsive/images/favicons/favicon-96x96.png" type="image/png" rel="icon"> 
+  <link sizes="16x16" href="/state-responsive/images/favicons/favicon-16x16.png" type="image/png" rel="icon"> 
+  <link href="/state-responsive/images/favicons/manifest.json" rel="manifest"> 
+  <meta content="#da532c" name="msapplication-TileColor"> 
+  <meta content="/state-responsive/images/favicons/mstile-144x144.png" name="msapplication-TileImage"> 
+  <meta content="#ffffff" name="theme-color"> 
+  <title>Subject Index</title> 
+  <link href="/state-responsive/css/subpage.css" rel="stylesheet"> 
+  <link href="/state-responsive/css/webfonts.css" rel="stylesheet"> 
+  <script src="/state-responsive/js/vendor/jquery.js"></script>
+  <script src="/state-responsive/js/vendor/modernizr.min.js"></script>
+  <script src="/state-responsive/js/foundation.min.js"></script>
+  <script src="/state-responsive/js/vendor/slick.min.js"></script>
+  <script src="/state-responsive/js/vendor/responsive-nav.min.js"></script>
+  <script src="/state-responsive/js/vendor/jquery.doubleScroll.js"></script>
+  <script src="/state-responsive/js/scripts.js"></script>
+  <script src="/state-responsive/js/vendor/jquery.doubleScroll.js"></script>
+  <script type="text/javascript" src="/foresee/foresee-trigger-new.js"></script> 
+  <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOS" type="text/javascript" async></script>
+  <script src="https://www.googletagmanager.com/gtag/js?id=UA-107671946-1" async></script>
+  <script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-107671946-1');
+</script> 
+  <script language="javascript">
+var item_type = 'c';
+var item_id = '30825';
+var embedded_plugin_status=new Array();
+var embedded_plugin_Q = new Array();
+</script>
+  <script>
+$( document ).ready(function() {
+$(".l-quick-links").load("/quicklinks_subpage.htm");
+});
+</script>
+  <script src="/js/highlights.js"></script> 
+ </head> 
+ <body> 
+  <a id="top"></a>
+  <a class="element-invisible element-focusable skip show-on-focus" href="#main-content">Skip to Main Content</a> 
+  <div class="container"> 
+   <!--googleoff: all--> 
+   <header class="l-header" role="banner"> 
+    <div class="row"> 
+     <div class="small-12 columns"> 
+      <div class="l-logo left"> 
+       <a class="i-dos-seal" href="/"><span class="hide">DOS Seal</span></a> 
+       <div class="left"> 
+        <h1 class="i-dos-text">U.S. Department of State</h1> 
+        <h2>Diplomacy in Action</h2> 
+       </div> 
+      </div> 
+      <nav class="l-social" role="navigation"> 
+       <ul class="inline-list"> 
+        <li> <a target="_self" href="http://video.state.gov/"><span class="fa icon-video-camera fa-lg"><span class="hide">Video</span></span></a> </li> 
+        <li> <a target="_self" href="https://twitter.com/StateDept"><span class="fa icon-twitter fa-lg"><span class="hide">Twitter</span></span></a> </li> 
+        <li> <a target="_self" href="https://www.facebook.com/usdos"><span class="fa icon-facebook fa-lg"><span class="hide">Facebook</span></span></a> </li> 
+        <li> <a aria-expanded="false" aria-controls="d-more-drop" data-options="is_hover:false;" data-dropdown="d-more-drop" class="d-more" target="_self">More</a> 
+         <ul tabindex="-1" aria-hidden="true" data-dropdown-content="drop" class="f-dropdown tiny" id="d-more-drop"> 
+          <li> <a target="_self" href="http://www.flickr.com/photos/statephotos"><span class="fa icon-flickr fa-lg fa-fw"></span>Flickr</a> </li> 
+          <li> <a target="_self" href="http://www.youtube.com/user/statevideo"><span class="fa icon-youtube fa-lg fa-fw"></span>YouTube</a> </li> 
+          <li> <a target="_self" href="http://instagram.com/statedept"><span class="fa icon-instagram fa-lg fa-fw"></span>Instagram</a> </li> 
+          <li> <a target="_self" href="https://plus.google.com/u/0/102630068213960289352#102630068213960289352/posts"><span class="fa icon-google-plus-square fa-lg fa-fw"></span>Google+</a> </li> 
+          <li> <a target="_self" href="http://statedept.tumblr.com/"><span class="fa icon-tumblr fa-lg fa-fw"></span>Tumblr</a> </li> 
+          <li> <a target="_self" href="http://blogs.state.gov/"><span class="fa icon-comments-o fa-lg fa-fw"></span>DipNote Blog</a> </li> 
+          <li> <a target="_self" href="/misc/echannels/66791.htm"><span class="fa icon-rss fa-lg fa-fw"></span>RSS</a> </li> 
+          <li> <a target="_self" href="https://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA"><span class="fa icon-check fa-lg fa-fw"></span>Subscribe</a> </li> 
+         </ul> </li> 
+       </ul> 
+      </nav> 
+      <a class="customTopbarToggle show-for-small-only"><span class="hide">Toggle Topbar</span></a> 
+     </div> 
+    </div> 
+   </header> 
+   <div class="l-topbar"> 
+    <div class=""> 
+     <nav data-options="mobile_show_parent_link:true;back_text:« Back" data-topbar="topbar" class="top-bar" role="navigation"> 
+      <ul class="title-area show-for-medium-up"> 
+       <li class="name"></li> 
+       <li class="toggle-topbar menu-icon" id="customToggle"> <a><span><span class="hide">Menu</span></span></a> </li> 
+      </ul> 
+      <section class="top-bar-section"> 
+       <ul id="main-menu" class="main-nav left"> 
+        <li class="expanded has-dropdown not-click"><a href="http://www.state.gov/secretary/index.htm">Secretary of State</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/281217.htm">Biography</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/secretary/remarks/index.htm">Remarks</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/secretary/travel/index.htm">Travel</a></li> 
+         </ul> </li> 
+        <li class="expanded has-dropdown not-click"><a href="/aboutstate">About</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/160060.htm">Advisory Groups</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/d/rm/rls/perfrpt/index.htm">Agency Financial Reports</a></li> 
+          <li class="leaf"><a href="http://www.afsa.org/">American Foreign Service Association</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ei/biog/index.htm">Biographies</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6112.htm">Budget</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm">Bureaus and Offices</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/map/index.htm">Department of State by State Map</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/d/index.htm">Deputy Secretary of State</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/ocr/c11528.htm">EEO/No FEAR Act</a></li> 
+          <li class="leaf"><a href="https://www.stateoig.gov/hotline">Inspector General Hotline</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/open/index.htm">Open Government Initiative</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ei/rls/dos/99484.htm">Organization Chart</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/partnerships/partner/index.htm">Partner With State</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/d/rm/c6113.htm">Plans, Performance, Budgets</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/dmr/qddr/index.htm">QDDR</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/m/a/dir/rulemaking/index.htm">Rules and Info Collection</a></li> 
+          <li class="leaf"><a href="http://www.usembassy.gov/">U.S. Embassies and Other Posts</a></li> 
+          <li class="leaf"><a href="https://www.state.gov/aboutstate/">Vision and Mission Statements</a></li> 
+         </ul> </li> 
+        <li class="expanded has-dropdown not-click"><a href="/whatwedo">What We Do</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/t/index.htm">Arms Control and International Security</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/index.htm">Civilian Security, Democracy, and Human Rights</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/e/index.htm">Economic Growth, Energy, and the Environment</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/m/index.htm">Management</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/index.htm">Political Affairs</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/index.htm">Public Diplomacy and Public Affairs</a></li> 
+         </ul> </li> 
+        <li class="expanded has-dropdown not-click"><a href="/policy">Policy Issues</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/anticorruption/index.htm">Anti-Corruption</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/e/oes/index.htm">Climate &amp; Environment</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/inl/index.htm">Combatting Drugs &amp; Crime</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/ct/index.htm">Counterterrorism &amp; Countering Violent Extremism</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/cyberissues/index.htm">Cyber Issues</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/seci/index.htm">Defeating ISIS</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/drl/index.htm">Democracy &amp; Human Rights</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/e/eb/index.htm">Economic Affairs &amp; Trade Policy</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/e/enr/index.htm">Energy</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/globalfoodsecurity/index.htm">Food Security</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/gac/index.htm">Health Diplomacy</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/t/isn/index.htm">Nonproliferation</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/e/oes/ocns/opa/index.htm">Oceans &amp; Arctic</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/prm/index.htm">Refugees</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/j/tip/index.htm">Trafficking in Persons</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/s/gwi/index.htm">Women's Issues</a></li> 
+         </ul> </li> 
+        <li class="expanded has-dropdown not-click"><a href="/p">Countries &amp; Regions</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/misc/list/index.htm">A-Z List of Countries and Other Areas</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/af/index.htm">Africa (Sub-Sahara)</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/eap/index.htm">East Asia and the Pacific</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/eur/index.htm">Europe and Eurasia</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/nea/index.htm">Near East (northern Africa, Middle East)</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/sca/index.htm">South and Central Asia</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/wha/index.htm">Western Hemisphere (Latin America, the Caribbean, Canada)</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/p/io/index.htm">UN &amp; Other International Organizations</a></li> 
+         </ul> </li> 
+        <li class="expanded has-dropdown not-click"><a href="/media">Press</a> 
+         <ul class="dropdown"> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/prs/dpb/index.htm">Department Press Briefings</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/prs/ps/index.htm">Press Releases</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/prs/appt/index.htm">Public Schedule</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/prs/index.htm">Office of Press Relations</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/r/pa/ime/index.htm">International Media Engagement</a></li> 
+          <li class="leaf"><a href="http://www.state.gov/misc/echannels/66791.htm">RSS News Feeds</a></li> 
+          <li class="leaf"><a href="https://service.govdelivery.com/accounts/USSTATEBPA/subscriber/new">Email Subscriptions</a></li> 
+          <li class="leaf"><a href="//fpc.state.gov">Foreign Press Center</a></li> 
+         </ul> </li> 
+       </ul> 
+      </section> 
+     </nav> 
+    </div> 
+   </div> 
+   <!--googleon: all--> 
+   <main class="l-main subpage" id="main-content" role="main"> 
+    <div class="row small-uncollapse medium-collapse"> 
+     <div class="small-12 columns"> 
+      <div class="l-browse"> 
+       <div class="row collapse"> 
+        <div class="small-12 medium-4 medium-offset-8 columns"> 
+         <div class="l-search-wrapper"> 
+          <form method="get" action="//findit.state.gov/search" name="gs"> 
+           <label class="hide" for="l-search-input">Search Input</label>
+           <input placeholder="Search Site..." id="l-search-input" name="query" type="text">
+           <input type="hidden" name="affiliate" value="dos_stategov">
+           <button title="Search" name="search" type="submit" onclick="if($('#l-search-input').val()=='Search Site...')$('#l-search-input').val('');"><span class="fa icon-search"></span><span class="show-for-sr">Search</span></button> 
+          </form> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="row show-for-small-only"> 
+     <div class="small-12 text-center columns"> 
+      <a class="button b-subnav-jump" href="#subnav-anchor" role="button">Jump to In This Section</a> 
+     </div> 
+    </div> 
+    <div class="row large-collapse"> 
+     <div class="small-12 medium-9 medium-push-3 large-9 large-push-3 l-padding-left columns"> 
+      <a id="main-content"></a>
+      <ul class="breadcrumbs">
+       <li><a href="/">Home</a></li>
+       <li><a href="http://www.state.gov/r/index.htm">Under Secretary for Public Diplomacy and Public Affairs</a></li>
+       <li><a href="http://www.state.gov/r/pa/index.htm">Bureau of Public Affairs</a></li>
+       <li><a href="http://www.state.gov/r/pa/ei/index.htm">Bureau of Public Affairs: Publications</a></li>
+      </ul>
+      <div class="l-page-title clearfix"> 
+       <h2 class="title left" id="page-title">Subject Index</h2> 
+       <div class="right"> 
+        <div class="l-addthis-container right"> 
+         <div class="addthis_toolbox addthis_default_style addthis_24x24_style"> 
+          <a class="addthis_button_facebook"></a>
+          <a class="addthis_button_twitter"></a> 
+          <a class="addthis_button_google_plusone" g:plusone:annotation="none" g:plusone:size="small"></a> 
+          <a class="addthis_button_compact">Share</a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="l-outer-line gradient"> 
+       <div class="l-inner-background"> 
+        <div class="l-wrap">
+         <p> <a name="top"></a>To access the alphabetical index of subjects and topics included on state.gov, click on a letter below. </p> 
+         <p> &nbsp; </p> 
+         <table border="1" cellpadding="5" cellspacing="5" width="100%"> 
+          <thead> 
+          </thead> 
+          <tbody> 
+           <tr> 
+            <td style="text-align: center;"><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#a"><strong>A</strong></a></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#b">B</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#c">C</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#d">D</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#e">E</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#f">F</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#g">G</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#h">H</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#i">I</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#j">J</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#k">K</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#l">L</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#m">M</a></strong></strong></td> 
+           </tr> 
+           <tr> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#n">N</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#o">O</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#p">P</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#q">Q</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#r">R</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#s">S</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#t">T</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#u">U</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#v">V</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#w">W</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#x">X</a></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#y">Y</a></strong></strong></td> 
+            <td style="text-align: center;"><strong><strong><a href="http://www.state.gov/r/pa/ei/subject/index.htm#z">Z</a></strong></strong></td> 
+           </tr> 
+          </tbody> 
+          <tfoot> 
+          </tfoot> 
+         </table> 
+         <p> <b><a name="a"></a>A</b> </p> 
+         <table border="0" cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> AIDS (<a href="http://www.state.gov/s/gac/">Office of the U.S. Global AIDS Coordinator</a>)<br> <br> <a href="http://www.aafsw.org/">AAFSW</a> (Association of the American Foreign Service Worldwide) </p> <p> Abroad (See Overseas) </p> <p> <a href="http://www.state.gov/s/d/rm/rls/perfrpt/">Accountability Report</a>, Performance and </p> <p> <a name="address"></a><strong>Addresses and Phone Numbers</strong><br> (<i>see also </i><a href="http://www.state.gov/contact">Contact Us</a>)<br> <br> <strong><a name="mail"></a></strong><strong>Mailing address:</strong><br> U.S. Department of State<br> 2201 C St. NW<br> Washington, DC 20520<br> 202-647-4000 </p> <p> <a name="pl"></a><strong>Public Communication Division: </strong><br> PA/PL, Rm. 2206<br> U.S. Department of State<br> 2201 C Street NW<br> Washington, D.C. 20520<br> 202-647-6575 </p> <p> <a name="hotline"></a><strong>Travelers' Hotline </strong><br> 202-647-5225 </p> <p> <a href="http://www.state.gov/m/a">Administration</a>, Bureau of </p> <p> Adoption<br> -- <a href="http://www.adoption.state.gov/">International</a><br> -- <a href="http://www.uscis.gov/portal/site/uscis">Citizenship Issues</a> </p> <p> <a href="http://travel.state.gov/content/passports/english/emergencies/scams/inheritances.html">Advance Fee Business Scams</a> </p> <p> <a href="http://www.state.gov/t/isn/acw/index.htm">Advanced Conventional Weapons</a> </p> <p> <a href="http://www.state.gov/m/ds/terrorism/c8650.htm">Advisory Council</a>, Overseas Security </p> <p> <a href="http://www.state.gov/p/sca/ci/af/">Afghanistan</a> Country Page </p> <p> <a href="http://www.state.gov/p/af">African Affairs</a>, Bureau of </p> </td> 
+            <td width="33%"> <p> <a href="http://www.usaid.gov/">Agency for International Development</a> (USAID) </p> <p> <a href="http://www.aphis.usda.gov/permits/index.shtml">Agricultural Products</a>, Bringing into the U.S. </p> <p> <a href="http://www.state.gov/p/eur/ci/al/">Albania</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/ag">Algeria</a> Country Page </p> <p> Allowances<br> -- <a href="http://www.state.gov/m/a/als/">Office of</a><br> -- <a href="http://aoprals.state.gov/Web920/allowance.asp?menu_id=95">Hardship and Danger Pay</a><br> -- <a href="http://aoprals.state.gov/Web920/allowance.asp?menu_id=95">Living Quarters</a><br> -- <a href="http://aoprals.state.gov/Web920/allowance.asp?menu_id=95">Post Allowance</a> (Cost of Living)<br> -- <a href="http://aoprals.state.gov/Web920/allowance.asp?menu_id=95">Education</a><br> -- <a href="http://aoprals.state.gov/Web920/allowance.asp?menu_id=95">Foreign Per Diem Rates</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/an/">Andorra</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ao/">Angola</a> Country Page </p> <p> Animals<br> -- <a href="http://www.state.gov/m/fsi/tc/34600.htm">Bringing into or Returning to the U.S.</a><br> -- <a href="http://www.state.gov/m/fsi/tc/c10442.htm">Traveling With Pets</a> </p> <p> Announcements<br> -- <a href="http://www.state.gov/m/dghr/c4340.htm">OPM and Department of State</a><br> -- <a href="https://travel.state.gov/content/passports/en/alertswarnings/worldwide-caution.html">Public</a> (Travel-related)<br> -- <i>See also</i> <a href="https://travel.state.gov/content/passports/en/alertswarnings.html">travel warnings</a> and <a href="https://travel.state.gov/content/passports/en/country.html">Country Specific Information</a> </p> <p> <a href="http://www.state.gov/e/oes/ocns/opa/c6528.htm">Antarctic Policy</a><br> <br> <a href="http://www.state.gov/j/inl/c/crime/corr/index.htm">Anti-corruption Programs</a><br> -- <i>See also </i><a href="http://www.state.gov/e/eb/cba/gc/">Global Corruption</a><br> <br> <a href="http://www.state.gov/j/drl/rls/40258.htm">Anti-Semitism</a>, Report on Global </p> <p> Anti-terrorism -- See <a href="http://www.state.gov/s/ct">Counterterrorism</a><br> <br> <a href="http://www.state.gov/p/wha/ci/ac/">Antigua and Barbuda</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/regional/apec/">APEC</a> (Asia-Pacific Economic Cooperation) </p> <p> Archives for <a href="http://www.state.gov/">www.state.gov</a>:<br> --<a href="http://2009-2017.state.gov/">2009-2017</a><br> --<a href="http://2001-2009.state.gov/">2001-2009</a><br> --<a href="http://1997-2001.state.gov">1997-2001</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/e/oes/ocns/opa/arc/index.htm">Arctic Policy</a><br> <br> <a href="http://www.state.gov/p/wha/ci/ar/">Argentina</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/am/">Armenia</a> Country Page </p> <p> Arms Control; see<br> -- <a href="http://www.state.gov/t/isn">International Security and Nonproliferation</a>, Bureau of<br> -- <a href="http://www.state.gov/t/avc/">Arms Control, Verification, and Compliance</a>, Bureau of<br> -- <a href="http://www.state.gov/t/pm/">Political-Military Affairs</a>, Bureau of </p> <p> Arrest or detention of foreign nationals in the U.S. (<i>See</i> <a href="https://travel.state.gov/content/dam/travel/CNAtrainingresources/CNA%20Pocket%20Card_BW.pdf">Information for Federal, State, and other Local Law Enforcement and Other Officials)</a> </p> <p> <a href="http://art.state.gov/">Art in Embassies Program</a> </p> <p> Article 98 Agreements<br> -- <a href="http://www.state.gov/t/pm">And the International Criminal Court</a> </p> <p> Asia<br> -- <a href="http://www.state.gov/p/eap/regional/apec/">Asia-Pacific Economic Cooperation</a><br> -- <a href="http://www.state.gov/p/eap/">East</a><br> -- <a href="http://www.state.gov/p/eur/">Eurasia</a><br> -- <a href="http://www.state.gov/p/sca/">South and Central</a><br> -- Southeast (included in <a href="http://www.state.gov/p/eap/">East Asia</a>) </p> <p> <a href="http://www.usaid.gov/">Assistance</a>, Foreign </p> <p> <a href="http://www.aafsw.org/">Associates of the American Foreign Service Worldwide</a> (AAFSW) </p> <p> <a href="http://eca.state.gov/programs-initiatives/sports-diplomacy">Athletics</a>, International </p> <p> <a href="http://www.state.gov/p/eap/ci/as/">Australia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/au/">Austria</a> Country Page<br> <br> <a href="http://travel.state.gov/content/travel/english/legal-considerations/judicial/authentication-of-documents/office-of-authentications.html">Authentications </a>(Documents) </p> <p> <a href="http://j1visa.state.gov/programs/au-pair/">Au Pair Program</a> </p> <p> <a href="http://www.state.gov/e/eb/ace/index.htm">Award for Corporate Excellence</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/aj/">Azerbaijan</a> Country Page </p> <p style="text-align: right;"> &nbsp; </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="b"></a>B</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%">Background Notes, s<em>ee </em><a href="http://www.state.gov/m/dghr/flo/c24338.htm">Bilateral Relations Fact Sheets</a> <p> (The) <a href="http://www.state.gov/p/wha/ci/bf/" jquery1243532814751="212">Bahamas</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/ba" jquery1243532814751="213">Bahrain</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca/ci/bg/" jquery1243532814751="214">Bangladesh</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/bb/" jquery1243532814751="215">Barbados</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/bo/" jquery1243532814751="216">Belarus</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/be/" jquery1243532814751="217">Belgium</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/bh/" jquery1243532814751="218">Belize</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/bn/" jquery1243532814751="219">Benin</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca/ci/bt/" jquery1243532814751="220">Bhutan</a> Country Page </p> <p> <a href="http://www.state.gov/s/l/c7344.htm" jquery1243532814751="221">Bilateral Investment Claims</a> </p> <p> <a href="http://www.state.gov/e/eb/ifd/bit/index.htm" jquery1243532814751="222">Bilateral Investment Treaties </a> </p> <p> <a href="http://www.state.gov/m/dghr/flo/c24338.htm" jquery1243532814751="223">Bilateral and de facto Work Agreements</a><br> <br> <a href="http://www.state.gov/r/pa/ei/bgn/">Bilateral Relations Fact Sheets</a> </p> <p> Bioengineering (<i>see </i><a href="http://www.state.gov/e/eb/tpp" jquery1243532814751="224">Agricultural Biotechnology</a>) </p> <p> Biographies of Department Officials<br> -- <a href="http://www.state.gov/r/pa/ei/biog/c130.htm" jquery1243532814751="225">Alphabetical listing</a><br> -- <a href="http://www.state.gov/r/pa/ei/biog/title/index.htm" jquery1243532814751="226">Functional listing</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/t/isn/bw/" jquery1243532814751="227">Biological Weapons Convention</a> </p> <p> Biotechnology<br> -- <a href="http://www.state.gov/e/eb/tpp/bta/index.htm" jquery1243532814751="229">Trade Affairs</a><br> -- <a href="http://www.state.gov/e/eb/" jquery1243532814751="230">Agricultural</a><br> <br> Birth Certificates, Obtaining </p> <p> -- <a href="http://www.cdc.gov/nchs/howto/w2w/w2welcom.htm" jquery1243532814751="233">Copies for U.S. citizens born within the United States</a><br> -- <a href="http://travel.state.gov/content/passports/english/abroad/events-and-records/birth.html" jquery1243532814751="234">Copies for U.S. citizens born abroad</a><br> <br> <a href="http://www.state.gov/p/wha/ci/bl/" jquery1243532814751="236">Bolivia</a> Country Page </p> <p> <a href="http://www.state.gov/p/io/" jquery1243532814751="237">Bonn Guidelines</a> (on Collecting Genetic Resources) </p> <p> <a href="http://www.state.gov/p/eur/ci/bk/" jquery1243532814751="238">Bosnia and Herzegovina</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/bc/" jquery1243532814751="239">Botswana</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/br/" jquery1243532814751="240">Brazil</a> Country Page </p> <p> <a href="http://www.state.gov/e/eb/cba/gc/" jquery1243532814751="241" title="http://www.state.gov/e/eb/cba/gc/">Bribery</a><br> -- Report to Congress on <a href="http://www.state.gov/e/eb/rls/rpts/bib/" jquery1243532814751="243" title="http://www.state.gov/e/eb/rls/rpts/bib/">Battling International Bribery</a> </p> <p> <a href="http://www.state.gov/r/pa/obs/" jquery1243532814751="244">Broadcast Services</a>, Office of </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eap/ci/bx/" jquery1243532814751="245">Brunei</a> Country Page </p> <p> <a href="http://www.state.gov/s/d/rm/c6112.htm" jquery1243532814751="246">Budget</a>, International Affairs </p> <p> <a href="http://www.state.gov/s/d/rm/" jquery1243619262879="230">Budget and Planning</a>, Bureau of </p> <p> <a href="http://www.state.gov/obo/" jquery1243532814751="247">Buildings Operations</a>, Office of Overseas </p> <p> Bureaus, list of:<br> -- <a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm" jquery1243532814751="248">Alphabetically</a><br> -- <a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm" jquery1243532814751="249">Organizationally</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/bu/" jquery1243532814751="250">Bulgaria</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/uv/" jquery1243532814751="251">Burkina Faso</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/bm/" jquery1243532814751="252">Burma</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/by/" jquery1243532814751="253">Burundi</a> Country Page </p> <p> Business<br> -- <a href="http://www.state.gov/e/eb/index.htm" jquery1243532814751="254">Bureau of Economic and Business Affairs</a><br> -- <a href="http://www.state.gov/business/" jquery1243532814751="255">Business and Travel Links</a><br> -- <a href="http://www.export.gov/" jquery1243532814751="256">Export.gov</a><br> -- <a href="http://www.export.gov/china/" jquery1243532814751="257">Information Center: China</a><br> -- <a href="http://www.state.gov/e/eb/cba/index.htm" jquery1243532814751="260">International Markets</a><br> -- Office of Commercial and Business Affairs (<i>see </i><a href="http://www.state.gov/e/eb/cba/" jquery1243532814751="261">Doing Business in International Markets</a>)<br> -- <a href="http://travel.state.gov/content/passports/english/emergencies/scams/inheritances.html" jquery1243532814751="263">Scams</a>, Advance Fee<br> -- <a href="http://www.state.gov/e/eb/cba/bs/" jquery1243532814751="264">Support</a> </p> <p style="text-align: right;"> &nbsp; </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top</a> </p> 
+         <p> <b><a name="c"></a>C</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="https://www.cia.gov/library/publications/world-leaders-1/index.html" jquery1243533068586="211">Cabinet Members of Foreign Countries </a>(and Chiefs of State) </p> <p> <a href="http://www.state.gov/p/af/ci/cv/" jquery1243533068586="215">Cabo Verde</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/cb/" jquery1243533068586="212">Cambodia</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/cm/" jquery1243533068586="213">Cameroon</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/ca/" jquery1243533068586="214">Canada</a> Country Page </p> <p> <a href="http://www.state.gov/careers/" jquery1243533068586="216">Careers at State</a> (<i>see also </i>the Employment section on the <a href="http://www.state.gov/aboutstate/" jquery1243533068586="217">About State Department</a> page) </p> <p> <a href="http://www.state.gov/p/af/ci/car/" jquery1243533068586="218">Central African Republic</a> Country Page </p> <p> Central America (<i>see </i><a href="http://www.state.gov/p/wha/" jquery1243533068586="219">Bureau of Western Hemisphere Affairs</a>) </p> <p> <a href="http://www.state.gov/e/eb/tpp/bta/fta/c26474.htm" jquery1243533068586="220">Central American Free Trade Agreement</a> (CAFTA)<br> <br> Certificates<br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/birth.html" jquery1243533068586="221">Birth</a> (for U.S. citizens born abroad)<br> -- <a href="http://www.cdc.gov/nchs/w2w.htm" jquery1243533068586="222">Birth </a>(for U.S. citizens born in the U.S.)<br> -- <a href="http://travel.state.gov/content/passports/english/abroad/events-and-records/death.html" jquery1243533068586="223">Death</a> (Report of Death of U.S. citizen abroad)<br> -- <a href="http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=81f649c62ed6e210VgnVCM100000082ca60aRCRD&amp;vgnextchannel=d0d049c62ed6e210VgnVCM100000082ca60aRCRD" jquery1243533068586="224">Citizenship</a> (for certain foreign-born children—including adopted children—of U.S. citizens)<br> <br> <a href="http://www.state.gov/p/af/ci/cd/" jquery1243533068586="225">Chad</a> Country Page </p> <p> <a href="http://www.state.gov/t/isn/" jquery1243533068586="227">Chemical Weapons</a>, Nonproliferation of </p> <p> <a href="http://www.state.gov/t/isn/151025.htm" jquery1243533068586="228">Chemical Weapons Convention</a> </p> <p> <a href="http://www.state.gov/m/irm/index.htm" jquery1243533068586="229">Chief Information Officer</a> </p> <p> <a href="https://www.cia.gov/library/publications/world-leaders-1/index.html" jquery1243533068586="230">Chiefs of State and Cabinet Members of Foreign Countries</a> (CIA publication) </p> <p> <a href="https://travel.state.gov/content/childabduction/en.html" jquery1243533068586="231">Child Abduction</a>, International </p> <p> <a href="http://www.state.gov/p/wha/ci/ci/" jquery1243533068586="232">Chile</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/ch/" jquery1243533068586="233">China</a> Country Page </p> <p> <a href="http://exchanges.state.gov/" jquery1243533068586="234">Citizen Exchanges</a> </p> <p> Citizenship, U.S.<br> -- <a href="http://adoption.state.gov/us_visa_for_your_child/citizenship.php" jquery1243533068586="235">Acquiring</a><br> -- <a href="http://travel.state.gov/content/travel/english/legal-considerations/us-citizenship-laws-policies/citizenship-and-dual-nationality/dual-nationality.html" jquery1243533068586="236">Dual nationality</a><br> -- <a href="http://travel.state.gov/content/travel/english/legal-considerations/us-citizenship-laws-policies/renunciation-of-citizenship.html" jquery1243533068586="237">Renunciation</a><br> -- <a href="http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=81f649c62ed6e210VgnVCM100000082ca60aRCRD&amp;vgnextchannel=d0d049c62ed6e210VgnVCM100000082ca60aRCRD" jquery1243533068586="238">Certificate</a> (for certain foreign-born children—including adopted children—of U.S. citizens) </p> <p> <a href="http://www.state.gov/s/ocr/" jquery1243533068586="239">Civil Rights,</a> Office of </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/j/inl/civ/" jquery1243533068586="240">Civilian Police Program</a>, International (CivPol) </p> <p> <a href="http://www.state.gov/s/l/c3433.htm" jquery1243533068586="241">Claims and Investment Disputes</a>, International </p> <p> <a href="http://careers.state.gov/" jquery1243533068586="242">Clerical Program</a>, Summer </p> <p> <a href="http://www.cbato.fas.usda.gov/Cochran.htm" jquery1243533068586="243">Cochran Fellowship Program</a> (USDA) </p> <p> <a href="http://www.state.gov/p/wha/ci/co/" jquery1243533068586="244">Colombia</a> Country Page </p> <p> Commercial and Business Affairs, Office of (<i>see </i><a href="http://www.state.gov/e/eb/cba/" jquery1243533068586="245">Doing Business in International Markets</a>) </p> <p> <a href="http://www.state.gov/j/drl/hr/unhrc/index.htm" jquery1243533068586="246">Commission on Human Rights</a>, UN </p> <p> <a href="http://www.state.gov/e/eb/cip/" jquery1243533068586="247">Communications and Information</a>, International </p> <p> <a href="http://www.state.gov/p/af/ci/cn/" jquery1243533068586="248">Comoros</a> Country Page </p> <p> <a href="http://pmddtc.state.gov/compliance/index.html" jquery1243533068586="249" target="_blank">Compliance</a><br> -- <a href="http://www.state.gov/t/avc/" jquery1243533068586="250">Bureau of Verification, Compliance and Implementation</a><br> -- <a href="http://pmddtc.state.gov/" jquery1243533068586="251" target="_blank">Defense Trade Controls</a> </p> <p> <a href="http://www.state.gov/m/cgfs/">Comptroller, Global Financial Services</a> </p> <p> Conferences, Arranging public (<i>see </i><a href="http://www.state.gov/r/pa/plrmo/index.htm" jquery1243533068586="252">Office of Public Liaison</a>) </p> <p> <a href="http://www.state.gov/e/eb/diamonds/" jquery1243533068586="254">Conflict Diamonds</a> </p> <p> <a href="http://www.state.gov/j/cso/index.htm">Conflict and Stabilization Operations</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/af/ci/cg/" jquery1243533068586="255">Congo</a>* Country Page<br> * Democratic Republic of the Congo </p> <p> <a href="http://www.state.gov/p/af/ci/cf/" jquery1243533068586="256">Congo</a>* Country Page<br> * Republic of the Congo </p> <p> <a href="http://www.state.gov/s/h/tst/" jquery1243533068586="257">Congressional Testimony</a> </p> <p> Consular<br> -- Affairs, Bureau of (see <a href="http://travel.state.gov/" jquery1243533068586="258">travel.state.gov</a>)<br> -- <a href="https://travel.state.gov/content/passports/en/country.html" jquery1243533068586="259">Country Specific Information</a> (Information for travelers)<br> -- <a href="http://www.state.gov/s/cpr/rls/fco/" jquery1243533068586="261">Offices in the U.S., </a>Foreign </p> <p> Consulates (and embassies)<br> -- <a href="http://usembassy.state.gov/">Website Country List</a> </p> <p> <a href="http://www.state.gov/contact" jquery1243533068586="264">Contact the Department of State</a> </p> <p> <a href="http://www.state.gov/e/oes/continentalshelf/index.htm" jquery1243533068586="265">Continental Shelf Project</a> , U.S. Extended </p> <p> Contingency Planning and Peacekeeping, Office of (<i>see </i><a href="http://www.state.gov/t/pm/ppa/">Office of Plans, Policy, and Analysis</a>) </p> </td> 
+            <td width="33%"> <p> Contracting Opportunities (<i>see </i><a href="http://www.statebuy.state.gov/" jquery1243533068586="267">Office of the Procurement Executive</a>) </p> <p> <a href="http://www.pmddtc.state.gov/" jquery1243533068586="268">Controls</a>, Defense Trade </p> <p> <a href="http://www.state.gov/t/isn/acw/index.htm" jquery1243533068586="269">Conventional Weapons</a>, Advanced </p> <p> Conventions<br> -- <a href="http://www.state.gov/t/isn/bw/" jquery1243533068586="270">Biological Weapons</a><br> -- <a href="http://www.state.gov/t/isn/" jquery1243533068586="271">Chemical Weapons</a><br> -- Other conventions to which the U.S. is a party (<i>see </i>the Office of the Assistant Legal Advisor for <a href="http://www.state.gov/s/l/c3452.htm" jquery1243533068586="272">Private International Law</a> </p> <p> <a href="http://www.state.gov/misc/87529.htm#copyright" jquery1243533068586="273">Copyright Information</a> (for material appearing on state.gov) </p> <p> <a href="http://www.state.gov/e/eb/ace/index.htm" jquery1243533068586="274">Corporate Excellence</a>, Award for </p> <p> <a href="http://www.state.gov/j/inl/c/crime/corr/index.htm" jquery1243533068586="275">Corruption </a><br> <i>See also </i><a href="http://www.state.gov/e/eb/cba/gc/" jquery1243533068586="276">Bribery</a> </p> <p> <a href="http://www.state.gov/p/wha/ci/cs/" jquery1243533068586="277">Costa Rica</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/iv/" jquery1243533068586="278">Cote d'Ivoire</a> Country Page </p> <p> <a href="http://www.state.gov/s/c/" jquery1243533068586="279">Counselor of the Department</a> </p> <p> <a href="http://www.state.gov/s/ct" jquery1243533068586="280">Counterterrorism</a> </p> <p> Country Background Notes (<a href="http://www.state.gov/r/pa/ei/bgn/">See U.S. Bilateral Relations Fact Sheets</a>) </p> <p> <a href="http://www.state.gov/j/drl/hr/c1470.htm" jquery1243533068586="282">Country Reports on Human Rights Practices</a> (Human Rights Reports) </p> <p> Crime<br> -- <a href="http://travel.state.gov/content/passports/english/emergencies/victims.html" jquery1243533068586="283">Consular Assistance to Victims of Crimes Overseas</a> </p> <p> Crisis Awareness and Preparedness<br> -- <a href="https://travel.state.gov/content/passports/en/emergencies.html" jquery1243533068586="284">Overseas</a> (Bureau of Consular Affairs)<br> -- <a href="http://www.ready.gov/" jquery1243533068586="285">Within the U.S.</a> (Office of Homeland Security) </p> <p> <a href="http://www.state.gov/p/eur/ci/hr/" jquery1243533068586="286">Croatia</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/cu/index.htm" jquery1243533068586="287">Cuba</a> Country Page </p> <p> <a href="http://eca.state.gov" jquery1243533068586="288">Cultural Affairs</a>, Bureau of Educational and </p> <p> <a href="http://eca.state.gov/cultural-heritage-center/cultural-property-protection" jquery1243533068586="289">Cultural Property Protection</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/cy/" jquery1243533068586="291">Cyprus</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/ez/" jquery1243533068586="292">Czechia</a> Country Page </p> <p> &nbsp; </p> <p style="text-align: right;"> &nbsp; </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="d"></a>D </b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.pmddtc.state.gov/DTRADE/index.html" jquery1243606907905="211">D-Trade</a> (electronic licensing for defense exports) </p> <p> <a href="http://aoprals.state.gov/Web920/danger_pay_all.asp" jquery1243606907905="212">Danger Pay</a> </p> <p> <a href="http://www.state.gov/m/dghr/flo/c24338.htm" jquery1243606907905="213">De facto (and Bilateral) Work Agreements</a> </p> <p> Death<br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/death.html" jquery1243606907905="215">of U.S. citizen abroad</a><br> <br> <a href="http://pmddtc.state.gov/" jquery1243606907905="216">Defense Trade Controls</a>, Directorate of </p> <p> Demining (<i>see </i><a href="http://www.state.gov/t/pm/wra" jquery1243606907905="217">Office of Weapons Removal and Abatement</a>)<br> <br> <a href="http://www.state.gov/j/drl" jquery1243606907905="218">Democracy, Human Rights, and Labor</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/eur/ci/da/" jquery1243606907905="219">Denmark</a> Country Page </p> <p> <a href="http://www.state.gov/s/d/" jquery1243606907905="220">Deputy Secretary</a> </p> <p> <a href="http://www.state.gov/s/dmr/index.htm" jquery1243606907905="221">Deputy Secretary for Management and Resources</a> </p> <p> Detention of Foreign Nationals in the U.S. (<i>See </i><a href="https://travel.state.gov/content/dam/travel/CNAtrainingresources/CNA%20Pocket%20Card_BW.pdf" jquery1243606907905="222">Instructions for Federal, State, and Other Local Law Enforcement and Other Officials</a>) </p> <p> <a href="http://www.usaid.gov/" jquery1243606907905="223">Development</a>, U.S. Agency for International </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/e/eb/ifd/c9710.htm" jquery1243606907905="224">Development Finance</a>, Office of </p> <p> <a href="http://www.state.gov/e/eb/diamonds/" jquery1243606907905="225">Diamonds</a>, Conflict </p> <p> <a href="http://www.state.gov/m/ds/immunities/c9118.htm" jquery1243606907905="226">Diplomatic Immunity</a> (<i>see also </i><a href="http://travel.state.gov/content/travel/english/consularnotification.html" jquery1243606907905="227">Consular Notification and Access</a>) </p> <p> <a href="http://www.state.gov/s/cpr/rls/dpl/" jquery1243606907905="228">Diplomatic List</a> </p> <p> <a href="http://www.state.gov/ofm/dmv/" jquery1243606907905="229">Diplomatic Motor Vehicle Division</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23414.htm" jquery1243606907905="230">Driver's License</a><br> -- Liability Insurance (see <a href="http://www.state.gov/ofm/resource/imp/23415.htm" jquery1243606907905="231">Financial Responsibility</a>)<br> -- <a href="http://www.state.gov/ofm/resource/imp/23417.htm" jquery1243606907905="232">Motor Vehicle Reciprocity Program</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23416.htm" jquery1243606907905="233">Moving Violations, Driving Records, Points System</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23418.htm" jquery1243606907905="234">Registration and Titling</a> </p> <p> <a href="http://www.state.gov/m/drr/" jquery1243606907905="235">Diplomatic Reception Rooms</a> (see also <a href="http://receptiontours.state.gov/" jquery1243606907905="236">Tour Reservations</a>)<br> <br> <a href="http://www.state.gov/m/ds/" jquery1243606907905="237">Diplomatic Security</a>, Bureau of<br> <i>See also </i><br> -- <a href="http://www.state.gov/ofm/" jquery1243606907905="238">Office of Foreign Missions</a><br> -- <a href="http://www.state.gov/m/ds/terrorism/c8650.htm" jquery1243606907905="239">Overseas Advisory Council</a><br> <br> Diplomats in Residence (See <a href="http://careers.state.gov/" jquery1243606907905="240">Diplomats on Campus</a>) </p> <p> Director General of the Foreign Service and Director of Human Resources (<i>See </i><a href="http://www.state.gov/m/dghr/" jquery1243606907905="241">Bureau of Human Resources</a>) </p> </td> 
+            <td width="33%"> <p> <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/divorce.html">Divorce Overseas</a> </p> <p> Djerejian Report: <a href="http://www.state.gov/documents/organization/24882.pdf" jquery1243606907905="244">Changing Minds, Winning Peace</a> </p> <p> <a href="http://www.state.gov/p/af/ci/dj/" jquery1243606907905="245">Djibouti</a> Country Page </p> <p> <a href="http://www.state.gov/m/a/auth/" jquery1243606907905="246">Document Authentication</a> </p> <p> <a href="http://www.state.gov/p/wha/ci/do/" jquery1243606907905="247">Dominica</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/dr/" jquery1243606907905="248">Dominican Republic</a> Country Page </p> <p> Driver's License or Permit<br> -- for <a href="http://www.state.gov/ofm/resource/imp/23414.htm" jquery1243606907905="249">Foreign Diplomats in the U.S</a>.<br> -- for U.S. citizens traveling abroad, go to international driver's permit section of the <a href="http://midatlantic.aaa.com/nonmemberlanding?zip=20520&amp;stateprov=dc&amp;city=washington&amp;devicecd=PC&amp;referer=www.aaa.com" jquery1243606907905="250">AAA</a> site or to the <a href="http://nationalautoclub.com/html/idp.html" jquery1243606907905="251">AATA</a> site (these are the only two private companies authorized by the U.S. Department of State to issue international driver's permits).<br> <i>See also</i>:<br> <a href="http://www.state.gov/ofm/dmv/" jquery1243606907905="252">Diplomatic Motor Vehicle Division</a><br> -- <a href="http://www.state.gov/ofm/notes/dmv/index.htm" jquery1243606907905="253">Liability Insurance</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23417.htm" jquery1243606907905="254">Motor Vehicle Reciprocity Program</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23416.htm" jquery1243606907905="255">Moving Violations, Driving Records, Points System</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23418.htm" jquery1243606907905="256">Registration and Titling</a> </p> <p> Dual Nationality<br> -- <a href="http://travel.state.gov/content/travel/english/legal-considerations/us-citizenship-laws-policies/citizenship-and-dual-nationality/dual-nationality.html" jquery1243606907905="257">General Information</a><br> -- <a href="https://travel.state.gov/content/travel/en/legal-considerations/us-citizenship-laws-policies/citizenship-and-dual-nationality.html" jquery1243606907905="258">Possible Loss of U.S. Citizenship</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="e"></a>E</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eap" jquery1243607171868="211">East Asian and Pacific Affairs</a>, Bureau of </p> <p> East Timor Country Page (<i>see </i><a href="http://www.state.gov/p/eap/ci/tt/" jquery1243607171868="212">Timor-Leste</a>) </p> <p> <a href="http://www.state.gov/e/eb/" jquery1243607171868="213">Economic, Energy and Business Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/e/" jquery1243607171868="214">Economic, Energy and Agricultural Affairs,</a> Under Secretary for </p> <p> <a href="http://www.state.gov/e/eb/ecosum/" jquery1243607171868="215">Economic Summits</a> (G-8) </p> <p> <a href="http://www.state.gov/p/wha/ci/ec/" jquery1243607171868="216">Ecuador</a> Country Page </p> <p> <a href="http://www.state.gov/m/dghr/flo/c1958.htm" jquery1243607171868="217">Education and Youth Issues</a> (Foreign Service and other U.S. Government employees overseas) </p> <p> <a href="http://educationusa.state.gov/" jquery1243607171868="218">Education USA </a><br> (for international students exploring possibilities for studying in the U.S.) </p> <p> <a href="http://iew.state.gov/" jquery1243607171868="219">Education Week</a>, International </p> </td> 
+            <td width="33%"> <p> <a href="http://eca.state.gov" jquery1243607171868="221">Educational and Cultural Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/nea/ci/eg" jquery1243607171868="222">Egypt</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/es/" jquery1243607171868="223">El Salvador</a> Country Page </p> <p> <a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA" jquery1243607171868="224">Electronic Subscription Service</a> </p> <p> Embassies and consulates, List of U.S.<br> -- <a href="http://usembassy.state.gov/">Website Country List</a> </p> <p> <a href="http://www.state.gov/m/dghr/c4340.htm" jquery1243607171868="227">Emergency Announcements</a> </p> <p> <a href="http://www.state.gov/careers/" jquery1243607171868="228">Employment Opportunities</a> </p> <p> <a href="http://www.state.gov/e/eb/esc/iec/index.htm" jquery1243607171868="229">Energy Policy</a> </p> <p> <a href="http://www.state.gov/e/enr/index.htm">Energy Resources</a>, Bureau of </p> <p> <a href="http://www.state.gov/e/oes/" jquery1243607171868="230">Environmental and Scientific Affairs</a>, Bureau of Oceans and International </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/af/ci/ek/" jquery1243607171868="231">Equatorial Guinea</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/er/" jquery1243607171868="232">Eritrea</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/en/" jquery1243607171868="233">Estonia</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/wz/" jquery1243619569547="277">Eswatini</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/et/" jquery1243607171868="234">Ethiopia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur" jquery1243607171868="235">European and Eurasian Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/eur/rt/eu/" jquery1243607171868="236">European Union</a> </p> <p> <a href="http://www.state.gov/m/dghr/flo/c1991.htm" jquery1243607171868="237">Evacuation</a>, Post (employee information) </p> <p> <a href="http://www.state.gov/s/es/" jquery1243607171868="238">Executive Secretariat </a> </p> <p> <a href="http://www.state.gov/t/isn/export/" jquery1243607171868="239">Export Controls</a><br> (<i>See also </i><a href="http://pmddtc.state.gov/" jquery1243607171868="240">Defense Trade Controls</a>) </p> <p> <a href="http://www.state.gov/e/oes/continentalshelf/index.htm" jquery1243607171868="241">Extended Continental Shelf Project</a>, U.S. </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="f"></a>F</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/m/dghr/flo/" jquery1243607434597="212">Family Liaison Office</a> </p> <p> Fellowships, Scholarships, and Grants<br> -- <a href="http://exchanges.state.gov/" jquery1243607434597="213">Citizen Exchanges</a><br> -- <a href="http://www.cbato.fas.usda.gov/Cochran.htm" jquery1243607434597="214">Cochran Fellowship Program</a> (USDA)<br> -- <a href="http://www.grants.gov/" jquery1243607434597="216">Federal Grant Opportunities</a> (Government-wide)<br> -- <a href="http://exchanges.state.gov/academicexchanges/index/fulbright-program.html" jquery1243607434597="217" target="_blank">Fulbright Program</a><br> -- <a href="http://exchanges.state.gov/non-us/program/hubert-h-humphrey-fellowship-program" jquery1243607434597="218" target="_blank">Humphrey Fellowships</a><br> -- <a href="http://careers.state.gov/" jquery1243607434597="219">Presidential Management Fellows Program</a><br> -- <a href="http://careers.state.gov/" jquery1243607434597="220">Thomas R. Pickering Foreign Affairs/Graduate Foreign Affairs Fellowship Program</a><br> -- <a href="http://www.state.gov/t/avc/c40184.htm" jquery1243607434597="221">William C. Foster Fellows Visiting Scholars Program</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/fj/" jquery1243607434597="222">Fiji</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/fi/" jquery1243607434597="223">Finland</a> Country Page </p> <p> <a href="https://fam.state.gov/">Foreign Affairs Manual and Handbook</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/f/index.htm" jquery1243607434597="226">Foreign Assistance</a> </p> <p> <a href="http://www.state.gov/s/cpr/rls/fco/" jquery1243607434597="227">Foreign Consular Offices in the U.S.</a> (<i>see also</i> <a href="http://www.state.gov/ofm/" jquery1243607434597="228">Office of Foreign Missions</a>)<br> <br> <a href="http://www.state.gov/s/cpr/rls/dpl/32122.htm" jquery1243607434597="229">Foreign country websites</a> </p> <p> <a href="https://help.cbp.gov/app/answers/detail/a_id/572/~/entering-the-u.s.---documents-required-for-foreign-nationals-(international" jquery1243607434597="230">Foreign Entry Requirements</a> (Visa and/or other entry requirements for U.S. citizens traveling abroad) </p> <p> <a href="http://www.state.gov/t/pm/rls/rpt/fmtrpt/" jquery1243607434597="231">Foreign Military Training and DoD Engagement Activities of Interest</a> (Report) </p> <p> <a href="http://www.state.gov/ofm/" jquery1243607434597="232">Foreign Missions</a>, Office of (<i>see also </i>Foreign Consular Offices in the U.S.) </p> <p> Foreign Nationals<br> -- <a href="https://travel.state.gov/content/dam/travel/CNAtrainingresources/CNA_Manual_4th_Edition_August2016.pdf" jquery1243607434597="233">Information for law enforcement, judicial, or other Federal, State, and Local officials</a> </p> <p> <a href="http://aoprals.state.gov/content.asp?content_id=184&amp;menu_id=78" jquery1243607434597="234">Foreign Per Diem Rates</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://fpc.state.gov/" jquery1243607434597="235" target="_blank">Foreign Press Centers</a> </p> <p> <a href="http://www.state.gov/r/pa/ho/frus/" jquery1243607434597="236">Foreign Relations of the United States</a> (Official documentary historical record) </p> <p> Foreign Service<br> -- <a href="http://state.gov/m/dghr/" jquery1243607434597="237">Office of the Director General of</a><br> -- <a href="http://state.gov/m/dghr/hr/" jquery1243607434597="238">Employment</a><br> -- <a href="http://state.gov/m/dghr/flo/" jquery1243607434597="239">Family Liaison Office</a><br> -- <a href="http://www.state.gov/m/fsi/" jquery1243607434597="240">Institute </a>(FSI)<br> -- <a href="http://www.usembassy.gov/" jquery1243607434597="241">Post Information</a> </p> <p> <a href="http://www.state.gov/t/avc/c40184.htm" jquery1243607434597="243">Foster Fellows Visiting Scholars Program</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/fr/" jquery1243607434597="244">France</a> Country Page </p> <p> <a href="http://www.state.gov/e/eb/tpp/bta/fta/index.htm" jquery1243607434597="245">Free Trade Agreements</a> </p> <p> <a href="http://www.state.gov/m/a/ips/" jquery1243607434597="246">Freedom of Information Act Requests</a> </p> <p> <a href="http://exchanges.state.gov/academicexchanges/index/fulbright-program.html" jquery1243607434597="247">Fulbright Program</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="g"></a>G</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/e/eb/ecosum/" jquery1243608533952="211">G-8 Summits</a> </p> <p> <a href="http://www.state.gov/p/af/ci/gb/" jquery1243608533952="212">Gabon</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ga/" jquery1243608533952="213">The Gambia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/gg/" jquery1243608533952="215">Georgia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/gm/" jquery1243608533952="216">Germany</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/gh/" jquery1243608533952="217">Ghana</a> Country Page </p> <p> <a href="http://www.state.gov/j/" jquery1243608533952="218">Global Affairs</a>, Under Secretary for Democracy and </p> <p> Global Corruption (<i>see </i><a href="http://www.state.gov/j/inl/" jquery1243608533952="219">Anticorruption Initiatives</a>) </p> <p> <a href="http://www.state.gov/e/oes" jquery1243608533952="220">Global Health</a> </p> <p> <a href="http://www.state.gov/t/isn/c18406.htm" jquery1243608533952="221">Global Initiative to Combat Nuclear Terrorism</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/s/partnerships/">Global Partnerships</a>, Office of </p> <p> <a href="http://www.state.gov/m/a/gps" jquery1243608533952="224">Global Publishing Solutions</a> </p> <p> Grants, Fellowships, and Scholarships<br> -- <a href="http://exchanges.state.gov/" jquery1243608533952="225">Citizen Exchanges</a><br> -- <a href="http://www.cbato.fas.usda.gov/Cochran.htm" jquery1243608533952="226">Cochran Fellowship Program</a> (USDA)<br> -- <a href="http://www.grants.gov/" jquery1243608533952="228">Federal Grant Opportunities</a> (Government-wide)<br> -- <a href="http://exchanges.state.gov/" jquery1243608533952="229">Foster Fellows Visiting Scholars Program</a><br> -- <a href="http://exchanges.state.gov/academicexchanges/index/fulbright-program.html" jquery1243608533952="230" target="_blank">Fulbright Program</a><br> -- <a href="http://exchanges.state.gov/non-us/program/hubert-h-humphrey-fellowship-program" jquery1243608533952="231" target="_blank">Humphrey Fellowships</a><br> -- <a href="http://careers.state.gov/" jquery1243608533952="232">Presidential Management Fellows Program</a><br> -- <a href="http://careers.state.gov/" jquery1243608533952="233">Thomas R. Pickering Foreign Affairs/Graduate Foreign Affairs Fellowship Program</a><br> -- <a href="http://www.state.gov/t/avc/c40184.htm" jquery1243608533952="234">William C. Foster Fellows Visiting Scholars Program</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/r/pa/ei/rls/dos/9087.htm" jquery1243608533952="235">Great Seal</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/gr/" jquery1243608533952="236">Greece</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/gj/" jquery1243608533952="237">Grenada</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/gt/" jquery1243608533952="238">Guatemala</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/gv/" jquery1243608533952="239">Guinea</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/pu/" jquery1243608533952="240">Guinea-Bissau</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/gy/" jquery1243608533952="241">Guyana</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="h"></a>H</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/wha/ci/ha/" jquery1243608896091="211">Haiti</a> Country Page </p> <p> <a href="http://www.state.gov/m/fsi/tc/31361.htm" jquery1243608777696="212">Hardship Differentials</a> </p> <p> <a href="http://www.state.gov/p/wha/hs/" jquery1243608777696="213">Hemispheric Security</a> </p> <p> <a href="http://www.state.gov/careers" jquery1243608777696="214">Hiring</a> </p> <p> <a href="http://www.state.gov/r/pa/ho/" jquery1243608777696="215">Historian</a>, Office of the </p> <p> <a href="http://www.state.gov/r/pa/ho/frus/" jquery1243608777696="216">History of Foreign Relations</a> </p> <p> HIV/AIDS (<a href="http://www.state.gov/s/gac/" jquery1243608777696="217">Office of the U.S. Global AIDS Coordinator</a>) </p> <p> <a href="http://www.state.gov/p/eur/ci/vt/" jquery1243608777696="218">Holy See</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/rt/hlcst/" jquery1243608777696="219">Holocaust Issues</a><a jquery1243608777696="221" name="hotline"></a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/wha/ci/ho/" jquery1243608777696="220">Honduras</a> Country Page </p> <p> Hotline for American Travelers: 202-647-5225 </p> <p> <a href="http://www.state.gov/m/dghr/" jquery1243608777696="222">Human Resources</a>, Director General of the Foreign Service and of<br> <i>See also</i><br> -- <a href="http://www.state.gov/careers" jquery1243608777696="223">www.state.gov/careers</a><br> -- <a href="http://www.state.gov/s/ocr/" jquery1243608777696="224">Office of Civil Rights</a> </p> <p> <a href="http://www.state.gov/j/drl/hr/" jquery1243608777696="225">Human Rights</a><br> -- <a href="http://www.state.gov/j/drl/hr/c1470.htm" jquery1243608777696="226">Reports</a> (Country Reports on Human Rights Practices)<br> -- <a href="http://www.state.gov/j/drl" jquery1243608777696="227">UN Commission on</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/j/tip/" jquery1243608777696="228">Human Trafficking</a> </p> <p> Humanitarian<br> -- Assistance (See <a href="http://www.usaid.gov/" jquery1243608777696="229">U.S. Agency for International Development</a>)<br> -- <a href="http://www.state.gov/t/pm/wra/c10387.htm" jquery1243608777696="230">Mine Action Program</a><br> -- <a href="http://www.state.gov/t/pm/wra/c10387.htm" jquery1243608777696="231">Mine Action PCC Subgroup</a> </p> <p> <a href="http://exchanges.state.gov/non-us/program/hubert-h-humphrey-fellowship-program" jquery1243608777696="232">Humphrey Fellowships</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/hu/" jquery1243608777696="233">Hungary</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="i"></a>I</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eur/ci/ic/" jquery1243608935264="211">Iceland</a> Country Page </p> <p> Immunity<br> -- <a href="http://www.state.gov/m/ds/immunities/c9118.htm" jquery1243608935264="212">Diplomatic and Consular</a> (<i>see also </i><a href="http://travel.state.gov/content/travel/english/consularnotification.html" jquery1243608935264="213">Consular Notification and Access</a>)<br> -- <a href="http://www.state.gov/s/l/c3432.htm" jquery1243608935264="214">From Judicial Seizure -- Cultural Objects</a> </p> <p> <a href="http://www.state.gov/t/avc/" jquery1243608935264="215">Implementation</a>, Bureau of Verification, Compliance and </p> <p> <a href="http://www.state.gov/p/sca/ci/in/" jquery1243608935264="216">India</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/id/" jquery1243608935264="217">Indonesia</a> Country Page </p> <p> <a href="http://www.state.gov/j/avianflu/" jquery1243608935264="218">Influenza, Avian </a> </p> <p> <a href="http://www.state.gov/e/eb/cip/" jquery1243608935264="219">Information and Communication Policy</a> </p> <p> <a href="http://www.state.gov/m/irm/" jquery1243608935264="220">Information Officer</a>, Chief </p> <p> <a href="http://www.state.gov/r/iip/" jquery1243608935264="221">Information Programs</a>, Bureau of International </p> <p> <a href="http://www.state.gov/m/irm/" jquery1243608935264="222">Information Resource Management</a>, Bureau of </p> <p> <a href="http://www.state.gov/m/irm/" jquery1243608935264="223">Information Technology</a> </p> <p> <a href="http://www.stateoig.gov/" jquery1243608935264="224">Inspector General</a>, Office of </p> <p> <a href="http://www.state.gov/e/eb/tpp/ipe/index.htm" jquery1243608935264="225">Intellectual Property Enforcement</a> </p> <p> <a href="http://www.state.gov/s/inr" jquery1243608935264="226">Intelligence and Research</a>, Bureau of </p> </td> 
+            <td width="33%"> <p> International<br> -- <a href="http://www.adoption.state.gov/" jquery1243608935264="227">Adoption</a><br> -- <a href="http://www.state.gov/s/d/rm/c6112.htm" jquery1243608935264="228">Affairs Budget</a><br> -- Athletics (<i>see </i><a href="http://eca.state.gov/programs-initiatives/sports-diplomacy" jquery1243608935264="229">International Sports Initiatives</a>)<br> -- <a href="https://travel.state.gov/content/childabduction/en.html" jquery1243608935264="230">Child Abduction</a><br> -- <a href="http://www.state.gov/j/inl/civ/" jquery1243608935264="231">Civilian Police Program</a><br> -- <a href="http://www.state.gov/s/l/c3433.htm" jquery1243608935264="232">Claims and Investment Disputes</a><br> -- <a href="http://www.state.gov/t/pm/" jquery1243608935264="233">Criminal Court and Article 98 Agreements</a><br> -- <a href="http://www.state.gov/e/eb/cip/" jquery1243608935264="234">Communications Policy</a><br> -- <a href="http://www.state.gov/j/inl/c/crime/corr/index.htm" jquery1243608935264="235">Corruption</a><br> -- <a href="http://eca.state.gov/cultural-heritage-center" jquery1243608935264="236">Cultural Property Protection </a><br> -- <a href="http://www.usaid.gov/" jquery1243608935264="237">Development</a>, U.S. Agency for<br> -- <a href="http://iew.state.gov/" jquery1243608935264="238">Education Week</a><br> -- <a href="http://www.state.gov/careers" jquery1243608935264="239">Employment Opportunities</a><br> -- <a href="http://www.state.gov/e/oes" jquery1243608935264="240">Environmental and Scientific Affairs</a>, Bureau of Oceans and<br> -- Exchange Programs (<i>see </i><a href="http://www.exchanges.state.gov/" jquery1243608935264="241">Citizen Exchange Programs</a>)<br> -- <a href="http://www.state.gov/r/iip/" jquery1243608935264="242">Information Programs</a>, Bureau of<br> -- Judicial Assistance (see <a href="https://travel.state.gov/content/passports/en/country.html" jquery1243608935264="243">Consular Affairs Information</a> and the <a href="http://www.state.gov/s/l/index.htm">Office of the Legal Advisor</a><br> -- Law<br> -- <a href="http://www.state.gov/e/eb/" jquery1243608935264="245">Trade/Business Transactions</a><br> -- <a href="http://www.state.gov/s/l/c8183.htm" jquery1243608935264="246">Digest of</a><br> -- <a href="http://state.gov/s/l/c3452.htm" jquery1243608935264="247">Private</a> (<i>see also </i><a href="https://travel.state.gov/content/visas/en/general/americans-traveling-abroad.html" jquery1243608935264="248">information for Americans traveling abroad</a>)<br> -- <a href="http://www.state.gov/j/inl" jquery1243608935264="249">Narcotics and Law Enforcement Affairs</a>, Bureau of<br> -- <a href="http://www.state.gov/p/io" jquery1243608935264="250">Organization Affairs</a>, Bureau of<br> -- <a href="https://travel.state.gov/content/childabduction/en.html" jquery1243608935264="251">Parental Child Abduction</a><br> -- <a href="http://www.state.gov/j/drl/irf/" jquery1243608935264="252">Religious Freedom</a><br> -- <a href="http://www.state.gov/t/pm/iso/" jquery1243608935264="253">Security Operations</a>, Office of<br> -- <a href="http://eca.state.gov/programs-initiatives/sports-diplomacy" jquery1243608935264="254">Sports Initiatives</a>, Director of<br> -- <a href="http://eca.state.gov/ivlp" jquery1243608935264="256">Visitor Leadership Program</a><br> -- <a href="http://www.state.gov/s/gwi/" jquery1243608935264="257">Women's Issues</a>, Office of </p> </td> 
+            <td width="33%"> <p> <a href="https://careers.state.gov/intern" jquery1243608935264="258">Internships</a><br> (<i>see also </i>other <a href="http://www.careers.state.gov/" jquery1243608935264="259">Student Programs</a>) </p> <p> <a href="http://www.state.gov/r/pa/prs/info/index.htm">Interview Requests</a><br> <i>See also</i><br> -- <a href="https://speakerrequest.state.gov/">Office of Public Liaison</a><br> -- <a href="http://www.state.gov/r/pa/prs/c8310.htm" jquery1243608935264="262">Secretary of State</a> </p> <p> Investment<br> -- <a href="http://www.state.gov/e/eb/rls/othr/ics/index.htm" jquery1243608935264="263">Climate Statements</a><br> -- <a href="http://www.state.gov/s/l/c3433.htm" jquery1243608935264="264">Disputes</a>, International Claims and<br> -- <a href="http://www.state.gov/s/l/treaty/treaties/2007/section1/index.htm" jquery1243608935264="265">Treaties, Bilateral</a> </p> <p> <a href="http://www.state.gov/s/l/c3439.htm" jquery1243608935264="266">Investor-State Arbitrations</a>, NAFTA </p> <p> <a href="http://www.state.gov/p/nea/ci/ir" jquery1243608935264="267">Iran</a> Country Page </p> <p> Iraq<br> -- <a href="http://www.state.gov/p/nea/ci/iz" jquery1243608935264="268">Country Page</a><br> -- <a href="https://iraq.usembassy.gov/jobsvacancies.html" jquery1243608935264="269">Jobs in Iraq</a><br> -- <a href="http://www.state.gov/e/eb/cba/iraq/" jquery1243608935264="270">Reconstruction Contracts</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/ei/" jquery1243608935264="271">Ireland</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/is/" jquery1243608935264="272">Israel</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/it/" jquery1243608935264="273">Italy</a> Country Page </p> <p> Ivory Coast Country Page (<i>see</i> <a href="http://www.state.gov/p/af/ci/iv/" jquery1243608935264="274">Cote d'Ivoire</a>) </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="j"></a>J</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"><a href="http://www.state.gov/p/wha/ci/jm/" jquery1243617261068="211">Jamaica</a> Country Page <p> <a href="http://www.state.gov/p/eap/ci/ja/" jquery1243617261068="212">Japan</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/jo/" jquery1243617261068="213">Jordan</a> Country Page </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/careers" jquery1243617261068="214">Jobs</a> </p> <p> <a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/enforcement-of-judgments.html" inlinetype="rxhyperlink" jquery1243617261068="215" rxinlineslot="103" sys_contentid="2515" sys_dependentid="2515" sys_dependentvariantid="394" sys_relationshipid="71621" sys_variantid="394">Judgments, Enforcement of</a> </p> </td> 
+            <td width="33%"> <p> Judicial Assistance, International<br> -- <a href="http://www.state.gov/s/l/c3452.htm" jquery1243617261068="216">Private International Law</a><br> -- <a href="https://travel.state.gov/content/visas/en/general/americans-traveling-abroad.html" jquery1243617261068="217">Information for Americans traveling abroad</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="k"></a>K</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" table="" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/sca/ci/kz/" jquery1243617441403="211">Kazakhstan</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ke/" jquery1243617441403="212">Kenya</a> Country Page </p> <p> <a href="http://www.state.gov/documents/organization/111812.pdf" jquery1243617441403="213">Key Officers List</a> </p> <p> <a href="http://www.state.gov/r/pa/scp/fs/index.htm" jquery1243617441403="214">Key Policy Fact Sheets</a> </p> <p> Kidnapping -- <i>See </i><a href="https://travel.state.gov/content/childabduction/en.html" jquery1243617441403="215">International Child Abduction</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eap/ci/kr/" jquery1243617441403="216">Kiribati</a> Country Page<br> <br> <a href="http://www.state.gov/j/inl/" jquery1243617441403="217">Kleptocracy</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/kn/" jquery1243617441403="218">Korea</a> (North) Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/ks/" jquery1243617441403="219">Korea</a> (South) Country Page<br> <br> <a href="http://www.state.gov/p/eur/ci/kv/" jquery1243617441403="220">Kosovo</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/nea/ci/ku" jquery1243617441403="221">Kuwait</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca/ci/kg/" jquery1243617441403="222">Kyrgyzstan</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="l"></a>L</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/j/drl/ila/index.htm" jquery1243617526235="211">Labor Affairs</a>, Office of International </p> <p> Landmines<br> -- Abandoned Ordnance (<i>see </i><a href="http://www.state.gov/t/pm/wra/" jquery1243617526235="212">Office of Weapons Removal and Abatement</a>)<br> -- <a href="http://www.state.gov/t/pm/wra/c10387.htm" jquery1243617526235="213">Humanitarian Mine Action Program</a><br> -- Illicit Arms Trafficking (<i>see </i><a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243617526235="214">Small Arms/Light Weapons and MANPADS</a>)<br> -- <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243617526235="215">Man-portable Air Defense Systems (MANPADS)</a><br> -- <a href="http://www.state.gov/t/pm/wra/partners/" jquery1243617526235="216">Public-Private Partnerships</a><br> -- <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243617526235="217">Small Arms/Light Weapons</a><br> -- Unexploded Ordnance (UXO) (<i>see </i><a href="http://www.state.gov/t/pm/wra/" jquery1243617526235="218">Office of Weapons Removal and Abatement</a>)<br> -- <a href="http://www.state.gov/t/pm/wra/c11735.htm" jquery1243617526235="219">U.S. Policy</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/la/" jquery1243617526235="220">Laos</a> Country Page </p> <p> Latin America (s<i>ee </i><a href="http://www.state.gov/p/wha/" jquery1243617526235="221">Bureau of Western Hemisphere Affairs</a>) </p> <p> <a href="http://www.state.gov/p/eur/ci/lg/" jquery1243617526235="222">Latvia</a> Country Page </p> <p> Law,<br> -- <a href="http://www.state.gov/s/l/c3452.htm" jquery1243617526235="223">Private International</a> (including Trade/Business Transactions Law; International Judicial Assistance; Wills, Trusts, and Estates; and Family Law)<br> -- <a href="http://www.state.gov/s/l/c8183.htm" jquery1243617526235="224">Digest of International</a> </p> </td> 
+            <td width="33%"> <p> Law Enforcement<br> <i>See</i><br> -- <a href="http://www.state.gov/j/inl/" jquery1243617526235="225">Bureau of International Narcotics and Law Enforcement Affairs</a><br> -- <a href="http://www.state.gov/j/inl/civ/" jquery1243617526235="226">International Civilian Police Program -- CivPol</a><br> -- <a href="http://www.uniformlaws.org/shared/docs/vccr/VCA36_US%20Dept%20of%20State%20-%20Guidelines%20re%20Consular%20Notification_Apr10.pdf" jquery1243617526235="227">Information for Federal, State, and Local law enforcement officials</a> concerning the rights of Foreign Nationals in the United States (Consular Notification and Access) </p> <p> <a href="http://www.state.gov/p/nea/ci/le/" jquery1243617526235="228">Lebanon</a> Country Page </p> <p> <a href="http://www.state.gov/s/l/">Legal Adviser</a>, Office of the (L) </p> <p> <a href="http://www.state.gov/s/h" jquery1243617526235="230">Legislative Affairs</a>, Bureau of (H) </p> <p> <a href="http://www.state.gov/p/af/ci/lt/" jquery1243617526235="231">Lesotho</a> Country Page </p> <p> <a href="http://www.state.gov/m/dghr/flo/" jquery1243617526235="232">Liaison Office</a>, Family </p> <p> <a href="http://www.state.gov/r/pa/plrmo/index.htm" jquery1243617526235="233">Liaison</a>, Office of Public </p> <p> <a href="http://www.state.gov/p/af/ci/li/" jquery1243617526235="234">Liberia</a> Country Page </p> <p> <a href="http://www.state.gov/m/a/ls/" jquery1243617526235="235">Library, State Department</a> (Ralph J. Bunche Library) </p> <p> <a href="http://www.state.gov/p/nea/ci/ly" jquery1243617526235="236">Libya</a> Country Page </p> <p> <a href="http://pmddtc.state.gov/licensing/index.html" jquery1243617526235="237" target="_blank">Licensing</a>, Defense Trade Controls </p> </td> 
+            <td width="33%"> <p> Licensing, Vehicle (Foreign Diplomats in the U.S.)<br> See:<br> -- Drivers License (<i>see </i><a href="http://www.state.gov/ofm/resource/imp/23414.htm" jquery1243617526235="238">Driver Services</a>)<br> -- Liability Insurance (<i>see </i><a href="http://www.state.gov/ofm/resource/imp/23415.htm" jquery1243617526235="239">Financial Responsibility</a>)<br> -- <a href="http://www.state.gov/ofm/resource/imp/23416.htm" jquery1243617526235="240">Moving Violations, Driving Records, Points System</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23418.htm" jquery1243617526235="241">Registration and Titling</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/ls/" jquery1243617526235="242">Liechtenstein</a> Country Page </p> <p> <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243617526235="243">Light Weapons/Small Arms</a>, Combating the Spread of </p> <p> <a href="http://www.state.gov/p/eur/ci/lh/" jquery1243617526235="244">Lithuania</a> Country Page </p> <p> Listserv® is no longer available. Please sign up through our <a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA&amp;origin=http://www.state.gov/" jquery1243617526235="245">Electronic Subscription Page</a>. </p> <p> Living Quarters Allowances (<i>See </i><a href="http://aoprals.state.gov/content.asp?content_id=186&amp;menu_id=81" jquery1243617526235="246">Quarterly Report Indexes</a>) </p> <p> Living Costs Abroad (<i>See </i><a href="http://aoprals.state.gov/content.asp?content_id=186&amp;menu_id=81" jquery1243617526235="247">Quarterly Report Indexes</a>) </p> <p> <a href="http://www.state.gov/p/eur/ci/lu/" jquery1243617526235="248">Luxembourg</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="m"></a>M</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> Macedonia Country Page (<i>see </i><a href="http://www.state.gov/p/eur/ci/mk/" jquery1243617669396="211">Republic of Macedonia</a>) </p> <p> <a href="http://www.state.gov/p/af/ci/ma/" jquery1243617669396="212">Madagascar</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/mi/" jquery1243617669396="213">Malawi</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/my/" jquery1243617669396="214">Malaysia</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca/ci/mv/index.htm" jquery1243617669396="215">Maldives</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ml/" jquery1243617669396="216">Mali</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/mt/" jquery1243617669396="217">Malta</a> Country Page </p> <p> <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243617669396="218">Man-portable Air Defense Systems</a> (MANPADS)<br> <br> <a href="http://www.state.gov/m/rm/" jquery1243617669396="219">Management</a>, Resource </p> <p> <a href="http://www.state.gov/m/" jquery1243617669396="220">Management</a>, Under Secretary for </p> <p> <a href="http://www.state.gov/m/pri/index.htm" jquery1243617669396="221">Management Policy</a>, Office of </p> <p> <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/marriage.html" jquery1243617669396="222">Marriage Abroad</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/rm/" jquery1243617669396="223">Marshall Islands</a> Country Page </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/t/isn/c16403.htm" jquery1243617669396="224">Mass Destruction</a>, Weapons of<br> <i>See also</i><br> -- <a href="http://www.state.gov/t/isn/" jquery1243617669396="225">International Security and Nonproliferation</a>, Bureau of<br> -- <a href="http://www.state.gov/t/isn/c16403.htm" jquery1243617669396="226">Combating WMD Terrorism</a><br> -- <a href="http://www.state.gov/t/isn/c12265.htm" jquery1243617669396="227">Nonproliferation of WMD Expertise</a> </p> <p> <a href="http://www.state.gov/p/af/ci/mr/" jquery1243617669396="228">Mauritania</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/mp/" jquery1243617669396="229">Mauritius</a> Country Page </p> <p> <a href="http://www.state.gov/m/med/index.htm">Medical Services</a>, Office of </p> <p> Mexico<br> -- <a href="http://www.state.gov/p/wha/ci/mx/" jquery1243617669396="230">Country Page</a><br> -- <a href="http://www.state.gov/p/wha/ci/mx/c10787.htm" jquery1243617669396="231">U.S.-Mexico Binational Commission</a> </p> <p> <a href="http://www.state.gov/e/eb/ifd/" jquery1243617669396="232">Millennium Challenge Account</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/fm/" jquery1243617669396="233">Micronesia</a> Country Page </p> <p> Middle East (<i>see </i><a href="http://www.state.gov/p/nea/" jquery1243617669396="234">Bureau of Near Eastern Affairs</a>)<br> -- <a href="http://mepi.state.gov/" jquery1243617669396="235">Partnership Initiative</a><br> -- <a href="http://www.state.gov/p/nea/rt/c27722.htm" jquery1243617669396="236">Peace</a> </p> <p> <a href="http://www.state.gov/j/prm" jquery1243617669396="237">Migration</a>, Bureau of Population, Refugees and </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/t/isn" jquery1243617669396="240">Missile Defense</a> </p> <p> <a href="http://www.state.gov/s/d/rm/rls/dosstrat/2004/23503.htm" jquery1243617669396="241">Mission</a>, State Department </p> <p> <a href="http://usembassy.state.gov/" jquery1243617669396="242">Missions</a>, List of U.S. (including embassies and consulates) </p> <p> <a href="http://www.state.gov/p/eur/ci/md/" jquery1243617669396="243">Moldova</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/mn/" jquery1243617669396="244">Monaco</a> Country Page<br> <br> <a href="http://www.state.gov/j/inl/" jquery1243617669396="245">Money laundering</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/mg/" jquery1243617669396="246">Mongolia</a> Country Page<br> <br> <a href="http://www.state.gov/p/eur/ci/mj/" jquery1243617669396="247">Montenegro</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/mo" jquery1243617669396="248">Morocco</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/mz/" jquery1243617669396="249">Mozambique</a> Country Page </p> <p> Multi-media Services (<i>see </i><a href="http://www.state.gov/m/a/gps" jquery1243617669396="250">Global Publishing Solutions</a>) </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="n"></a>N</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> NAFTA<br> -- <a href="http://www.state.gov/s/l/c3439.htm" jquery1243618145383="211">Investor-State Arbitrations</a> </p> <p> <a href="http://www.state.gov/p/af/ci/wa/" jquery1243618145383="212">Namibia</a> Country Page </p> <p> <a href="http://www.state.gov/j/inl/" jquery1243618145383="213">Narcotics and Law Enforcement Affairs</a>, Bureau for </p> <p> <a href="http://www.state.gov/p/eur/rt/nato/" jquery1243618145383="214">NATO</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/nr/" jquery1243618145383="215">Nauru</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea" jquery1243618145383="216">Near Eastern Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/sca/ci/np/" jquery1243618145383="217">Nepal</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/nl/" jquery1243618145383="218">Netherlands</a> Country Page </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eap/ci/nz/" jquery1243618145383="220">New Zealand</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/nu/" jquery1243618145383="221">Nicaragua</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ng/" jquery1243618145383="222">Niger</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/ni/" jquery1243618145383="223">Nigeria</a> Country Page </p> <p> <a href="http://www.state.gov/e/eb/esc/iec/index.htm" jquery1243618145383="224">Non-Agricultural Commodities Policy</a> </p> <p> Nonproliferation; <i>see </i><br> -- <a href="http://www.state.gov/t/isn" jquery1243618145383="225">International Security and Nonproliferation</a>, Bureau of<br> -- <a href="http://www.state.gov/t/avc/" jquery1243618145383="226">Arms Control, Verification, and Compliance</a>, Bureau of<br> -- <a href="http://www.state.gov/t/pm/" jquery1243618145383="227">Political-Military Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/t/isn/" jquery1243618145383="228">Nonproliferation</a>, Chemical and Biological Weapons </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/t/isn/ndf/" jquery1243618145383="229">Nonproliferation and Disarmament Fund</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/uk/c17916.htm" jquery1243618145383="230">Northern Ireland Peace Process</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/kn/" jquery1243618145383="231">North Korea</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/no/" jquery1243618145383="232">Norway</a> Country Page </p> <p> <a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/authentication-of-documents/notarial-and-authentication-services-consular-officers.html" jquery1243618145383="233">Notarial and Authentication Services Abroad</a> (Bureau of Consular Affairs)<br> (<i>See also </i>the <a href="http://www.state.gov/m/a/auth/" jquery1243618145383="234">Office of Authentication</a>) </p> <p> <a href="http://www.state.gov/t/isn/" jquery1243618145383="235">Nuclear Nonproliferation</a><br> -- <a href="http://www.state.gov/t/isn/trty/16281.htm#narrative" jquery1243618145383="236">Treaty Narrative</a><br> -- <a href="http://www.state.gov/t/isn/trty/16281.htm#treaty" jquery1243618145383="237">Treaty Text</a> </p> <p> <a href="http://www.state.gov/t/isn/" jquery1243618145383="238">Nuclear Weapons-Free Zones</a> </p> <p> <a href="http://www.careers.state.gov/" jquery1243618145383="239">Nurses, Nursing</a> (employment) </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="o"></a>O</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/e/oes" jquery1243618455911="211">Oceans and International Environmental and Scientific Affairs </a>, Bureau of </p> <p> <a href="http://www.state.gov/p/wha/rt/oas/index.htm" jquery1243618455911="212">OAS</a> (Organization of American States) </p> <p> <a href="http://www.state.gov/e/eb/oecd/" jquery1243618455911="213">OECD</a>: U.S. National Contact Point </p> <p> OSAC (<i>See </i><a href="http://www.state.gov/m/a/os/c6971.htm" jquery1243618455911="214">Overseas Schools Advisory Commission</a> or <a href="https://www.osac.gov/Pages/Home.aspx" jquery1243618455911="215">Overseas Security Advisory Commission</a>) </p> <p> <a href="http://www.state.gov/p/eur/rt/osce/" jquery1243618455911="216">OSCE</a> (Organization for Security Cooperation in Europe) </p> <p> <a href="http://www.state.gov/s/ocr/" jquery1243618455911="217">Office of Civil Rights </a> </p> <p> Offices, List of<br> -- <a href="http://www.state.gov/r/pa/ei/rls/dos/1718.htm" jquery1243618455911="218">Alphabetical List of Bureaus and Offices</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/nea/ci/mu" jquery1243618455911="221">Oman</a> Country Page </p> <p> <a href="http://www.state.gov/s/p/of/" jquery1243618455911="222">Open Forum</a> </p> <p> <a href="http://www.opm.gov/Operating_Status_Schedules/" jquery1243618455911="223">Operating Status (Federal Government)</a><br> (<i>see also</i> <a href="http://www.state.gov/m/dghr/c4340.htm" jquery1243618455911="224">Emergency Announcements</a> for State Department-specific notices) </p> <p> Ordnance, abandoned or unexploded (<i>see</i> the <a href="http://www.state.gov/t/pm/wra/" jquery1243618455911="225">Office of Weapons Removal and Abatement</a>) </p> <p> <a href="http://www.state.gov/r/pa/ei/rls/dos/99494.htm" jquery1243618455911="226">Organization</a>, Department </p> <p> <a href="http://www.state.gov/p/wha/rt/oas/" jquery1243618455911="227">Organization of American States</a>, The U.S. and </p> <p> <a href="http://www.state.gov/p/eur/rt/osce/" jquery1243618455911="228">Organization for Security and Cooperation in Europe</a> </p> </td> 
+            <td width="33%"> <p> <a jquery1243618455911="230" name="overseas"></a> </p> <p> <a href="http://www.state.gov/e/eb/oecd/" jquery1243618455911="229">Organization for Economic Cooperation and Development</a>, U.S. National Contact Point </p> <p> Overseas<br> -- <a href="http://www.state.gov/m/fsi/tc/c6954.htm" jquery1243618455911="231">Briefing Center</a><br> -- <a href="http://www.state.gov/obo/" jquery1243618455911="232">Building Operations</a>, Bureau of<br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/divorce.html" jquery1243618455911="233">Divorce</a><br> -- <a href="http://www.state.gov/travel/" jquery1243618455911="234">Living</a><br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/marriage.html" jquery1243618455911="235">Marriage</a><br> -- <a href="http://www.state.gov/m/a/os/" jquery1243618455911="236">Schools</a>, Office of<br> -- <a href="http://www.state.gov/m/a/os/c6971.htm" jquery1243618455911="237">Schools Advisory Council</a><br> -- <a href="http://www.osac.gov/" jquery1243618455911="238">Security Advisory Council</a><br> -- <a href="http://www.state.gov/m/dghr/flo/c21946.htm" jquery1243618455911="239">Teaching</a><br> -- <a href="http://www.state.gov/m/fsi/tc/c1932.htm" jquery1243618455911="240">Returning from</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="p"></a>P</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/sca/ci/pk/" jquery1243618578025="211">Pakistan</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/ps/" jquery1243618578025="212">Palau</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/pm/" jquery1243618578025="213">Panama</a> Country Page </p> <p> <a href="http://www.state.gov/j/avianflu/" jquery1243618578025="214">Pandemic, Influenza</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/pp/" jquery1243618578025="215">Papua New Guinea</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/pa/" jquery1243618578025="216">Paraguay</a> Country Page </p> <p> <a href="https://travel.state.gov/content/childabduction/en.html" jquery1243618578025="217">Parental Child Abduction</a>, International </p> <p> <a href="https://travel.state.gov/content/passports/en/passports.html" jquery1243618578025="218">Passport Forms/Services</a> (U.S. Citizens) </p> <p> <a href="https://careers.state.gov/work/pathways">Pathways Programs</a> </p> <p> <a href="http://www.state.gov/t/pm/ppa/sat/c14563.htm" jquery1243618578025="220">Peacekeeping</a>, Office of Contingency Planning and </p> <a href="http://www.state.gov/s/gac/" jquery1243618578025="221">PEPFAR</a> (President's Emergency Plan for AIDS Relief) <p> <a href="http://aoprals.state.gov/content.asp?content_id=184&amp;menu_id=78" jquery1243618578025="222">Per Diem Rates</a>, Foreign </p> <p> <a href="http://www.gsa.gov/Portal/gsa/ep/contentView.do?contentId=17943&amp;contentType=GSA_BASIC" jquery1243618578025="223">Per Diem Rates</a>, Domestic (GSA Website) </p> <p> <a href="http://www.defensetravel.dod.mil/" jquery1243618578025="224">Per Diem Rates</a>, Non-contiguous U.S. (Dept. of Defense Website) </p> <p> <a href="http://www.state.gov/s/d/rm/c6113.htm" jquery1243618578025="226">Performance Plans and Reports</a> </p> <p> <a href="http://www.state.gov/p/wha/ci/pe/" jquery1243618578025="225">Peru</a> Country Page </p> <p> Pets<br> -- <a href="http://www.state.gov/m/fsi/tc/c10442.htm" jquery1243618578025="227">Traveling with</a><br> -- <a href="http://www.cdc.gov/animalimportation/index.html" jquery1243618578025="228">Returning to the U.S. With</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/rp/" jquery1243618578025="229">Philippines</a> Country Page </p> <p> <a jquery1243618578025="230" name="phone"></a>Phone Numbers<br> -- Department Main Switchboard: 202-647-4000<br> -- General Inquiries: 202-647-6575<br> -- Hotline for American Travelers: 202-647-5225<br> <strong>See also</strong><br> -- <a href="https://register.state.gov/contactus/" jquery1243618578025="231">Contact Us</a><br> -- <a href="http://www.state.gov/documents/organization/115480.pdf" jquery1243618578025="232">Country ("Desk") Offices </a><br> -- Embassy and Consulate <a href="http://usembassy.state.gov/" jquery1243618578025="233">web sites</a><br> -- <a href="http://www.state.gov/documents/organization/111812.pdf" jquery1243618578025="234">Key Officers of Foreign Service Posts </a><br> -- <a href="http://state.gov/m/a/gps/directory/" jquery1243618578025="235">Phone Directory</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/r/pa/ei/pix/" jquery1243618578025="236">Photo Gallery</a> and <a href="http://www.state.gov/misc/87529.htm#copyright" jquery1243618578025="237">Copyright Information</a> </p> <p> <a href="http://www.twc.edu/thomas-r-pickering-foreign-affairs-fellowship-program" jquery1243618578025="238">Pickering Foreign Affairs/Graduate Foreign Affairs Fellowship Program</a><br> <br> <a href="http://www.state.gov/e/eb/esc/iec/index.htm" jquery1243618578025="239">Pipeline Permits</a> </p> <p> <a href="http://www.state.gov/s/d/rm/c6113.htm" jquery1243618578025="240">Planning and Performance</a> (Budget and Planning) </p> <p> <a href="http://www.state.gov/s/p/" jquery1243618578025="241">Planning Staff</a>, Policy </p> <p> <a href="https://www.cbp.gov/travel/clearing-cbp/bringing-agricultural-products-united-states" jquery1243618578025="242">Plants</a>, Restrictions on bringing into the U.S. </p> <p> <a href="http://www.state.gov/r/pa/" jquery1243618578025="243">Podcasts</a> </p> <p> <a href="http://www.state.gov/t/pm/polad/" jquery1243618578025="244">POLAD Coordinator</a>, Office of </p> <p> <a href="http://www.state.gov/p/eur/ci/pl/" jquery1243618578025="245">Poland</a> Country Page </p> <p> <a href="http://www.state.gov/j/inl/civ/" jquery1243618578025="246">Police</a>, International Civilian Program </p> <p> <a href="http://www.state.gov/e/oes/rls/fs/2010/149227.htm">Polio</a> </p> <p> <a href="http://www.state.gov/t/pm/polad/" jquery1243618578025="248">Political Advisors Coordinator</a> (POLAD)<br> <br> <a href="http://www.state.gov/t/pm" jquery1243618578025="249">Political-Military Affairs </a>, Bureau of </p> <p> <a href="http://www.state.gov/t/pm/iso/c7959.htm" jquery1243618578025="250">Political-Military Action Team</a> </p> <p> <a href="http://www.state.gov/t/pm/ppa/pmppt/" jquery1243618578025="251">Political-Military Policy and Planning Team</a> </p> <p> <a href="http://www.state.gov/j/prm" jquery1243618578025="252">Population, Refugees, and Migration </a>, Bureau of </p> <p> <a href="http://www.state.gov/p/eur/ci/po/" jquery1243618578025="253">Portugal</a> Country Page </p> <p> <a href="http://www.state.gov/m/dghr/flo/c1991.htm" jquery1243618578025="254">Post Evacuation</a> </p> <p> <a href="https://www.pmf.gov/" jquery1243618578025="255">Presidential Management Fellows Program</a> </p> </td> 
+            <td width="33%"> <p> Press<br> -- <a href="http://www.state.gov/r/pa/prs/c8306.htm" jquery1243618578025="256">Access to events</a><br> -- <a href="http://fpc.state.gov/" jquery1243618578025="257">Foreign Press Centers</a><br> -- <a href="http://www.state.gov/r/pa/prs/dpb/" jquery1243618578025="258">Daily Briefings</a><br> -- <a href="http://www.state.gov/r/pa/prs/c8310.htm" jquery1243618578025="259">Interview Requests</a> (Secretary of State)<br> -- <a href="http://www.state.gov/r/pa/rmo/c12877.htm" jquery1243618578025="260">Interview Requests</a> (Other Department officials)<br> -- <a href="http://www.state.gov/r/pa/rmo/" jquery1243618578025="261">Outreach</a><br> -- <a href="http://www.state.gov/r/pa/prs/" jquery1243618578025="262">Relations</a>, Office of<br> -- <a href="http://www.state.gov/r/pa/prs/ps/" jquery1243618578025="263">Releases</a> (Department of State)<br> -- <a href="http://www.state.gov/secretary" jquery1243618578025="264">Releases</a> (Secretary of State)<br> -- <a href="https://www.usaid.gov/news-information/press-releases" jquery1243618578025="265">Releases</a> (USAID) </p> <p> <a href="http://www.state.gov/r/pa/prs/" jquery1243618578025="266">Press Office</a> </p> <p> <a href="http://www.state.gov/misc/415.htm">Privacy Policy for Web Sites</a> </p> <p> <a href="http://www.state.gov/secretary/former/" jquery1243618578025="267">Previous Secretaries of State</a><br> <br> <a href="http://www.state.gov/m/a/ips/c25533.htm">Privacy Act System of Records Notice</a><br> <br> <a href="http://www.state.gov/m/a/ips/c24223.htm">Privacy Impact Assessment</a> </p> <p> <a href="http://www.state.gov/s/l/c3452.htm" jquery1243618578025="268">Private International Law</a><br> <br> <a href="http://www.state.gov/s/cpr/" jquery1243618578025="269">Protocol</a>, Office of </p> <p> Public<br> -- <a href="http://www.state.gov/r/pa" jquery1243618578025="270">Affairs </a>, Bureau of<br> -- <a href="http://www.state.gov/r/" jquery1243618578025="271">Diplomacy and Public Affairs, Under Secretary for</a><br> -- <a href="http://www.state.gov/r/pa/pl/" jquery1243618578025="272">Liaison</a>, Office of </p> <p> Publications<br> -- <a href="http://www.state.gov/r/pa/ei/rls/dos/221.htm" jquery1243618578025="273">Major Department</a><br> -- Publishing (see <a href="http://www.state.gov/m/a/gps" jquery1243618578025="274">Global Publishing Solutions</a>)<br> -- <a href="http://www.state.gov/m/fsi/tc/c9649.htm" jquery1243618578025="276">Travel</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="q"></a>Q</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/nea/ci/qa" jquery1243618989478="211">Qatar</a> Country Page </p> <p> <a href="http://www.state.gov/s/dmr/qddr/">Quadrennial Diplomacy and Development Review</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://aoprals.state.gov/Web920/lqa_all.asp?MenuHide=1" jquery1243618989478="212">Quarters Allowances</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://aoprals.state.gov/Web920/location.asp?menu_id=95" jquery1243618989478="213">Quarterly Report Indexes</a> (living costs abroad, quarters allowances, hardship differentials, and danger pay allowances) </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="r"></a>R</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="https://diplomaticrooms.state.gov/home.aspx" jquery1243619262879="211">Reception Rooms,</a> Diplomatic<br> <i>See also</i> <a href="https://receptiontours.state.gov/" jquery1243619262879="212">Tour Reservations</a> </p> <p> <a href="http://www.state.gov/ofm/resource/imp/23417.htm" jquery1243619262879="213">Reciprocity Program</a>, Diplomatic Motor Vehicle </p> <p> <a href="http://www.state.gov/e/eb/cba/iraq/" jquery1243619262879="214">Reconstruction Contracts, Iraq</a> </p> <p> Records (From Abroad)<br> -- <a href="http://travel.state.gov/" jquery1243619262879="215">Birth</a><br> -- <a href="http://travel.state.gov/" jquery1243619262879="216">Marriage</a><br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/divorce/divorce-legal-issues.html" jquery1243619262879="217">Divorce</a><br> -- <a href="https://travel.state.gov/content/passports/en/abroad/events-and-records/death.html" jquery1243619262879="218">Death</a> </p> <p> <a href="http://www.careers.state.gov/" jquery1243619262879="219">Recruitment</a> </p> <p> <a href="http://www.state.gov/j/prm" jquery1243619262879="220">Refugees and Migration </a>, Bureau of Population and </p> </td> 
+            <td width="33%"> <p> <a href="http://www.pmddtc.state.gov/" jquery1243619262879="221">Registration</a>, Defense Trade Controls </p> <p> <a href="http://www.state.gov/ofm/resource/imp/23418.htm" jquery1243619262879="222">Registration, Motor Vehicle</a> (Foreign Diplomats in the U.S.)<br> <i>See also</i><br> -- <a href="http://www.state.gov/ofm/dmv/" jquery1243619262879="223">Diplomatic Motor Vehicle Division</a><br> -- <a href="http://www.state.gov/ofm/resource/imp/23414.htm" jquery1243619262879="224">Driver's License</a><br> -- Liability Insurance (see <a href="http://www.state.gov/ofm/resource/imp/23415.htm" jquery1243619262879="225">Financial Responsibility</a>)<br> -- <a href="http://www.state.gov/ofm/resource/imp/23416.htm" jquery1243619262879="226">Moving Violations, Driving Records, Points System</a> </p> <p> <a href="http://www.state.gov/m/a/dir/regs/" jquery1243619262879="227">Regulations</a> (Foreign Affairs Manual and Handbooks) </p> <p> <a href="http://www.state.gov/j/drl/irf/" jquery1243619262879="228">Religious Freedom</a>, International </p> </td> 
+            <td width="33%"> <p> <a href="https://travel.state.gov/content/travel/en/legal-considerations/us-citizenship-laws-policies/renunciation-of-citizenship.html" jquery1243619262879="229">Renunciation of U.S. Citizenship</a> </p> <p> <a href="http://www.state.gov/r/pa/ei/rls/dos/221.htm">Reports</a> </p> <p> <a href="http://www.state.gov/m/dghr/c15229.htm" jquery1243619262879="231">Retirement</a> (Employee) </p> <p> <a href="http://www.state.gov/p/eur/ci/ro/" jquery1243619262879="232">Romania </a>Country Page </p> <p> <a href="http://www.state.gov/misc/echannels/66791.htm" jquery1243619262879="233">RSS Feeds</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/rs/" jquery1243619262879="234">Russia</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/rw/" jquery1243619262879="235">Rwanda</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="s"></a>S</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/wha/ci/sc/" jquery1243619569547="211">St. Kitts and Nevis</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/st/" jquery1243619569547="212">St. Lucia</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/vc/" jquery1243619569547="213">St. Vincent and the Grenadines</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/ws/" jquery1243619569547="214">Samoa</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/sm/" jquery1243619569547="215">San Marino</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/tp/" jquery1243619569547="216">Sao Tome and Principe</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/sa" jquery1243619569547="217">Saudi Arabia</a> Country Page </p> <p> Scholarships, Fellowships, and Grants<br> -- <a href="http://www.state.gov/m/a/ols/c57713.htm" jquery1243619569547="218">Citizen Exchanges</a><br> -- <a href="http://www.fas.usda.gov/programs/cochran-fellowship-program" jquery1243619569547="219">Cochran Fellowship Program</a> (USDA)<br> -- <a href="http://careers.state.gov/" jquery1243619569547="220">Fascell Fellowship Program</a><br> -- <a href="http://www.grants.gov/" jquery1243619569547="221">Federal Grant Opportunities</a> (Government-wide)<br> -- <a href="http://eca.state.gov/fulbright" jquery1243619569547="222" target="_blank">Fulbright Program</a><br> -- <a href="https://www.humphreyfellowship.org/" jquery1243619569547="223" target="_blank">Humphrey Fellowships</a><br> -- <a href="http://careers.state.gov/" jquery1243619569547="224">Presidential Management Fellows Program</a><br> -- <a href="http://careers.state.gov/" jquery1243619569547="225">Thomas R. Pickering Foreign Affairs/Graduate Foreign Affairs Fellowship Program</a><br> -- <a href="http://www.state.gov/t/avc/c6275.htm" jquery1243619569547="226">William C. Foster Fellows Visiting Scholars Program</a> </p> <p> <a href="http://www.state.gov/e/stas/" jquery1243619569547="227">Science and Technology Adviser</a> </p> <p> <a href="http://www.state.gov/e/oes/index.htm">Scientific Affairs</a>, Bureau of Oceans and International Environmental and </p> <p> <a href="http://www.state.gov/s/es/index.htm" jquery1243619569547="229">Secretariat, Executive</a> </p> <p> <a href="http://www.state.gov/secretary/" jquery1243619569547="230">Secretary of State</a><br> -- <a href="http://www.state.gov/r/pa/prs/c8310.htm" jquery1243619569547="231">Interview Requests</a> (Press) </p> <p> <a href="http://www.state.gov/s/p/of/" jquery1243619569547="232">Secretary's Open Forum</a> </p> <p> <a href="http://www.osac.gov/" jquery1243619569547="233">Security Advisory Council</a>, Overseas </p> <p> <a href="http://www.state.gov/t/isn" jquery1243619569547="234">Security-Building Measures</a>, Confidence and </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/documents/organization/63562.pdf" jquery1243619569547="235">Security Strategy</a>, U.S. National </p> <p> Security<br> -- <a href="http://www.state.gov/m/ds/" jquery1243619569547="236">Diplomatic</a><br> -- <a href="http://www.state.gov/m/ds/immunities/c9090.htm" jquery1243619569547="237">Embassy</a> (Foreign embassies in the U.S.)<br> -- <a href="http://www.state.gov/ofm/" jquery1243619569547="238">Embassy</a> (U.S. embassies and missions abroad)<br> -- <a href="http://www.state.gov/t/" jquery1243619569547="239">International</a> </p> <p> <a href="http://www.state.gov/p/af/ci/sg/" jquery1243619569547="240">Senegal</a> Country Page </p> <p> <a href="http://www.state.gov/r/pa/ei/biog/title/as/index.htm">Special Envoys and Special Representatives</a>
+              <!-- END TITLE --> </p> <p> <a href="http://www.state.gov/p/eur/ci/ri/" jquery1243619569547="241">Serbia</a> Country Page </p> <p> <a href="http://www.state.gov/t/pm/" jquery1243619569547="242">Service-Members' Protection Act</a>, American </p> <p> <a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/service-of-process.html" jquery1243619569547="243">Service of Legal Documents Abroad</a><br> (<i>See also </i><a href="http://travel.state.gov/" jquery1243619569547="244">International Judicial Assistance, Notarial Services<br> and Authentication of Documents</a>) </p> <p> <a href="http://www.state.gov/p/af/ci/se/" jquery1243619569547="245">Seychelles</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/sl/" jquery1243619569547="246">Sierra Leone</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/sn/" jquery1243619569547="247">Singapore</a> Country Page<br> <br> <a href="http://www.state.gov/p/eap/regional/c15455.htm" jquery1243619569547="248">Six-Party Talks</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/lo/" jquery1243619569547="249">Slovakia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/si/" jquery1243619569547="250">Slovenia</a> Country Page </p> <p> <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243619569547="251">Small Arms</a>, Combating the Spread of (including light weapons) </p> <p> <a href="http://www.state.gov/p/eap/ci/bp/" jquery1243619569547="252">Solomon Islands</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/so/" jquery1243619569547="253">Somalia</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/sf/" jquery1243619569547="254">South Africa</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca" jquery1243619569547="255">South and Central Asian Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/p/eap/ci/ks/" jquery1243619569547="256">South Korea</a> Country Page </p> <p> <a href="http://www.state.gov/e/oes/sat/" jquery1243619569547="257">Space and Advanced Technology</a> </p> <p> <a href="http://www.state.gov/p/eur/ci/sp/" jquery1243619569547="258">Spain</a> Country Page </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/r/pa/pl/" jquery1243619569547="259">Speakers</a>, Requests for Department </p> <p> <a href="http://exchanges.state.gov/intlathletics/" jquery1243619569547="260">Sports</a>, International </p> <p> <a href="http://www.state.gov/p/sca/ci/ce/" jquery1243619569547="261">Sri Lanka</a> Country Page </p> <p> <a href="http://www.state.gov/s/d/rm/rls/dosstrat/2004/23503.htm" jquery1243619569547="262">State Department Mission</a> </p> <p> <a href="http://www.state.gov/m/dghr/statemag/" jquery1243619569547="263">State Magazine</a> </p> <p> <a href="http://www.state.gov/s/d/rm/rls/dosstrat/" jquery1243619569547="265">Strategic Plan</a>, International </p> <p> <a href="https://careers.state.gov/intern" jquery1243619569547="267">Student Internships</a> </p> <p> (<i>see also</i> <a href="http://careers.state.gov/" jquery1243619569547="268">Student Programs</a> for more opportunities for students) </p> <p> Subpoeneas (see <a href="http://www.travel.state.gov/" jquery1243619569547="269">International Judicial Assistance, Notarial Services<br> and Authentication of Documents</a>) </p> <p> <a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USSTATEBPA" jquery1243619569547="270">Subscription Service</a>, Electronic </p> <p> <a href="http://www.state.gov/p/af/ci/su/" jquery1243619569547="271">Sudan</a> Country Page </p> <p> <a href="https://careers.state.gov/faqs/faqs-wiki?func=byKeyword;keyword=summer%20clerical" jquery1243619569547="272">Summer Clerical Program</a> </p> <p> <a href="http://www.state.gov/e/eb/ecosum/" jquery1243619569547="273">Summits</a>, Economic (G-8) </p> <p> <a href="http://www.state.gov/p/wha/ci/ns/" jquery1243619569547="274">Suriname</a> Country Page </p> <p> Sustainable Development<br> -- <a href="http://www.state.gov/e/oes/sus/" jquery1243619569547="275">Department of State Web site</a> </p> <p> Swaziland (See <a href="http://www.state.gov/p/af/ci/wz/">Eswatini</a>) </p> <p> <a href="http://www.state.gov/p/eur/ci/sw/" jquery1243619569547="278">Sweden</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/sz/" jquery1243619569547="279">Switzerland</a> Country Page<br> <br> <a href="http://www.state.gov/p/nea/ci/sy" jquery1243619569547="280">Syria</a> Country Page<br> <br> <a href="http://www.state.gov/m/a/ips/c25533.htm">System of Records Notice</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="t"></a>T</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://aoprals.state.gov/Web920/per_diem.asp" jquery1243620038409="211">Table of Allowances</a> </p> <p> <a href="http://www.state.gov/p/sca/ci/ti/" jquery1243620038409="212">Tajikistan</a> Country Page </p> <p> <a href="http://www.state.gov/p/af/ci/tz/" jquery1243620038409="213">Tanzania</a> Country Page </p> <p> <a href="http://www.state.gov/m/dghr/flo/c21946.htm" jquery1243620038409="214">Teaching Overseas</a> </p> <p> <a href="http://www.state.gov/e/stas/" jquery1243620038409="215">Technology Adviser</a>, Science and </p> <p> <a jquery1243620038409="216" name="phone"></a>Telephone Numbers<br> -- Central Switchboard: 202-647-4000<br> -- General Inquiries: 202-647-6575<br> -- Hotline for American Travelers: 202-647-5225<br> <strong>See also</strong><br> -- <a href="http://www.state.gov/documents/organization/115480.pdf" jquery1243620038409="217">Country ("Desk") Offices </a><br> -- Embassy <a href="http://usembassy.state.gov/" jquery1243620038409="218">web sites</a><br> -- <a href="http://www.state.gov/documents/organization/111812.pdf" jquery1243620038409="219">Key Officers of Foreign Service Posts</a><br> -- <a href="http://www.state.gov/m/a/gps/directory/" jquery1243620038409="220">Telephone Directory </a> </p> <p> Terrorism -- See <a href="http://www.state.gov/j/ct/" jquery1243620038409="221">Counterterrorism</a><br> See also<br> -- <a href="http://www.ready.gov/" jquery1243620038409="223">Preparing for Emergencies</a> (Department of Homeland Security) </p> <p> <a href="http://www.state.gov/e/eb/tpp/abt/" jquery1243620038409="224">Textile Trade Affairs</a> (including apparel) </p> <p> <a href="http://www.state.gov/s/h/tst/" jquery1243620038409="225">Testimony</a>, Congressional </p> <p> <a href="http://www.state.gov/p/eap/ci/th/" jquery1243620038409="226">Thailand</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/tt/" jquery1243620038409="227">Timor-Leste Country Page</a> </p> <p> <a href="http://www.state.gov/p/af/ci/to/" jquery1243620038409="228">Togo</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/tn/" jquery1243620038409="229">Tonga</a> Country Page </p> <p> <a href="http://www.state.gov/s/l/3202.htm" jquery1243620038409="230">Tort Claims</a> </p> </td> 
+            <td width="33%"><br> Tours, Diplomatic Reception Rooms<br> -- <a href="https://receptiontours.state.gov/" jquery1243620038409="231">Reservations</a><br> -- <a href="https://diplomaticrooms.state.gov/home.aspx" jquery1243620038409="232">About</a><br> -- <i>See also</i> <a href="http://art.state.gov/" jquery1243620038409="233">Art in Embassies</a> (virtual tours) <p> Trade and Investment<br> -- <a href="http://www.state.gov/e/eb/cba/bs/" jquery1243620038409="234">Business Support</a><br> -- <a href="http://www.state.gov/s/l/c3433.htm" jquery1243620038409="235">Disputes</a><br> -- <a href="http://www.state.gov/e/eb/tpp/bta/fta/index.htm" jquery1243620038409="236">Free Trade Agreements</a><br> -- <a href="http://mepi.state.gov/" jquery1243620038409="237">Middle East Initiatives</a><br> -- <a href="http://state.gov/s/l/c3452.htm" jquery1243620038409="238">Transactions Law</a> </p> <p> <a href="http://pmddtc.state.gov/" jquery1243620038409="239" target="_blank">Trade Controls</a>, Defense </p> <p> Trade Reports (<i>see </i><a href="http://www.state.gov/e/eb/rls/rpts/eptp/" jquery1243620038409="240">Country Reports on Economic Policy and Trade Practices</a>)<br> <br> <a href="http://www.state.gov/j/tip/" jquery1243620038409="241">Trafficking in Persons </a>(G/TIP) </p> <p> <a href="http://state.gov/s/l/c3452.htm" jquery1243620038409="242">Transactions Law</a>, Trade/Business </p> <p> <a href="http://www.state.gov/e/eb/tra/" jquery1243620038409="244">Transportation</a> </p> <p> Travel<br> -- <a href="https://travel.state.gov/content/passports/en/alertswarnings.html" jquery1243620038409="245">Alerts</a> (relatively short-term conditions that pose significant risks or disruptions to Americans)<br> -- <a href="https://travel.state.gov/content/passports/en/alertswarnings.html" jquery1243620038409="246">Warnings</a> (issued when the State Department recommends that Americans avoid a certain country)<br> -- <a href="https://travel.state.gov/content/passports/en/country.html" jquery1243620038409="247">Country Specific Information </a>(formerly called Consular Information Sheets)<br> -- <a href="https://travel.state.gov/content/passports/en/emergencies.html" jquery1243620038409="248">Emergencies and Crises</a> (Overseas)<br> -- <a href="http://www.ready.gov/" jquery1243620038409="249">Crisis Awareness and Preparedness</a> (Office of Homeland Security) </p> </td> 
+            <td width="33%"> <p> <a jquery1243620038409="253" name="hotline"></a>-- <a href="http://www.travel.state.gov/" jquery1243620038409="250">Documents</a><br> -- <a href="http://www.cdc.gov/travel" jquery1243620038409="251">Health Information</a> (Centers for Disease Control)<br> --Traveler's Hotline: 202-647-5225 </p> <p> Treaty, Treaties<br> -- <a href="http://www.state.gov/s/l/treaty/treaties/" jquery1243620038409="254">In Force</a><br> -- <a href="http://www.state.gov/s/l/treaty/c3428.htm" jquery1243620038409="255">Actions</a><br> -- <a href="http://www.state.gov/t/isn/trty/index.htm" jquery1243620038409="256">Arms Control</a> (including Nonproliferation, Test Ban, and more)<br> (<i>see also</i> <a href="http://www.state.gov/s/l/" jquery1243620038409="257">Office of the Legal Advisor</a>) </p> <p> <a href="http://www.state.gov/s/tribalconsultation/index.htm">Tribal Consultation</a> </p> <p> <a href="http://www.state.gov/p/wha/ci/td/" jquery1243620038409="258">Trinidad and Tobago</a> Country Page </p> <p> <a href="http://www.state.gov/p/nea/ci/ts" jquery1243620038409="259">Tunisia</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/tu/" jquery1243620038409="260">Turkey</a> Country Page </p> <p> <a href="http://www.state.gov/p/sca/ci/tx/" jquery1243620038409="261">Turkmenistan</a> Country Page </p> <p> <a href="http://www.state.gov/p/eap/ci/tv/" jquery1243620038409="262">Tuvalu</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="u"></a>U</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/af/ci/ug/" jquery1243621244284="211">Uganda</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/up/" jquery1243621244284="212">Ukraine</a> Country Page </p> <p> Under Secretary for<br> -- <a href="http://www.state.gov/t" jquery1243621244284="213">Arms Control and International Security </a><br> -- <a href="http://www.state.gov/e" jquery1243621244284="214">Economic, Business, and Agricultural Affairs</a><br> -- <a href="http://www.state.gov/g" jquery1243621244284="215">Global Affairs </a><br> -- <a href="http://www.state.gov/m" jquery1243621244284="216">Management </a><br> -- <a href="http://www.state.gov/p/" jquery1243621244284="217">Political Affairs </a><br> -- <a href="http://www.state.gov/r" jquery1243621244284="218">Public Diplomacy and Public Affairs </a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/nea/ci/ae" jquery1243621244284="219">United Arab Emirates</a> Country Page </p> <p> <a href="http://www.state.gov/p/eur/ci/uk/" jquery1243621244284="220">United Kingdom</a> Country Page </p> <p> United Nations<br> -- <a href="http://www.state.gov/p/io/" jquery1243621244284="221">Bureau of International Organization Affairs</a><br> -- <a href="http://www.state.gov/t/isn" jquery1243621244284="222">Confidence and Security-Building Measures</a><br> -- <a href="http://www.state.gov/p/io/empl/" jquery1243621244284="223">Employment opportunities</a><br> -- <a href="http://usun.state.gov/leadership" jquery1243621244284="224">U.S. Permanent Representative to the UN (and U.S. Mission to the UN)</a> (New York City) </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/j/drl/upr/index.htm">Universal Periodic Review</a> </p> <p> <a href="http://www.state.gov/p/wha/ci/uy/" jquery1243621244284="225">Uruguay</a> Country Page </p> <p> <a href="http://www.usaid.gov/" jquery1243621244284="226">USAID</a> </p> <p> <a href="http://www.state.gov/r/pa/ei/bgn/">U.S. Bilateral Relations Fact Sheets</a> </p> <p> UXO (<i>see </i><a href="http://www.state.gov/t/pm/wra/" jquery1243621244284="227">Office of Weapons Removal and Abatement</a>) </p> <p> <a href="http://www.state.gov/p/sca/ci/uz/" jquery1243621244284="228">Uzbekistan</a> Country Page </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="v"></a>V</b> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/eap/ci/nh/" jquery1243621368976="211">Vanuatu</a> Country Page </p> <p> <a href="http://www.state.gov/p/wha/ci/ve/" jquery1243621368976="212">Venezuela</a> Country Page </p> <p> <a href="http://www.state.gov/t/avc/" jquery1243621368976="213">Arms Control, Verification, and Compliance</a>, Bureau of </p> <p> <a href="http://www.state.gov/r/pa/obs/" jquery1243621368976="214">Video Production</a> </p> <p> <a href="http://www.state.gov/p/eap/ci/vm/" jquery1243621368976="215">Vietnam</a> Country Page </p> <p> <a href="https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html" jquery1243621368976="216">Visa Bulletin</a> (Immigrant Numbers for current month) </p> </td> 
+            <td width="33%"> <p> Visa Information<br> -- <a href="https://travel.state.gov/content/visas/en.html" jquery1243621368976="217">For foreign citizens traveling to the U.S.</a> (permanent or temporary basis)<br> -- For U.S. citizens traveling abroad (<i>see </i><a href="https://travel.state.gov/content/passports/en/country.html" jquery1243621368976="218">Consular Information Sheets</a>)<br> -- <a href="https://travel.state.gov/content/visas/en/general/fraud.html" jquery1243621368976="219">Fraudulent Visa Web Sites Warning</a><br> -- <a href="https://j1visawaiverrecommendation.state.gov/" jquery1243621368976="220">J Visa Waivers</a> </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/t/avc/c6275.htm" jquery1243621368976="221">Visiting Scholars Program</a>, Foster Fellows </p> <p> <a href="http://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp" jquery1243621368976="222">Visitor Program</a>, International </p> <p> <a href="http://www.cdc.gov/nchs/howto/w2w/w2welcom.htm" jquery1243621368976="223">Vital Records</a> </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <b><a name="w"></a>W</b> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td width="33%"> <p> <a href="http://www.state.gov/j/gcj/" jquery1243621389727="211">War Crimes Issues</a>, Office of </p> <p> <a href="http://www.state.gov/misc/415.htm">Web Site Privacy Policy</a> </p> <p> Weapons Conventions<br> -- <a href="http://www.state.gov/t/isn/bw/index.htm" jquery1243621389727="212">Biological </a><br> -- <a href="http://www.state.gov/t/isn/c15236.htm" jquery1243621389727="213">Chemical</a> </p> <p> <a href="http://www.state.gov/t/isn/c16403.htm" jquery1243621389727="214">Weapons of Mass Destruction Threat</a><br> <br> <a href="http://www.state.gov/t/pm/wra/c3670.htm" jquery1243621389727="215">Weapons</a>, Light (Small Arms) </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/p/wha" jquery1243621389727="216">Western Hemisphere Affairs</a>, Bureau of </p> <p> <a href="http://www.state.gov/t/avc/c6275.htm" jquery1243621389727="217">William C. Foster Fellows Visiting Scholars Program</a><br> <br> <a href="http://www.state.gov/s/gwi/index.htm">Women's Issues</a>, Office of International </p> </td> 
+            <td width="33%"> <p> <a href="http://www.state.gov/m/dghr/flo/c24338.htm" jquery1243621389727="220">Work Arrangements</a>, Bilateral and <em>de facto</em> </p> <p> Work Study Program<br> (<i>See </i><a href="https://careers.state.gov/work/pathways" jquery1243621389727="221">Pathways Programs</a>) </p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p> <strong><a jquery1243621389727="222" name="x"></a></strong><strong><a name="x"></a>X</strong><br> <strong>No listings at present</strong> </p> 
+         <p> <strong><a name="y"></a>Y</strong> </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td><a href="http://www.state.gov/p/nea/ci/ym" jquery1243621416212="211">Yemen</a> Country Page</td> 
+            <td><a href="http://eca.state.gov/programs-initiatives/youth-programs" jquery1243621416212="213">Youth Programs</a> (Citizen Exchanges)</td> 
+            <td width="33%">&nbsp;</td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p> <strong><a jquery1243621416212="214" name="z"></a><a name="z"></a>Z</strong> </p> 
+         <p> &nbsp; </p> 
+         <table cellpadding="5" cellspacing="5" class="no-border no-stripe" width="100%"> 
+          <tbody> 
+           <tr valign="top"> 
+            <td><a href="http://www.state.gov/p/af/ci/za/" jquery1243621416212="215">Zambia</a> Country Page</td> 
+            <td><a href="http://www.state.gov/p/af/ci/zi/" jquery1243621416212="216">Zimbabwe</a> Country Page</td> 
+            <td width="33%">&nbsp;</td> 
+           </tr> 
+          </tbody> 
+         </table> 
+         <p align="right"> <a href="http://www.state.gov/r/pa/ei/subject/index.htm#top">Return to Top </a> </p> 
+         <p></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <aside class="small-12 medium-3 medium-pull-9 large-3 large-pull-9 l-padding-right columns sidebar-first columns sidebar" role="complementary"> 
+      <a id="subnav-anchor"></a> 
+      <div class="l-more-info hide-for-print"> 
+       <section class="block-menu-block"> 
+        <h3>In This Section:</h3> 
+        <div class="menu-block-wrapper"> 
+         <ul class="menu"> 
+          <li> <a href="javascript:history.back();"><span class="fa icon-angle-double-left"></span><i>Go Back</i></a> </li> 
+         </ul> 
+        </div> 
+       </section> 
+      </div> 
+      <div class="l-highlights"> 
+       <h3 style="display:none;" class="highlights-headline">Highlights</h3> 
+       <div id="high1"></div> 
+       <div id="high2"></div> 
+       <div id="high3"></div> 
+       <div id="high4"></div> 
+       <div id="high5"></div> 
+       <div id="high6"></div> 
+       <div id="high7"></div> 
+       <div id="high8"></div> 
+       <div id="high9"></div> 
+       <div id="high10"></div> 
+       <h3 style="display:none;" class="learnmore-headline">Learn More</h3> 
+       <div id="learn1"></div> 
+       <div id="learn2"></div> 
+       <div id="learn3"></div> 
+       <div id="learn4"></div> 
+       <div id="learn5"></div> 
+      </div> 
+      <div class="l-quick-links"></div> 
+     </aside> 
+    </div> 
+   </main> 
+   <!--googleoff: all--> 
+   <div class="l-squiggle"></div> 
+   <div class="row collapse"> 
+    <div class="small-12 columns"> 
+     <footer class="l-footer" role="contentinfo"> 
+      <div class="row collapse"> 
+       <div class="small-12 columns"> 
+        <div class="l-dos-divider text-center"> 
+         <img src="/state-responsive/images/dos_divider.png" data-uuid="interchange-ir2e1a470" data-interchange="[/state-responsive/images/dos_divider.png, (default)], [/state-responsive/images/dos_divider@2x.png, (retina)]" alt="Image - DOS Divider">
+         <noscript> 
+          <img alt="Image - DOS Divider" src="/state-responsive/images/dos_divider.png">
+         </noscript> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="l-footer-menu clearfix"> 
+       <div class="nav-collapse"> 
+        <section> 
+         <div class="row"> 
+          <div class="small-12 medium-3 columns"> 
+           <dl> 
+            <dt>
+             <h3><a href="/business" class="active">Business</a></h3>
+            </dt> 
+            <dd>
+             <a href="http://www.state.gov/e/eb/cba/index.htm">Commercial and Business Affairs Office</a>
+            </dd> 
+            <dd>
+             <a href="http://www.state.gov/documents/organization/111812.pdf">Key Officers of Foreign Service Posts</a>
+            </dd> 
+            <dd>
+             <a href="http://www.state.gov/s/partnerships/">Office of Global Partnerships</a>
+            </dd> 
+            <dd>
+             <a href="http://www.state.gov/s/dmr/sdbu/index.htm">Small and Disadvantaged Business Utilization</a>
+            </dd> 
+           </dl> 
+          </div> 
+          <div class="small-12 medium-3 columns"> 
+           <dl> 
+            <dt>
+             <h3><a href="/careers" class="active">Careers</a></h3>
+            </dt> 
+            <dd>
+             <a href="https://careers.state.gov/work/civil-service/">Civil Service Officer</a>
+            </dd> 
+            <dd>
+             <a href="https://careers.state.gov/work/foreign-service/consular-fellows">Consular Fellows Program</a>
+            </dd> 
+            <dd>
+             <a href="https://careers.state.gov/work/foreign-service/officer/">Foreign Service Officer</a>
+            </dd> 
+            <dd>
+             <a href="https://careers.state.gov/work/foreign-service/specialist/">Foreign Service Specialist</a>
+            </dd> 
+            <dd>
+             <a href="http://iocareers.state.gov/Main/Home">International Organizations</a>
+            </dd> 
+            <dd>
+             <a href="https://careers.state.gov/intern/student-programs/">Student Programs</a>
+            </dd> 
+            <dd>
+             <a href="http://www.usajobs.gov/">USAJobs: Working for America</a>
+            </dd> 
+           </dl> 
+          </div> 
+          <div class="small-12 medium-3 columns"> 
+           <dl> 
+            <dt>
+             <h3><a href="/youthandeducation" class="active">Education &amp; Exchanges</a></h3>
+            </dt> 
+            <dd>
+             <a href="http://history.state.gov/">Diplomatic History</a>
+            </dd> 
+            <dd>
+             <a href="http://diplomacy.state.gov/discoverdiplomacy/">Discover Diplomacy</a>
+            </dd> 
+            <dd>
+             <a href="http://j1visa.state.gov">Exchange Visitor Program</a>
+            </dd> 
+            <dd>
+             <a href="http://eca.state.gov/fulbright">Fulbright Program</a>
+            </dd> 
+            <dd>
+             <a href="http://www.state.gov/r/ppr/gyi/index.htm">Global Youth Issues</a>
+            </dd> 
+            <dd>
+             <a href="http://www.state.gov/m/a/os/">Office of Overseas Schools</a>
+            </dd> 
+            <dd>
+             <a href="http://diplomacy.state.gov/">U.S. Diplomacy Center</a>
+            </dd> 
+            <dd>
+             <a href="http://eca.state.gov/programs-initiatives/youth-programs">Youth Exchange Programs</a>
+            </dd> 
+           </dl> 
+          </div> 
+          <div class="small-12 medium-3 columns"> 
+           <dl> 
+            <dt>
+             <h3><a href="/travel" class="active">Travel</a></h3>
+            </dt> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/legal-considerations/judicial/authentication-of-documents.html">Authentications and Apostilles</a>
+            </dd> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/international-travel/emergencies.html">Emergency Services</a>
+            </dd> 
+            <dd>
+             <a href="http://aoprals.state.gov/content.asp?content_id=184&amp;menu_id=78">Foreign Per Diem Rates</a>
+            </dd> 
+            <dd>
+             <a href="http://adoption.state.gov/">Intercountry Adoption</a>
+            </dd> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html">Parental Child Abduction</a>
+            </dd> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/passports.html">Passports</a>
+            </dd> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/international-travel.html">Travel Information</a>
+            </dd> 
+            <dd>
+             <a href="https://travel.state.gov/content/travel/en/us-visas.html">Visas</a>
+            </dd> 
+           </dl> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+      <div class="row"> 
+       <div class="small-12 columns"> 
+        <div class="l-footer-links"> 
+         <ul class="no-bullet"> 
+          <li> <a target="_self" href="/misc/112234.htm">Archive</a> </li> 
+          <li> <a target="_self" href="https://register.state.gov/contactus/">Contact Us</a> </li> 
+          <li> <a target="_self" href="https://register.state.gov/contactus/">FAQ</a> </li> 
+          <li> <a target="_self" href="//findit.state.gov/search?affiliate=dos_stategov">Search</a> </li> 
+          <li> <a class="addthis_button" id="bookmark" target="_self" href="http://www.addthis.com/bookmark.php">Share</a><script type="text/javascript" src="/js/addthis.js"></script><script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4eaec24f65984103" type="text/javascript"></script> </li> 
+          <li> <a target="_self" href="/r/pa/ei/subject">Subject Index</a> </li> 
+         </ul> 
+         <ul class="no-bullet"> 
+          <li> <a target="_self" href="/misc/207091.htm">Accessibility Statement</a> </li> 
+          <li> <a target="_self" href="/misc/87529.htm#copyright">Copyright Information</a> </li> 
+          <li> <a target="_self" href="/misc/152386.htm">External Link Policy</a> </li> 
+          <li> <a target="_self" href="https://foia.state.gov/">FOIA</a> </li> 
+          <li> <a target="_self" href="/s/ocr/c11528.htm">No Fear Act</a> </li> 
+          <li> <a target="_self" href="/misc/415.htm">Privacy Policy</a> </li> 
+         </ul> 
+         <ul class="no-bullet"> 
+          <li> <a target="_self" href="https://www.stateoig.gov/">Office of Inspector General </a> </li> 
+          <li> <a target="_self" href="https://www.whitehouse.gov/">White House</a> </li> 
+          <li> <a target="_self" href="https://www.usa.gov/">USA.gov</a> </li> 
+          <li> <a target="_self" href="https://www.usembassy.gov/">U.S. Embassies</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="l-footer-text"> 
+       <hr> 
+       <div class="row"> 
+        <div class="small-12 columns"> 
+         <p> <span>The Office of Website Management, Bureau of Public Affairs, manages this site as a portal for information from the U.S. State Department.</span><span>External links to other Internet sites should not be construed as an endorsement of the views or privacy policies contained therein.</span><span>Note: documents in Portable Document Format (PDF) require Adobe Acrobat Reader 5.0 or higher to view, <a target="_blank" href="http://get.adobe.com/reader/">download Adobe Acrobat Reader</a>.</span> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </footer> 
+     <a class="button b-back-to-top" href="#top" role="button">Top</a> 
+    </div> 
+   </div> 
+   <script>
+// Adding this here vs. "scripts.js" since this causes the IMCE buttons to disappear when added to scripts.js.
+// This is needed to keep the day cells in the DPB calendar the same height when buttons appear inside them.
+//(function ($, Drupal, window, document, undefined) {
+$(document).ready(function(){
+$(document).foundation({
+equalizer: {
+// Specify if Equalizer should make elements equal height once they become stacked.
+equalize_on_stack: true
+}
+});
+});
+//})(jQuery, Drupal, this, this.document);
+</script> 
+   <noscript>
+    Javascript is disabled in your browser. For the best experience on this web site, please enable Javascript.
+   </noscript> 
+   <!--googleon: all--> 
+  </div>   
+ </body>
+</html>

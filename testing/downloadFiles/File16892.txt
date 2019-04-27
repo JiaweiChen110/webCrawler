@@ -1,0 +1,626 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "36242, 35332, 213955, 35422, 34862, 35372",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Jobs and Unemployment",
+    "TaxLevel3": "Looking for a New Job",
+    "TaxLevel4": "Find a Federal Government Job",
+    "TaxLevel5": "Find a Federal Government Job",
+    "TaxLevel6": "Find a Federal Government Job"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Find a Federal Government Job  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/government-jobs"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn how to find a job with the federal government."> 
+  <meta property="og:url" content="https://www.usa.gov/government-jobs"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Find a Federal Government Job | USAGov"> 
+  <meta property="og:description" content="Learn how to find a job with the federal government."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10776';
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/empleo-capacitacion-laboral#item-37752" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/job-search" class="url" onmousedown="_sendEvent('Outbound','/job-search','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Looking for a New Job</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li class="slctd"> <a> <span>Find a Federal Government Job</span> </a> </li> 
+        <li> <span> <a href="/find-a-job" class="url" onmousedown="_sendEvent('Outbound','/find-a-job','/',0);"> Find a Job </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Find a Federal Government Job</h1> 
+      <p>Learn how to find a job with the federal government.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-36242" onclick="document.getElementById('item-36242').focus();"> Federal Government Employment </a> </li> 
+        <li> <a href="#item-35332" onclick="document.getElementById('item-35332').focus();"> Apprenticeships </a> </li> 
+        <li> <a href="#item-213955" onclick="document.getElementById('item-213955').focus();"> Federal Jobs for People with Disabilities </a> </li> 
+        <li> <a href="#item-35422" onclick="document.getElementById('item-35422').focus();"> Government Internships </a> </li> 
+        <li> <a href="#item-34862" onclick="document.getElementById('item-34862').focus();"> Security Clearance </a> </li> 
+        <li> <a href="#item-35372" onclick="document.getElementById('item-35372').focus();"> Civil Service Exam </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-36242"> 
+      <header> 
+       <h2 id="item-36242">Federal Government Employment</h2> 
+      </header> 
+      <p>There are job openings in federal agencies across the country. If you’re interested in one, visit&nbsp;<a href="https://www.usajobs.gov/">USAJOBS.gov</a>. It’s the official job site for the federal government. There, you can:</p>
+      <ul>
+       <li><p><a href="https://www.usajobs.gov/?c=fed-app-process">Learn how the government hires people.</a></p></li>
+       <li><p><a href="https://www.usajobs.gov/Search?">Search for jobs</a>, including ones in&nbsp;<a href="https://www.usajobs.gov/?c=opportunities">high demand</a>.</p></li>
+       <li><p><a href="https://www.usajobs.gov/Help/working-in-government/non-citizens/">Learn about government jobs for non-U.S. citizens.</a></p></li>
+       <li><p><a href="https://www.usajobs.gov/Help/">Get help applying for federal jobs.</a></p></li>
+      </ul>
+      <h3>How to Apply for a Federal Job Through USAJOBS</h3>
+      <p>You must create a USAJOBS profile to apply.</p>
+      <ul>
+       <li><p><a href="https://www.usajobs.gov/Help/how-to/account/">Sign up for a login.gov account.</a></p></li>
+      </ul>
+      <ul>
+       <li><p>Sign into USAJOBS,&nbsp;<a href="https://www.usajobs.gov/Help/how-to/account/profile/">complete your profile</a>, and upload your resume.</p></li>
+      </ul>
+      <ul>
+       <li><p><a href="https://www.usajobs.gov/Search?">Search for jobs</a> that interest you.</p></li>
+      </ul>
+      <ul>
+       <li><p>Review the job announcements to see if you qualify.</p></li>
+      </ul>
+      <ul>
+       <li><p>Prepare your application in USAJOBS.</p></li>
+      </ul>
+      <ul>
+       <li><p>Submit your application to the federal agency with the opening through USAJOBS.</p></li>
+      </ul>
+      <p>Though most federal agencies post their jobs on USAJOBS, some post jobs on their websites. If you want to work for a specific agency, find its website through the&nbsp;<a href="https://www.usa.gov/federal-agencies/a">A-Z Index of Government Agencies</a>.</p>
+      <ul>
+       <li><p><a href="https://www.opm.gov/faqs/topic/employment/?cid=5d9058d6-78fb-42a2-9d2a-9d14c22982f0">Find questions and answers</a> about federal employment from the Office of Personnel Management.</p></li>
+      </ul>
+      <ul>
+       <li><p>Explore local and virtual&nbsp;<a href="https://www.usajobs.gov/Notification/Events/">federal hiring events and training opportunities</a>.</p></li>
+      </ul>
+      <ul>
+       <li><p><a href="https://www.bls.gov/careeroutlook/2014/article/mobile/federal-work-part-1.htm">Read a blog series</a> from the Bureau of Labor Statistics about federal employment.</p></li>
+      </ul>
+      <p>There is <strong>never an application fee or a testing fee</strong> to apply for a government or U.S. Postal Service job. Find information about&nbsp;<a href="https://www.consumer.ftc.gov/articles/0083-government-job-scams/">government job scams</a> and how to avoid them.</p>
+      <h3>Former Federal Employees</h3>
+      <p>If you are a former federal employee, you may be <a href="https://www.opm.gov/policy-data-oversight/hiring-information/reinstatement/">eligible for reinstatement</a>. Reinstatement lets you apply for federal jobs without competing with the public.</p>
+      <h3>Students and Recent Graduates</h3>
+      <p><a href="https://www.usajobs.gov/StudentsAndGrads/">Find student job opportunities</a> with the government. You may qualify for an internship or an entry-level position.</p>
+      <h3>Veterans</h3>
+      <p>If you've served in the military and want to find a federal job, check out&nbsp;<a href="https://www.fedshirevets.gov/">FedsHireVets.gov</a>. It has information on:</p>
+      <ul>
+       <li><p>Veterans' preference</p></li>
+      </ul>
+      <ul>
+       <li><p>Special hiring authorities</p></li>
+      </ul>
+      <ul>
+       <li><p>Other tips for vets and transitioning service members seeking federal civilian jobs</p></li>
+      </ul>
+      <h3>People with Disabilities</h3>
+      <p>Learn about the&nbsp;<a href="https://www.usa.gov/government-jobs#item-213955">advantages of federal jobs for people with disabilities</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35332"> 
+      <header> 
+       <h2 id="item-35332">Apprenticeships</h2> 
+      </header> 
+      <p>Apprenticeships combine on-the-job training and related instruction to give you skills to advance in your chosen field.</p>
+      <p>Apprentice programs vary in length from one to six years. During that time, as an apprentice, you'll work and learn as an employee. When you complete a registered program, you will receive a nationally recognized certificate from the Department of Labor (DOL) as proof of your qualifications.</p>
+      <p>For more information:</p>
+      <ul>
+       <li>Visit&nbsp;the DOL's website on&nbsp;<a href="http://www.doleta.gov/OA/">Registered Apprenticeships</a>.</li>
+       <li><a href="https://www.apprenticeship.gov/apprenticeship-finder">Search your state for an apprenticeship program that's right for you</a>.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213955"> 
+      <header> 
+       <h2 id="item-213955">Federal Jobs for People with Disabilities</h2> 
+      </header> 
+      <p>If you’re looking for a job and you have a disability, you might consider&nbsp;<a href="https://www.opm.gov/policy-data-oversight/disability-employment/">working for the federal government</a>.</p>
+      <h3>Advantages of Government Jobs for People with Disabilities</h3>
+      <p>The federal government:</p>
+      <ul>
+       <li><p>Has job openings nationwide in many different career fields</p></li>
+       <li><p>Uses <a href="https://www.opm.gov/policy-data-oversight/disability-employment/getting-a-job/#url=Schedule-A-Hiring-Authority">Schedule A, an optional, non-competitive hiring process</a> that is faster and easier than the competitive hiring process</p></li>
+       <li><p>Provides&nbsp;<a href="https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/">reasonable accommodations</a> to qualified employees</p></li>
+      </ul>
+      <p>You can also apply for jobs through the <a href="https://www.dol.gov/general/jobs/understanding-the-federal-hiring-process">competitive hiring process</a>. Many jobs open to people with disabilities use only that process.</p>
+      <h3>Finding and Applying for Federal Jobs</h3>
+      <p>You can&nbsp;<a href="https://www.usajobs.gov/Search?">search for most jobs on the government’s job site,</a><a href="https://www.usajobs.gov/"> USAJOBS.gov</a>.</p>
+      <p>To apply for jobs under Schedule A, you can:</p>
+      <ul>
+       <li><p>Apply online at USAJOBS or</p></li>
+       <li><p>Apply directly to the agency offering the job</p></li>
+      </ul>
+      <p>Either way, you'll need to:</p>
+      <ul>
+       <li><p>Prepare your resume and other documents listed in the job announcement</p></li>
+       <li><p>Provide proof you have an intellectual disability, severe physical disability, or psychiatric disability</p></li>
+      </ul>
+      <h4>To apply for a job online:</h4>
+      <ul>
+       <li><p>Follow the&nbsp;<a href="https://www.usajobs.gov/?c=fed-app-process">application process</a> used for all online applications</p></li>
+       <li><p>Use USAJOBS’ tips for&nbsp;<a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/individuals-with-disabilities/">individuals with disabilities</a></p></li>
+      </ul>
+      <h4>To apply for a job directly through an agency:</h4>
+      <ul>
+       <li><p>Contact the agency’s&nbsp;<a href="https://www.opm.gov/policy-data-oversight/disability-employment/selective-placement-program-coordinator/">Selective Program Placement Coordinator (SPPC)</a> using the&nbsp;<a href="https://www.opm.gov/policy-data-oversight/disability-employment/selective-placement-program-coordinator-directory/">SPPC directory</a>. The SPPC coordinator can discuss reasonable accommodations and how to apply.</p></li>
+      </ul>
+      <p>For more details on applying for jobs through Schedule A, read&nbsp;<a href="https://www.eeoc.gov/eeoc/publications/abc_applicants_with_disabilities.cfm">The ABCs of Schedule A</a>.</p>
+      <p>For an overview of how to use USAJOBS, see&nbsp;<a href="https://www.usa.gov/government-jobs#item-36242">Federal Government Employment</a>.</p>
+      <h3>Veterans with Disabilities</h3>
+      <p>If you’re a veteran with a service-connected disability, you have even more options. <a href="https://www.fedshirevets.gov/job-seekers/special-hiring-authorities/#content">Learn how special hiring authorities let agencies appoint vets to jobs non-competitively</a>. You may also be able to get a <a href="https://www.fedshirevets.gov/job-seekers/veterans-preference/#content">10 point veterans’ preference</a> to use with competitive positions.</p>
+      <h3>College Students and Recent Graduates with Disabilities</h3>
+      <p>If you’re a college student or a recent graduate, you can find summer jobs, internships, and permanent positions through the:</p>
+      <ul>
+       <li><p><a href="https://www.dol.gov/odep/wrp/">Workforce Recruitment Program</a></p></li>
+       <li><p><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/">Pathways Program</a></p></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35422"> 
+      <header> 
+       <h2 id="item-35422">Government Internships</h2> 
+      </header> 
+      <p>Government internships create opportunities to learn on the job. The federal government has internship programs for current students and recent graduates of:</p>
+      <ul>
+       <li><p>High school</p></li>
+       <li><p>Trade and technical school</p></li>
+       <li><p>Undergraduate and graduate programs</p></li>
+       <li><p>Law school</p></li>
+      </ul>
+      <h3>Pathways: Opportunities for Students and Recent Graduates</h3>
+      <p><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/">Pathways offers internships and entry-level jobs</a> to:</p>
+      <ul>
+       <li><p>Current students in high school, college, trade school, or other accredited institution</p></li>
+       <li><p>Recent graduates of college, university, trade, or technical school degree or certificate programs. Applicants must have graduated no more than two years ago, except for veterans.</p></li>
+      </ul>
+      <h3>Senate Page Program</h3>
+      <p>The&nbsp;<a href="https://www.senate.gov/reference/reference_index_subjects/Pages_vrd.htm">Senate Page program</a> is for high school juniors who are at least 16 years old and in school. They are appointed and sponsored by senators. Pages take classes at the U.S. Senate Page School in the early mornings and perform page duties afterward.</p>
+      <h3>White House Internship Program</h3>
+      <p><a href="https://www.whitehouse.gov/get-involved/internships/">White House Internship Program</a> applicants must be either:</p>
+      <ul>
+       <li><p>Current students of an undergraduate or graduate degree program</p></li>
+       <li><p>Recent graduates of an undergraduate or graduate degree program. They must apply no more than two years after completing their degree.</p></li>
+       <li><p>Veterans who did some active duty time in the two years before the internship program starts</p></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-34862"> 
+      <header> 
+       <h2 id="item-34862">Security Clearance</h2> 
+      </header> 
+      <p>Some federal positions will require a security clearance, a status granted to individuals allowing them access to certain secure information or facilities.</p>
+      <ul>
+       <li>Read an explanation of&nbsp;<a href="http://www.brac.maryland.gov/documents/security%20clearance%20101%20pp%20presentation.pdf">the clearance process and levels of clearance</a>&nbsp;from the Office of Personnel Management (OPM).&nbsp;</li>
+       <li>Find answers to <a href="https://www.opm.gov/faqs/topic/investigate/index.aspx">questions about the investigation process</a>.&nbsp;</li>
+      </ul>
+      <h3>Federal Government Positions</h3>
+      <ul>
+       <li>Not all federal positions require a security clearance, but they do require the candidate to undergo a <a href="https://www.opm.gov/investigations/suitability-executive-agent/suitability-adjudications/">suitability adjudication process</a> to determine if the individual is suitable for federal employment. &nbsp;</li>
+       <li>Background investigations are conducted to assess the loyalty, character, trustworthiness, and reliability of the person requiring the clearance.</li>
+       <li>Job candidates will use the <a href="https://www.opm.gov/investigations/e-qip-application/#url=Overview">Electronic Questionnaires for Investigations Processing (e-QIP)</a> system to electronically enter, update, and transmit their personal investigative data over a secure internet connection to a requesting agency. This <a href="https://www.opm.gov/investigations/e-qip-application/#url=Quick-Reference-Guide">reference guide</a> will assist you in the process.</li>
+       <li>Once a security clearance is granted, it allows a person filling a specific position to have access to classified information up to and including the level of clearance that they hold.</li>
+       <li>For more information about security clearances and background checks for U.S. government employment, visit the <a href="http://www.opm.gov/investigations/">Federal Investigative Services (OPM-FIS)</a>.</li>
+       <li>If you have questions about your specific security clearance, contact the security officer of the federal agency that requested your evaluation or check with OPM's&nbsp;Systems Access Support Team (SAST) at <a href="tel:17247945612">1-724-794-5612</a>, extension 4600. They can help you find the right contact within a federal agency.</li>
+      </ul>
+      <h3>Private Companies or Federal Contracting Positions</h3>
+      <ul>
+       <li>Sometimes private companies that do business with a local, state, or federal government agency are required to obtain security clearances for their employees to access facilities and information. Your employer or the agency that you work for will help you obtain clearance using that agency's security clearance granting system. If you need help, ask your company or the agency that you work for.</li>
+       <li>Most federal contracting positions will require a security clearance from each worker to gain access to secure facilities, equipment, and information. Your employer and the agency that you will be working for can help you obtain clearance. Ask your employer to help if you have questions.</li>
+       <li>Some private companies also use security clearances to protect such things as intellectual property rights and financial information. Most of these companies use a background check, which usually researches&nbsp;a candidate's work, criminal, and credit history. Your company will provide information about its security rules.&nbsp;</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35372"> 
+      <header> 
+       <h2 id="item-35372">Civil Service Exam</h2> 
+      </header> 
+      <p>There is no longer a mandatory single civil service exam to cover all federal jobs. Most jobs with the federal government do not require written tests or exams. Certain agencies may require testing for certain positions, but this is uncommon. Ask the agency that you're applying&nbsp;to for more information about testing and exams.&nbsp;</p>
+      <ul>
+       <li><p>If you are applying for a specific job, the vacancy announcement on&nbsp;<a href="https://www.usajobs.gov">USAJOBS.gov</a>&nbsp;will indicate if a specific written test is necessary and whom you may contact for more information.&nbsp;<strong>This information is always free</strong>.</p></li>
+       <li><p>Scammers will try to guarantee that a course or test that they provide will get you a federal job. There is&nbsp;no way that you can be guaranteed a federal job by completing a class, course, workshop, training, certificate, or test.&nbsp;<a href="https://www.bulkorder.ftc.gov/system/files/publications/pdf-1018-job-scams.pdf">Find out more about spotting these scams</a>. &nbsp;</p></li>
+       <li><p>There are no application or testing fees for federal jobs, nor are there "hidden" federal jobs. Learn more about&nbsp;<a href="https://www.consumer.ftc.gov/articles/0083-government-job-scams">federal job scams</a>, including bogus testing and application fee scams.&nbsp;</p></li>
+       <li><p>Postal service jobs may require an exam,&nbsp;<a href="https://postalinspectors.uspis.gov/investigations/MailFraud/fraudschemes/employmentfraud/PostalJob.aspx">but it is a scam if any company guarantees that any training or tips that they provide</a>&nbsp;including booklets, online materials, or classes will help you get a postal service job. Learn more about&nbsp;<a href="http://about.usps.com/careers/job-application/usps-assessment-examination.pdf">postal exams</a>.&nbsp;</p></li>
+       <li><p>To locate contact information for the personnel department of a federal agency, visit USA.gov's&nbsp;<a href="https://www.usa.gov/federal-agencies/a">A-Z index of U.S. government departments and agencies</a>.</p></li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/government-jobs&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Find a Federal Government Job https://www.usa.gov/government-jobs"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Find a Federal Government Job&amp;body=https://www.usa.gov/government-jobs"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: April 5, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>  
+ </body>
+</html>

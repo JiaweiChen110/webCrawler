@@ -1,0 +1,566 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "35882, 36992, 36912, 34867, 35277, 36602",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Jobs and Unemployment",
+    "TaxLevel3": "Unemployment Help",
+    "TaxLevel4": "Unemployment Help",
+    "TaxLevel5": "Unemployment Help",
+    "TaxLevel6": "Unemployment Help"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Unemployment Help  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/unemployment"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn how to apply for unemployment benefits, workers’ compensation, welfare or temporary assistance, and other programs and services that can help if you lose your job."> 
+  <meta property="og:url" content="https://www.usa.gov/unemployment"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Unemployment Help | USAGov"> 
+  <meta property="og:description" content="Learn how to apply for unemployment benefits, workers’ compensation, welfare or temporary assistance, and other programs and services that can help if you lose your job."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10773';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/desempleo" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/jobs-and-unemployment" class="url" onmousedown="_sendEvent('Outbound','/jobs-and-unemployment','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Jobs and Unemployment</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/labor-laws" class="url" onmousedown="_sendEvent('Outbound','/labor-laws','/',0);"> Labor Laws and Issues </a> </span> </li> 
+        <li> <span> <a href="/job-search" class="url" onmousedown="_sendEvent('Outbound','/job-search','/',0);"> Looking for a New Job </a> </span> </li> 
+        <li> <span> <a href="/volunteer" class="url" onmousedown="_sendEvent('Outbound','/volunteer','/',0);"> Public Service and Volunteer Opportunities </a> </span> </li> 
+        <li> <span> <a href="/jobs-careers" class="url" onmousedown="_sendEvent('Outbound','/jobs-careers','/',0);"> Research Career Fields </a> </span> </li> 
+        <li> <span> <a href="/retirement" class="url" onmousedown="_sendEvent('Outbound','/retirement','/',0);"> Retirement </a> </span> </li> 
+        <li> <span> <a href="/business" class="url" onmousedown="_sendEvent('Outbound','/business','/',0);"> Small Business </a> </span> </li> 
+        <li> <span> <a href="/federal-employees" class="url" onmousedown="_sendEvent('Outbound','/federal-employees','/',0);"> U.S. Government Employees </a> </span> </li> 
+        <li class="slctd"> <a> <span>Unemployment Help</span> </a> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Unemployment Help</h1> 
+      <p>Learn how to apply for unemployment benefits, workers’ compensation, welfare or temporary assistance, and other programs and services that can help if you lose your job.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-35882" onclick="document.getElementById('item-35882').focus();"> Apply for Unemployment Benefits </a> </li> 
+        <li> <a href="#item-36992" onclick="document.getElementById('item-36992').focus();"> Continuation of Health Coverage: COBRA </a> </li> 
+        <li> <a href="#item-36912" onclick="document.getElementById('item-36912').focus();"> Short-Term and Long-Term Disability Insurance </a> </li> 
+        <li> <a href="#item-34867" onclick="document.getElementById('item-34867').focus();"> Workers' Compensation </a> </li> 
+        <li> <a href="#item-35277" onclick="document.getElementById('item-35277').focus();"> Wrongful Discharge/Termination of Employment </a> </li> 
+        <li> <a href="#item-36602" onclick="document.getElementById('item-36602').focus();"> Welfare or Temporary Assistance for Needy Families (TANF) </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-35882"> 
+      <header> 
+       <h2 id="item-35882">Apply for Unemployment Benefits</h2> 
+      </header> 
+      <h3>What help is available?</h3>
+      <p>There are a variety of benefit and aid programs to help you if you lose your job.&nbsp;<a href="https://www.careeronestop.org/">CareerOneStop.org</a> is a good place to start. It can help with unemployment insurance benefits, job training, and finding a job.</p>
+      <h3>Unemployment Insurance</h3>
+      <h4>Am I eligible?</h4>
+      <p>Unemployment insurance programs pay you money if you lose your job through no fault of your own. You must meet your state's eligibility requirements.</p>
+      <h4>How do I apply?</h4>
+      <p>Each state runs its own program. <a href="https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/unemployment-benefits.aspx">Select your state from this map</a> to find out how to apply. You may be able to file online, by phone, or in person.&nbsp;</p>
+      <h4>Is there anything else I need to know?</h4>
+      <ul>
+       <li><p>Some states provide extended benefits when there's high unemployment. Extended unemployment insurance benefits last for 13 weeks. You can apply for extended benefits only once you've run out of regular benefits. Check with your state; not everyone qualifies.</p></li>
+       <li><p>You must <a href="https://www.irs.gov/taxtopics/tc418">report unemployment benefits as income</a> on your tax return.</p></li>
+      </ul>
+      <h3>Other Types of Benefits and Programs for the Unemployed</h3>
+      <h4>Educational Help</h4>
+      <p>Federal agencies offer many <a href="https://www.careeronestop.org/LocalHelp/EmploymentAndTraining/employment-and-training.aspx">unemployment education and training programs</a>. They are generally free or low cost to the unemployed.</p>
+      <h4>Self-Employment Help</h4>
+      <p><a href="http://workforcesecurity.doleta.gov/unemploy/self.asp">Self-employment assistance programs</a> help unemployed workers start their own small businesses. Delaware, Mississippi, New Hampshire, New York, and Oregon offer this program.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36992"> 
+      <header> 
+       <h2 id="item-36992">Continuation of Health Coverage: COBRA</h2> 
+      </header> 
+      <h3>Learn About COBRA</h3>
+      <p>The Consolidated Omnibus Budget Reconciliation Act (COBRA) gives workers and their families the right to choose to continue group health coverage provided by their group health plan for limited periods of time.</p>
+      <h3>Eligibility</h3>
+      <p>There are three basic requirements that must be met for you to be entitled to elect COBRA continuation coverage:</p>
+      <ul>
+       <li>Your group health plan must be covered by COBRA</li>
+       <li>A qualifying event must occur (for example, voluntary or involuntary job loss, reduction in the hours worked, transition between jobs, death, or divorce)</li>
+       <li>You must be a qualified beneficiary for that event</li>
+      </ul>
+      <p>If you are entitled to elect COBRA continuation coverage, you must be given an election period of at least 60 days to choose whether or not to elect continuation coverage.</p>
+      <h3>How to Get COBRA</h3>
+      <p>Under COBRA, group health plans must provide covered employees and their families with a notice explaining their COBRA rights. Plans must also have rules for how COBRA continuation coverage is offered, how qualified beneficiaries may elect continuation coverage, and when it can be terminated.</p>
+      <p>For more COBRA information, see <a href="https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra">An Employee's Guide to Health Benefits under COBRA</a>.</p>
+      <h3>Get More Information or File a Complaint</h3>
+      <p>If you have questions or complaints about your COBRA coverage, contact your plan administrator or the <a href="https://www.usa.gov/federal-agencies/employee-benefits-security-administration">Employee Benefits Security Administration (EBSA)</a>.</p>
+      <p>Note: In some cases, you can change from COBRA coverage to <a href="https://www.healthcare.gov/what-if-i-currently-have-cobra-coverage/">Marketplace health insurance coverage</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36912"> 
+      <header> 
+       <h2 id="item-36912">Short-Term and Long-Term Disability Insurance</h2> 
+      </header> 
+      <p>If you can't work because you get sick or injured, disability insurance will pay part of your income. You may be able to get insurance through your employer. You can also buy your own policy.</p>
+      <h3>Types of Disability Policies</h3>
+      <p>There are two types of disability policies.</p>
+      <ul>
+       <li><p>Short-term policies may pay for up to two years. Most last for a few months to a year.</p></li>
+       <li><p>Long-term policies may pay benefits for a few years or until the disability ends.</p></li>
+      </ul>
+      <p>Employers who offer coverage may provide short-term coverage, long-term coverage, or both.</p>
+      <p>If you plan to buy your own policy, shop around and ask:</p>
+      <ul>
+       <li><p>How is <a href="https://www.healthcare.gov/glossary/disability/">disability</a> defined?</p></li>
+      </ul>
+      <ul>
+       <li><p>When do benefits begin?</p></li>
+      </ul>
+      <ul>
+       <li><p>How long do benefits last?</p></li>
+      </ul>
+      <ul>
+       <li><p>How much money will the policy pay?</p></li>
+      </ul>
+      <h3>Federal Disability Programs</h3>
+      <p>Two Social Security Administration programs pay benefits to people with disabilities. Learn about <a href="https://www.usa.gov/disability-benefits-insurance#item-214012">Social Security Disability Insurance (SSDI) and Supplemental Security Insurance (SSI)</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-34867"> 
+      <header> 
+       <h2 id="item-34867">Workers' Compensation</h2> 
+      </header> 
+      <p>Workers' compensation laws protect employees who get hurt on the job or sick from it. The laws establish workers’ comp, a form of insurance that employers pay for. These laws vary from state to state and for federal employees. In general, workers’ comp provides:</p>
+      <ul>
+       <li><p>Coverage for workers’ medical expenses</p></li>
+       <li><p>Compensation for lost wages while a worker is out recovering &nbsp;</p></li>
+       <li><p>Benefits for dependents of workers who died from job-related hazards</p></li>
+      </ul>
+      <h3>Private Sector and State or Local Government Employees</h3>
+      <p>If you get hurt working for a private company or state or local government, seek help through your state. Your<a href="http://www.dol.gov/owcp/dfec/regs/compliance/wc.htm"> state workers' compensation program</a> can help you file a claim. If your claim is denied, you can appeal.</p>
+      <h3>Longshoremen, Harbor Workers, Coal Miners, and Federal Employees</h3>
+      <p>Federal laws protect longshoremen, harbor workers, &nbsp;coal miners, and federal employees. Contact the <a href="http://www.dol.gov/owcp/owcpkeyp.htm">workers' compensation program</a> that applies to you for help filing a claim.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35277"> 
+      <header> 
+       <h2 id="item-35277">Wrongful Discharge/Termination of Employment</h2> 
+      </header> 
+      <p>If you feel that you have been wrongfully fired from a job or let go from an employment situation, you may wish to&nbsp;learn more about your state's wrongful discharge&nbsp;laws.</p>
+      <ul>
+       <li>Wrongful termination or wrongful discharge laws vary from state to state.</li>
+       <li>Some states are "employment-at-will" states, which means that if there is no employment contract (or collective bargaining agreement), an employer can let an employee go for any reason, or no reason, with or without notice, as long as the discharge does not violate a law.</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>If you feel you have been wrongfully discharged or terminated from employment, you may:&nbsp;</p>
+      <ul>
+       <li>Contact your&nbsp;<a href="http://www.dol.gov/whd/contacts/state_of.htm">State Labor Office</a>&nbsp;for more information on wrongful termination laws in your state.</li>
+       <li>Seek&nbsp;legal counsel&nbsp;if your employer terminated you for any reason not covered under state or federal law.</li>
+       <li>You may also be eligible for&nbsp;<a href="https://www.dol.gov/general/topic/termination">unemployment compensation and extension of your health care benefits</a>.</li>
+      </ul>
+      <h3>Employers</h3>
+      <p>If you are an employer seeking information about legal termination of employees, you may wish to contact both the&nbsp;<a href="https://www.eeoc.gov/">Equal Employment Opportunity Commission (EEOC)</a>&nbsp;and your&nbsp;<a href="http://www.dol.gov/whd/contacts/state_of.htm">State Labor Office</a>&nbsp;to ensure you do not violate any federal or state labor laws. You may wish to consult with a&nbsp;licensed attorney.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36602"> 
+      <header> 
+       <h2 id="item-36602">Welfare or Temporary Assistance for Needy Families (TANF)</h2> 
+      </header> 
+      <p><a href="https://www.acf.hhs.gov/ofa/programs/tanf/about">Temporary Assistance for Needy Families (TANF)</a>, also known as welfare, is designed to help families recover from temporary difficulties and move forward.</p>
+      <h3>What help is available?</h3>
+      <p>Recipients may qualify for help with food, housing, home energy, child care, job training, and more.</p>
+      <p>Each state TANF program is operated differently and <a href="https://aspe.hhs.gov/dataset/tanf-program-names">has a different name</a>.</p>
+      <p>Some <a href="https://www.acf.hhs.gov/ofa/programs/tribal/tribal-tanf">tribal groups</a> operate their own TANF programs.</p>
+      <h3>Am I eligible? &nbsp;</h3>
+      <ul>
+       <li>Each state or tribal territory decides the specific eligibility criteria for financial assistance or other benefits and services.</li>
+       <li>You must be a resident of the state where you are applying.</li>
+      </ul>
+      <h3>How do I apply?</h3>
+      <ul>
+       <li>To sign-up for temporary benefits, you can apply at your local or county social services agency. <a href="https://www.acf.hhs.gov/ofa/help">Call your state TANF office</a> for your local contact information.</li>
+      </ul>
+      <h3>How do I report TANF benefit fraud?</h3>
+      <p>If you suspect possible welfare fraud, contact your local TANF office or contact the Department of Health and Human Services (HHS) <a href="https://www.usa.gov/federal-agencies/hhs-tips-fraud-hotline">Inspector General’s Fraud Hotline</a>.</p>
+      <h3>What else do I need to know?</h3>
+      <p>If you receive TANF, you may be eligible to receive <a href="https://www.usa.gov/benefits#item-211654">other government benefits</a>.</p> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/unemployment&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Unemployment Help https://www.usa.gov/unemployment"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Unemployment Help&amp;body=https://www.usa.gov/unemployment"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: March 29, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://gobierno.usa.gov/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

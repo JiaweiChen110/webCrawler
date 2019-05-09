@@ -20,49 +20,34 @@ public class MultiThreadsDlFile implements Runnable{
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
-		System.out.println(link);
-		System.out.println(file);
-//		FileWriter w = null;
-////		FileReader r = null;
-//		try {
-//			w = new FileWriter(file);
-////			r = new FileReader(link);
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//		BufferedReader reader = new BufferedReader(r);
 		org.jsoup.nodes.Document doc = null;
-		
 		try {
 			doc = Jsoup.connect(link).get();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-//			e.printStackTrace();
+			e.printStackTrace();
 			doc = null;
 		}
 		if(doc!=null) {
-//			System.out.println("In");
 			FileWriter w = null;
 			try {
 				w = new FileWriter(file);
-//				System.out.println("RUN");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
-//				e.printStackTrace();
-				w = null;
+				e.printStackTrace();
 			}
-			if(w!=null) {
-				BufferedWriter writer = new BufferedWriter(w);
-	//			System.out.println(doc.html());
-				try {
-					writer.write(doc.toString());
-					writer.close();
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-				
+			BufferedWriter writer = new BufferedWriter(w);
+			try {
+				writer.write(doc.toString());
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			try {
+				writer.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
 		}
 //		try {

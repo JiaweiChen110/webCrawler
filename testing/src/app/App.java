@@ -37,8 +37,8 @@ public class App {
 //        w.close();
 //    	HashSet<String> temp = new HashSet<String>();
 //    	HashSet<String> t = parseWeb("https://www.usa.gov");
-    	FileWriter w = new FileWriter("writeTest.txt",true);
-    	BufferedWriter writer = new BufferedWriter(w);
+//    	FileWriter w = new FileWriter("writeTest.txt",true);
+//    	BufferedWriter writer = new BufferedWriter(w);
 //    	writer.write(Jsoup.connect("https://www.usa.gov").get().toString());
 //    	writer.close();
     	
@@ -57,10 +57,26 @@ public class App {
     	//reader.readLine()
     	int count = 0;
     	while(reader.ready()) {
-    		downloadHTML(reader.readLine(),Integer.toString(count));
+    		String next_line = reader.readLine();
+    		org.jsoup.nodes.Document doc = null;
+    				
+    		try{
+    			doc = Jsoup.connect(next_line).get();
+    		} catch (IOException e) {
+    			// TODO Auto-generated catch block
+//    			e.printStackTrace();
+    			doc = null;
+    		}
+//    		downloadHTML(reader.readLine(),Integer.toString(count));
 //    		System.out.println(reader.ready());
 //    		System.out.println(reader.readLine());
-    		count++;
+    		
+    		if(doc!=null){
+    			downloadHTML(next_line,Integer.toString(count));
+    			count++;
+    		}
+//    		System.out.println(count);
+//    		count++;
     	}
     	reader.close();
     	

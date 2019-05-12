@@ -35,23 +35,26 @@ public class App {
 //        IndexWriter w = new IndexWriter(index, config);
 
 //        w.close();
-//    	HashSet<String> temp = new HashSet<String>();
-//    	HashSet<String> t = parseWeb("https://www.usa.gov");
-//    	FileWriter w = new FileWriter("writeTest.txt",true);
-//    	BufferedWriter writer = new BufferedWriter(w);
-//    	writer.write(Jsoup.connect("https://www.usa.gov").get().toString());
-//    	writer.close();
+
     	
-//    	Thread testing2 = new Thread(new MultiThreads());
+    	/*########## Crawling HTML to testing.file
+    	 * 
+    	FileWriter w = new FileWriter("writeTest.txt",true);
+    	BufferedWriter writer = new BufferedWriter(w);
+    	HashSet<String> tSet = new HashSet<String>();
+    	tSet.add("https://www.usa.gov");
+    	tSet.add("https://www.state.gov");
+    	HashSet<String> fSet = crawlWeb(tSet,0);
+    	for(String i:fSet) {
+//    		System.out.println(i);
+    		writer.write(i);
+    		writer.newLine();
+    	}
+    	writer.close();
+    	*/
     	
-//    	HashSet<String> tSet = new HashSet<String>();
-//    	tSet.add("https://www.usa.gov");
-//    	tSet.add("https://www.state.gov");
-//    	for(String i:tSet) {
-//    		Thread testing2 = new Thread(new MultiThreads(i));
-//    		testing2.start();
-//    	}
-    	
+    	/*########## Download the html to downloadFile
+    	 * 
     	FileReader r = new FileReader("writeTest.txt");
     	BufferedReader reader = new BufferedReader(r);
     	//reader.readLine()
@@ -67,36 +70,16 @@ public class App {
 //    			e.printStackTrace();
     			doc = null;
     		}
-//    		downloadHTML(reader.readLine(),Integer.toString(count));
-//    		System.out.println(reader.ready());
-//    		System.out.println(reader.readLine());
     		
     		if(doc!=null){
     			downloadHTML(next_line,Integer.toString(count));
     			count++;
     		}
-//    		System.out.println(count);
-//    		count++;
     	}
     	reader.close();
-    	
-//    	Thread testing3 = new Thread(new MultiThreadsDlFile("https://www.u","downloadFiles/testing3.txt"));
-//    	testing3.start();
-    	
-//    	Thread testing2 = new Thread(new MultiThreads("https://www.usa.gov"));
-//		testing2.start();
-    	/*
-    	HashSet<String> tSet = new HashSet<String>();
-    	tSet.add("https://www.usa.gov");
-    	tSet.add("https://www.state.gov");
-    	HashSet<String> fSet = crawlWeb(tSet,0);
-    	for(String i:fSet) {
-//    		System.out.println(i);
-    		writer.write(i);
-    		writer.newLine();
-    	}
-    	writer.close();
     	*/
+    	
+    	System.out.println("run");
     }
     
     public static void downloadHTML(String s, String i) {

@@ -3,12 +3,21 @@ package app;
 import java.awt.TextField;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.sql.Struct;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Hashtable;
+import java.util.List;
+import java.util.Map;
 import java.util.Vector;
 
 import javax.lang.model.element.Element;
@@ -17,26 +26,96 @@ import org.apache.lucene.demo.*;
 import org.apache.lucene.*;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.IndexableField;
+import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.index.DirectoryReader;
 //import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
+
 import org.jsoup.Jsoup;
+import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 //import org.jsoup.nodes.Document;
 
 public class App {
+	
     public static void main(String[] args) throws Exception {
-    	//StandardAnalyzer analyzer = new StandardAnalyzer();
-//        Directory index = new Directory();
-
-        //IndexWriterConfig config = new IndexWriterConfig(analyzer);
-//        IndexWriter w = new IndexWriter(index, config);
-
-//        w.close();
-
+    	class Page{
+    		String title;
+    		String content;
+    		
+    		Page(String t, String c){
+    			title = t;
+    			content = c;
+    		}
+    	}
     	
+    	Path f = Paths.get("C:\\Users\\alph_\\OneDrive\\Desktop\\Java\\testing\\indexFolder");
+    	StandardAnalyzer analyzer = new StandardAnalyzer();
+    	IndexWriterConfig config = new IndexWriterConfig(analyzer);
+    	Directory directory = FSDirectory.open(f);
+    	
+    	
+    	/*
+        //````````````````INDEX
+    	IndexWriter indexWriter = new IndexWriter(directory, config);
+//        List<Page> pages = Arrays.asList(
+//                new Page("UCR article", "Search engine is considered the most successful application of IR."),
+//                new Page("IR class", "UCR, just the second IR discussion, eight more discussions to come!")
+//        );
+        String data = new String(Files.readAllBytes(Paths.get("downloadFiles/File0.txt")));
+    	org.jsoup.nodes.Document d = Jsoup.parse(data);
+    	Page test = new Page(d.title(),d.body().text());
+//    	System.out.println(test.title);
+//    	System.out.println(test.content);
+    	List<Page> pages = new ArrayList<Page>();
+    	pages.add(test);
+    	
+        for (Page page: pages) {
+            Document doc = new Document();
+            doc.add(new org.apache.lucene.document.TextField("title", page.title, Field.Store.YES));
+            doc.add(new org.apache.lucene.document.TextField("content", page.content, Field.Store.YES));
+            indexWriter.addDocument(doc);
+        }
+        indexWriter.close();
+ 		*/
+    	
+    	/*
+    	//```````````````IndexSearch
+        DirectoryReader indexReader = DirectoryReader.open(directory);
+        IndexSearcher indexSearcher = new IndexSearcher(indexReader);
+
+        String[] fields = {"title", "content"};
+        Map<String, Float> boosts = new HashMap<>();
+        boosts.put(fields[0], 1.0f);
+        boosts.put(fields[1], 0.5f);
+        MultiFieldQueryParser parser = new MultiFieldQueryParser(fields, analyzer, boosts);
+        Query query = parser.parse("parsing field");
+        
+        System.out.println(query.toString());
+        int topHitCount = 100;
+        ScoreDoc[] hits = indexSearcher.search(query, topHitCount).scoreDocs;
+
+        // Iterate through the results:
+        for (int rank = 0; rank < hits.length; ++rank) {
+            Document hitDoc = indexSearcher.doc(hits[rank].doc);
+            System.out.println((rank + 1) + " (score:" + hits[rank].score + ") --> " +
+                               hitDoc.get("title") + " - " + hitDoc.get("content"));
+            // System.out.println(indexSearcher.explain(query, hits[rank].doc));
+        }
+        indexReader.close();
+        */
+        directory.close();
+
     	/*########## Crawling HTML to testing.file
     	 * 
     	FileWriter w = new FileWriter("writeTest.txt",true);
@@ -82,7 +161,7 @@ public class App {
     	System.out.println("run");
     }
     
-    public static void downloadHTML(String s, String i) {
+	public static void downloadHTML(String s, String i) {
 //    	for(String i:s) {
     	Thread t = new Thread(new MultiThreadsDlFile(s,"downloadFiles/"+"File"+i+".txt"));
     	t.start();

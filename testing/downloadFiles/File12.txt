@@ -1,0 +1,13 @@
+<html>
+ <head></head>
+ <body>
+  <doctype html>   
+   <meta http-equiv="refresh" content="2;url='/forms/a'"> 
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+   <script>
+                        window.location.replace("/forms/a");
+                    </script>   
+   <p>This page has moved. Click <a href="/forms/a">/forms/a</a> to go to the new page.</p>  
+  </doctype>
+ </body>
+</html>

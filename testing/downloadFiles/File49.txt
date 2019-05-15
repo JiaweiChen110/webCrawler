@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "211312, 211314, 211316, 211317, 211319, 211320, 211321, 211322, 211325, 211326",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Government Agencies and Elected Officials",
+    "TaxLevel3": "Contact Government by Topic",
+    "TaxLevel4": "Contact Government by Topic",
+    "TaxLevel5": "Contact Government by Topic",
+    "TaxLevel6": "Contact Government by Topic"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Contact Government by Topic  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/contact-by-topic"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Find contact information for government programs, listed by topic."> 
+  <meta property="og:url" content="https://www.usa.gov/contact-by-topic"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Contact Government by Topic | USAGov"> 
+  <meta property="og:description" content="Find contact information for government programs, listed by topic."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '11025';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Government Agencies and Elected Officials</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/federal-agencies" class="url" onmousedown="_sendEvent('Outbound','/federal-agencies','/',0);"> A-Z Index of U.S. Government Agencies </a> </span> </li> 
+        <li> <span> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);"> About the U.S. </a> </span> </li> 
+        <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/buy-from-government" class="url" onmousedown="_sendEvent('Outbound','/buy-from-government','/',0);"> Buying from the U.S. Government </a> </span> </li> 
+        <li> <span> <a href="/elected-officials" class="url" onmousedown="_sendEvent('Outbound','/elected-officials','/',0);"> Contact Elected Officials </a> </span> </li> 
+        <li class="slctd"> <a> <span>Contact Government by Topic</span> </a> </li> 
+        <li> <span> <a href="/forms" class="url" onmousedown="_sendEvent('Outbound','/forms','/',0);"> Forms, by Agency </a> </span> </li> 
+        <li> <span> <a href="/state-tribal-governments" class="url" onmousedown="_sendEvent('Outbound','/state-tribal-governments','/',0);"> State, Local, and Tribal Governments </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Contact Government by Topic</h1> 
+      <p>Find contact information for government programs, listed by topic.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-211312" onclick="document.getElementById('item-211312').focus();"> Benefits </a> </li> 
+        <li> <a href="#item-211314" onclick="document.getElementById('item-211314').focus();"> Children and Education </a> </li> 
+        <li> <a href="#item-211316" onclick="document.getElementById('item-211316').focus();"> Consumer Products and Safety </a> </li> 
+        <li> <a href="#item-211317" onclick="document.getElementById('item-211317').focus();"> Fraud, Law Enforcement, and Crime </a> </li> 
+        <li> <a href="#item-211319" onclick="document.getElementById('item-211319').focus();"> Government Officials </a> </li> 
+        <li> <a href="#item-211320" onclick="document.getElementById('item-211320').focus();"> Health </a> </li> 
+        <li> <a href="#item-211321" onclick="document.getElementById('item-211321').focus();"> Home, Community, and Work </a> </li> 
+        <li> <a href="#item-211322" onclick="document.getElementById('item-211322').focus();"> Military and Veterans </a> </li> 
+        <li> <a href="#item-211325" onclick="document.getElementById('item-211325').focus();"> Money and Business </a> </li> 
+        <li> <a href="#item-211326" onclick="document.getElementById('item-211326').focus();"> Travel and Transportation </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-211312"> 
+      <header> 
+       <h2 id="item-211312">Benefits</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.opm.gov/retirement-services/contact-retirement/">Federal Employee Retirement Benefits</a>&nbsp;- Find contact information for the Retirement Services office at the Office of Personnel Management (OPM).&nbsp;</li>
+       <li><a href="https://fnsd8.forumone.162.79.27.219.xip.io/snap/state-directory">Food Stamps</a> (Supplemental Nutrition Assistance Program or SNAP)&nbsp;&nbsp;–&nbsp;Call to learn about eligibility requirements and the nutritional benefits of the program.</li>
+       <li><a href="http://eclkc.ohs.acf.hhs.gov/hslc/HeadStartOffices">Head Start Program Locator</a>&nbsp;&nbsp;–&nbsp;Find information to enroll your child in a Head Start pre-school in your area.</li>
+       <li><a href="https://www.insurekidsnow.gov/coverage/index.html">Health Insurance for Children</a>&nbsp;&nbsp;–&nbsp;Call the program office in your state to see if your child is eligible for free or low-cost health insurance.</li>
+       <li><a href="http://www.acf.hhs.gov/programs/ocs/resource/division-of-energy-assistance-federal-staff">Heating and Cooling Assistance for Your Home</a>&nbsp;&nbsp;–&nbsp;Call the Low Income Home Energy Assistance Program Office (LIHEAP) that serves your state or tribe.</li>
+       <li><a href="http://www.lsc.gov/">Legal Assistance</a>&nbsp;&nbsp;–&nbsp;Find legal assistance in your area.</li>
+       <li><a href="http://www.medicare.gov/forms-help-and-resources/contact/contact-medicare.html">Medicare</a>&nbsp;&nbsp;–&nbsp;Sign up or change your Medicare plan or learn more about Medicare.</li>
+       <li><a href="http://www.cms.gov/apps/contacts/">Medicare and Medicaid</a>&nbsp;&nbsp;–&nbsp;Search the database for Medicare and Medicaid contacts.</li>
+       <li><a href="https://www.medicare.gov/forms-help-resources/help-fight-medicare-fraud">Medicare Fraud</a>&nbsp;&nbsp;–&nbsp;Report Medicare fraud and abuse.</li>
+       <li><a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">Renter's Assistance</a>&nbsp;&nbsp;–&nbsp;Contact your local housing authority to see if you qualify.</li>
+       <li><a href="https://www.fns.usda.gov/contacts?f%5B0%5D=program%3A39">School Lunch and Breakfast</a>&nbsp;&nbsp;–&nbsp;Contact your state agency to participate in school nutrition programs.</li>
+       <li><a href="https://faq.ssa.gov/ics/support/ticketnewwizard.asp?style=classic">Social Security</a>&nbsp;&nbsp;–&nbsp;Email questions using an online form.</li>
+       <li><a href="https://studentaid.ed.gov/contact">Student Loans</a>&nbsp;&nbsp;–&nbsp;Call for help with student loans.</li>
+       <li><a href="http://www.acf.hhs.gov/programs/ofa/help">Temporary Assistance for Needy Families </a>(TANF or Welfare)&nbsp;&nbsp;–&nbsp;Call your state's administrator for program information.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211314"> 
+      <header> 
+       <h2 id="item-211314">Children and Education</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.childwelfare.gov/topics/can/">Child Abuse and Neglect</a>&nbsp;&nbsp;–&nbsp;Call state officials to report abuse or neglect.</li>
+       <li><a href="http://www.acf.hhs.gov/programs/css/resource/state-and-tribal-child-support-agency-contacts">Child Support</a>&nbsp;&nbsp;–&nbsp;State and Tribal child support agency contacts</li>
+       <li><a href="http://www2.ed.gov/about/contacts/gen/index.html">Education and Children</a>&nbsp;&nbsp;–&nbsp;Email your question to the Department of Education.</li>
+       <li><a href="http://eclkc.ohs.acf.hhs.gov/hslc/HeadStartOffices">Head Start Program Locator</a>&nbsp;&nbsp;–&nbsp;Find information to enroll your child in a Head Start pre-school in your area.</li>
+       <li><a href="https://www.insurekidsnow.gov/coverage/index.html">Health Insurance for Children</a>&nbsp;&nbsp;–&nbsp;Call the program office in your state to see if your children are eligible for free or low-cost health insurance.</li>
+       <li><a href="http://www.1800runaway.org/">National Runaway Safeline to Call for Help</a>&nbsp;&nbsp;–&nbsp;Call 1-800-RUNAWAY if you are a teenager thinking of running from home, if you have a friend who has run and is looking for help, or if you are a runaway ready to go home.</li>
+       <li><a href="https://www.fns.usda.gov/program/assistance-children-kindergarten-12th-grade">School Lunch and Breakfast</a>&nbsp;&nbsp;–&nbsp;Contact your state agency to participate in school nutrition programs.</li>
+       <li><a href="https://studentaid.ed.gov/sa/repay-loans/disputes/prepare">Student Loans</a>&nbsp; –&nbsp;Call or email for help resolving federal student loans.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211316"> 
+      <header> 
+       <h2 id="item-211316">Consumer Products and Safety</h2> 
+      </header> 
+      <ul>
+       <li><a href="http://www.fcc.gov/encyclopedia/faqs-television-and-cable">Cable TV Complaints</a>&nbsp;&nbsp;–&nbsp;Learn how to file a complaint with&nbsp;the Federal Communications Commission (FCC).</li>
+       <li><a href="/consumer-complaints">Consumer Complaints</a>&nbsp;&nbsp;–&nbsp;Learn where to report your consumer complaint and find contact information to file.</li>
+       <li><a href="https://www.econsumer.gov/#crnt">Consumer Complaints – File International Complaints</a>&nbsp;&nbsp;–&nbsp;File an official report online to complain about an international e-commerce transaction.</li>
+       <li><a href="http://www.fda.gov/Cosmetics/default.htm">Cosmetics</a>&nbsp;&nbsp;–&nbsp;Call or write to the Food and Drug Administration (FDA) to report adverse reactions to cosmetics.</li>
+       <li><a href="http://www.foodsafety.gov/report/problem/index.html">Foodborne Illness and Food Product Complaints&nbsp;</a>&nbsp;–&nbsp;Call to file a complaint.</li>
+       <li><a href="https://www.usps.com/help/contact-us.htm">Mail</a>&nbsp;&nbsp;–&nbsp;Email your questions about the U.S. mail or other postal services to the U.S. Postal Service.</li>
+       <li><a href="http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers">Meat and Poultry Hotline</a>&nbsp;&nbsp;–&nbsp;Call to talk to the food safety education staff (available in English and Spanish).</li>
+       <li><a href="http://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm">Report Animal Drug Reactions or Animal Feed/Pet Food Complaints</a>&nbsp;&nbsp;–&nbsp;FDA encourages veterinarians and animal owners to report adverse drug reactions and medical product failures.</li>
+       <li><a href="http://www.fcc.gov/encyclopedia/faqs-telephone">Telephone Service Complaints</a>&nbsp;&nbsp;–&nbsp;File a complaint with the FCC about your telephone service if you have concerns about inaccurate billing, false advertising, scams, or other issues.</li>
+       <li><a href="https://www.saferproducts.gov/CPSRMSPublic/Incidents/ReportIncident.aspx">Unsafe Products</a>&nbsp;&nbsp;–&nbsp;Email a report of an injury, or file a complaint about a product to the Consumer Product Safety Commission.</li>
+       <li><a href="https://www-odi.nhtsa.dot.gov/ivoq/">Unsafe Vehicles</a>&nbsp; –&nbsp;Email or call to report an unsafe vehicle.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211317"> 
+      <header> 
+       <h2 id="item-211317">Fraud, Law Enforcement, and Crime</h2> 
+      </header> 
+      <ul>
+       <li><p><a href="https://www.justice.gov/atr/report-violations">Antitrust Violations</a> &nbsp;– Email, call, or mail a report of a possible antitrust violation or potential anti-competitive activity to the Department of Justice.</p></li>
+       <li><p><a href="https://www.atf.gov/contact">Arson, Bombs, or Firearms</a>&nbsp; – Call or email to report arson-, bomb-, or firearm-related criminal activity.</p></li>
+       <li><p><a href="https://home.treasury.gov/policy-issues/terrorism-and-illicit-finance/treasury-executive-office-of-asset-forfeiture-teoaf">Asset Forfeiture</a> &nbsp;– Find forms, contacts, and information about asset forfeiture and auctions.</p></li>
+       <li><p><a href="https://cops.usdoj.gov/grants">Community Oriented Policing</a> &nbsp;– Email or call for information on grants and training programs.</p></li>
+       <li><p><a href="https://www.ftccomplaintassistant.gov/#crnt&amp;panel1-1">Consumer Fraud</a> &nbsp;– Complete an online Federal Trade Commission form with your complaints.</p></li>
+       <li><p><a href="https://www.ovc.gov/help/tollfree.html">Crime Victims</a> &nbsp;– Contact a helpline or find a local program online to get support and assistance&nbsp;for crime victims.</p></li>
+       <li><p><a href="https://www.thehotline.org/">Domestic Violence Hotline</a> &nbsp;– Email or call for crisis intervention, information about domestic violence and referrals to local service providers to victims of domestic violence and those calling on their behalf. Services are available in English and Spanish.</p></li>
+       <li><p><a href="https://www.ignet.gov/node/207">Fraud and Waste in Government</a> &nbsp;– Email or call&nbsp;the Federal Inspectors General to&nbsp;report government fraud and waste.&nbsp;</p></li>
+       <li><p><a href="https://www.dhs.gov/contact-us">Homeland Security Department</a> &nbsp;– Look-up emails and telephone numbers, mailing addresses, help desk support for web applications, instructions on how to report incidents and more.</p></li>
+       <li><p><a href="https://identitytheft.gov/">Identity Theft</a> &nbsp;– Learn more about your resources and email your complaint. English and Spanish help is available.</p></li>
+       <li><p><a href="https://www.uscis.gov/contactcenter">Immigration and Naturalization</a> &nbsp;– Call for information about immigration and naturalization assistance (provided in English and Spanish).</p></li>
+       <li><p><a href="https://egov.uscis.gov/crisgwi/go?action=offices">Immigration and Naturalization Local Offices</a> &nbsp;– Call, write, or visit a local office to find the status of your case.</p></li>
+       <li><p><a href="https://www.ic3.gov/default.aspx">Internet Fraud (Civil or Criminal)</a> &nbsp;– Email reports of suspected fraud to the FBI's Internet Fraud Complaint Center.</p></li>
+       <li><p><a href="https://www.medicare.gov/forms-help-resources/help-fight-medicare-fraud/how-report-medicare-fraud">Medicare Fraud </a>&nbsp;– Report Medicare fraud and abuse.</p></li>
+       <li><p><a href="https://www.nrc.gov/about-nrc/regulatory/allegations/safety-concern.html">Nuclear Facilities</a> &nbsp;– &nbsp;Email or call to report any safety or security concern involving a nuclear reactor, nuclear fuel facility or radioactive materials.</p></li>
+       <li><p><a href="https://www.justice.gov/crt/combating-religious-discrimination-and-protecting-religious-freedom-12">Religious Discrimination</a> &nbsp;– File a complaint if you've experienced religious discrimination or violation of religious liberty rights.</p></li>
+       <li><p><a href="https://www.fbi.gov/tips">Terrorist Activity</a> &nbsp;– Email leads to the FBI online, or call <a href="https://www.fbi.gov/contact-us/field-offices">your local FBI Field Office</a>.</p></li>
+       <li><p><a href="https://www.justice.gov/ovw/local-resources">Violence Against Women</a>&nbsp; –&nbsp; Call a hotline or contact a local office to get help and support.</p></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211319"> 
+      <header> 
+       <h2 id="item-211319">Government Officials</h2> 
+      </header> 
+      <p>Congressional contacts:</p>
+      <ul>
+       <li><a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">Contact Your U.S. Senator</a>—Find your senator's contact and biographical information, and view a Senate organizational chart.</li>
+       <li><a href="https://www.senate.gov/pagelayout/committees/d_three_sections_with_teasers/committees_home.htm">Senate Committee Offices</a>—Contact one of the&nbsp;20 committees, 68 subcommittees, and four joint committees.</li>
+       <li><a href="https://www.house.gov/representatives">Contact Your U.S. Representative</a>—Use this directory to find your representative's contact information and House committee assignments.</li>
+       <li><a href="https://www.house.gov/committees">House Committee Offices</a>—Learn about the bills, agencies, programs, and issues that House committees are reviewing.</li>
+      </ul>
+      <p>Federal contacts:</p>
+      <ul>
+       <li><a href="https://www.usa.gov/federal-agencies/a">Federal Government</a>—Browse phone and email directories for federal agencies and officials.</li>
+       <li><a href="https://www.whitehouse.gov/get-involved/write-or-call/">President Donald Trump</a> and <a href="https://www.whitehouse.gov/get-involved/write-or-call/">Vice President Mike Pence</a>—Send questions, comments, concerns, or well-wishes to the president or his staff.</li>
+       <li><a href="https://register.state.gov/contactus/">Secretary of State and U.S. Department of State</a>—Email, write, or call with your question for the Department of State or comment on U.S. foreign policy.</li>
+       <li><a href="https://www.usa.gov/federal-agencies/council-of-the-inspectors-general-on-integrity-and-efficiency">Inspector General</a>—Each federal agency has an inspector general. Get in touch to report federal government waste and fraud.</li>
+       <li><a href="https://www.facadatabase.gov/">Federal Advisory Committees</a>—Access the database that federal agencies use to manage an average of 1,000 government-wide advisory committees.</li>
+       <li><a href="https://www.regulations.gov/">Rulemaking</a>—Participate in the federal rulemaking process by commenting on proposed rules.</li>
+      </ul>
+      <p>State and local contacts:</p>
+      <ul>
+       <li><a href="https://www.usa.gov/state-governor">Governors</a>—Find email, telephone, and postal contact information by clicking on your state governor's website.</li>
+       <li><a href="https://www.usa.gov/local-governments">Local Governments</a>—Locate websites for the cities, counties, towns, and local communities in your state.</li>
+      </ul>
+      <p>Judicial contacts:</p>
+      <ul>
+       <li><a href="http://www.uscourts.gov/about-federal-courts/federal-courts-public">Federal Courts</a>—Learn about the work of the federal courts in assigning jury duty, ruling on important cases, and overseeing naturalization ceremonies.</li>
+       <li><a href="https://www.supremecourt.gov/contact/contactus.aspx">Supreme Court</a>—Call or write the Supreme Court, and call for visitor information.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211320"> 
+      <header> 
+       <h2 id="item-211320">Health</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.fda.gov/vaccines-blood-biologics/report-problem-center-biologics-evaluation-research/transfusiondonation-fatalities">Blood Transfusion/Donation Fatalities</a>&nbsp;–&nbsp;Email, call, fax or mail notification of blood transfusion-related or blood donation death.</li>
+       <li><a href="http://insurekidsnow.gov/state/index.html">Children's Health Insurance</a>&nbsp;&nbsp;–&nbsp;Find state email, phone, and mail contacts to receive information on health programs in your state.</li>
+       <li><a href="http://www.cdc.gov/genomics/about/contact.htm">Genomics</a>&nbsp;&nbsp;–&nbsp;Email your comments and questions to the Office of Public Health Genomics.</li>
+       <li><a href="http://www.cdc.gov/cdc-info/">Health Information</a>&nbsp;&nbsp;–&nbsp;The Centers for Disease Control and Prevention (CDC) offers a wide variety of disease prevention and health promotion telephone hotlines and publications in English and in Spanish.</li>
+       <li><a href="http://www.nih.gov/health/infoline.htm">Health Information Toll-Free Hotlines</a>&nbsp;&nbsp;–&nbsp;Call for information about health topics, from asthma to weight control.</li>
+       <li><a href="https://www.cdc.gov/ncezid/who-we-are/social-media.html">Infectious Diseases</a>&nbsp;&nbsp;–&nbsp;Email comments and questions to the National Center for Emerging and Zoonotic Infectious Diseases (NCEZID).</li>
+       <li><a href="http://www.cms.hhs.gov/apps/contacts/">Medicare and Medicaid</a>&nbsp;&nbsp;–&nbsp;Search the database for Medicare and Medicaid contacts.</li>
+       <li><a href="http://www.fda.gov/AnimalVeterinary/SafetyHealth/ReportaProblem/ucm055305.htm">Report Animal Drug Reactions or Animal Feed/Pet Food Complaints</a>&nbsp;&nbsp;– The Food and Drug Administration (FDA) encourages veterinarians and animal owners to report adverse drug reactions and medical product failures.</li>
+       <li><a href="http://www.cdc.gov/contact/">Report a Public Health Emergency</a>&nbsp;&nbsp;–&nbsp;Contact the CDC about a public health emergency, and find answers to common questions.</li>
+       <li><a href="http://www.cdc.gov/TB/">Tuberculosis</a>&nbsp;&nbsp;– Get information and answers from the CDC about tuberculosis.&nbsp;</li>
+       <li><a href="http://www.fda.gov/Safety/ReportaProblem/ucm059315.htm">Unlawful Sales of Medical Products on the Internet&nbsp;</a>&nbsp;–&nbsp;Call or email the FDA about illegal sales of animal or human medications, medical devices, and more.</li>
+       <li><a href="http://www.fda.gov/BiologicsBloodVaccines/SafetyAvailability/ReportaProblem/VaccineAdverseEvents/default.htm">Vaccine Reactions</a>&nbsp;&nbsp;– Get in touch with the FDA about adverse reactions to vaccines.</li>
+       <li><a href="http://www.cdc.gov/hepatitis/index.htm">Viral Hepatitis</a>&nbsp;&nbsp;–&nbsp;Contact the CDC to get information about viral hepatitis.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211321"> 
+      <header> 
+       <h2 id="item-211321">Home, Community, and Work</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.access-board.gov/aba-enforcement/file-a-complaint">Accessibility</a>&nbsp;&nbsp;–&nbsp;File a complaint about accessibility barriers at a building or facility.</li>
+       <li><a href="http://www.ginniemae.gov/pages/contact_information.aspx">Affordable Housing</a>&nbsp;&nbsp;–&nbsp;Contact Ginnie Mae about affordable housing.</li>
+       <li><a href="http://www.census.gov/about/contact-us.html">Census</a>&nbsp;&nbsp;–&nbsp;Email the Census Bureau questions and comments about the Census.</li>
+       <li><a href="https://www.hud.gov/topics/fair_lending">Discriminatory Mortgage Lending</a>&nbsp;&nbsp;–&nbsp;File an official complaint, if you feel that you have been discriminated against based on your race, color, national origin, religion, sex, family status, or disability.</li>
+       <li><a href="http://www.doleta.gov/contact.cfm">Employment and Training</a>&nbsp;&nbsp;–&nbsp;Find state contacts for unemployment, welfare-to-work, adult and Native American training programs, and more.</li>
+       <li><a href="http://www.eeoc.gov/contact/">Employment Discrimination</a>&nbsp;&nbsp;–&nbsp;File an employment discrimination complaint with the U.S. Equal Employment Opportunity Commission.</li>
+       <li><a href="http://www2.epa.gov/home/send-question-epa">Environmental Programs</a>&nbsp;&nbsp;–&nbsp;Email a question or comment to the Environmental Protection Agency.</li>
+       <li><a href="http://www2.epa.gov/enforcement/report-environmental-violations">Environmental Violations</a> – Report Online&nbsp;&nbsp;–&nbsp;Email a report of possible environmental violation to the U.S. Environmental Protection Agency.</li>
+       <li><a href="https://www.dol.gov/agencies/ebsa/about-ebsa/about-us/regional-offices">Health Benefits</a>&nbsp;&nbsp;–&nbsp;Employee Benefits Security Administration regional offices will inform you of your rights and help you claim your benefits.</li>
+       <li><a href="https://apps.hud.gov/offices/hsg/sfh/hcc/hcs.cfm">Housing Counselors</a>&nbsp;&nbsp;–&nbsp;Talk to a federally-approved housing counselor about buying a home, renting, default, avoiding foreclosure, credit issues, or reverse mortgages.</li>
+       <li><a href="https://www.hud.gov/topics/housing_discrimination">Housing Discrimination Complaint</a>s&nbsp;&nbsp;–&nbsp;Email, call or mail complaints about housing discrimination when renting or buying a home.</li>
+       <li><a href="https://www.hud.gov/complaints_home">Land Sale Complaints</a>&nbsp;&nbsp;–&nbsp;If you believe you have been a victim of fraud and abuse when buying or leasing land from developers, you can file a complaint.</li>
+       <li><a href="http://govtinfo.org/">Librarians</a>&nbsp;&nbsp;–&nbsp;Chat with or email a government librarian</li>
+       <li><a href="https://www.msha.gov/about/contact/emergencies">Mine Emergency Numbers</a>&nbsp;- Notify&nbsp;Mine Safety and Health Administration (MSHA) of a mine accident or emergency, report hazardous conditions and get general contact information.&nbsp;</li>
+       <li><a href="https://lakmshaegov01.msha.gov/HazardousConditionComplaint.aspx">Mine Safety</a>&nbsp;- Email your questions regarding regulations, inspections, data, policy, and other topics to Mine Safety and Health Administration (MSHA).&nbsp;</li>
+       <li><a href="http://www.1800runaway.org/">National Runaway Safeline to Call for Help</a>&nbsp;&nbsp;–&nbsp;Call 1-800-RUNAWAY if you are a teenager thinking of running from home, if you have a friend who has run and is looking for help, or if you are a runaway ready to go home.</li>
+       <li><a href="https://www.dol.gov/agencies/ebsa">Pension Benefits</a>&nbsp;&nbsp;–&nbsp;Employee Benefits Security Administration regional offices will inform you of your rights and help you claim your benefits.</li>
+       <li><a href="http://www.epa.gov/radon/rnxlines.html">Radon</a>&nbsp;&nbsp;–&nbsp;Call the hotline to learn about radon and indoor air quality in your home.</li>
+       <li><a href="https://www.dol.gov/veterans/findajob/">Veterans Employment and Training</a>&nbsp;&nbsp;–&nbsp; Explore resources for finding&nbsp;employment and training assistance for veterans.</li>
+       <li><a href="https://www.dol.gov/general/contact">Worker Issues</a>&nbsp;&nbsp;–&nbsp;Email or mail the Department of Labor.</li>
+       <li><a href="https://www.osha.gov/pls/osha7/eComplaintForm.html">Workplace Safety</a>&nbsp;&nbsp;–&nbsp;Email a complaint to the Occupational Health and Safety Administration (OSHA).<br>&nbsp;</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211322"> 
+      <header> 
+       <h2 id="item-211322">Military and Veterans</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.af.mil/Contact-Us/">Air Force Contacts</a>&nbsp;–&nbsp;Check the Air Force's <a href="https://www.af.mil/Questions.aspx">frequently asked questions</a>, or email your question or comment to the U.S. Air Force.&nbsp;</li>
+       <li><a href="https://www.army.mil/contact/">Army Contacts</a>&nbsp;–&nbsp;Email your question or comment to the U.S. Army.</li>
+       <li><a href="https://www.uscg.mil/contact/">Coast Guard Contacts</a>&nbsp;– View the U.S. Coast Guard's <a href="https://www.uscg.mil/contact/FAQs/">frequently asked questions</a>, or contact your <a href="https://www.news.uscg.mil/News_Region/">local public affairs office/newsroom</a>.</li>
+       <li><a href="https://www.defense.gov/Resources/Contact-DoD/">Department of Defense</a>&nbsp;&nbsp;–&nbsp;Browse the DOD's<a href="https://kb.defense.gov/">&nbsp;frequently asked questions</a> or call the DOD Public Affairs Office for information.</li>
+       <li><a href="https://iris.custhelp.va.gov/">Department of Veterans Affairs</a>&nbsp;&nbsp;–&nbsp;Email, call, fax or mail questions, comments or complaints.</li>
+       <li><a href="https://www.usa.gov/military-personnel-and-installations#item-35672">Locate Service Members</a>&nbsp;–&nbsp;Locate a current&nbsp;member of the U.S. Armed Forces.</li>
+       <li><a href="https://www.marines.mil/Contact-Us/">Marine Corps Contacts</a>&nbsp;&nbsp;– View the Marine Corps' <a href="https://www.marines.mil/FAQs.aspx">frequently asked questions</a>, or contact your nearest Marine Corps public affairs office.</li>
+       <li><a href="https://health.mil/About-MHS/Contact-Us">Military Health System</a>&nbsp;– Email your question about a specific&nbsp;topic. Select Other Topics to ask about anything else related to military health.</li>
+       <li><a href="http://www.navy.mil/submit/contacts.asp">Navy Contacts</a> – Find key contacts and an email form for the U.S. Navy.</li>
+       <li><a href="https://www.usa.gov/join-military#item-35347">Recruiting</a>&nbsp;– Find web sites and phone numbers for recruiters for each branch of service.</li>
+       <li><a href="https://tricare.mil/contactus/">TRICARE</a>&nbsp;- Find key contacts and an email form for TRICARE, the Military's Health Care Insurance and Benefits program.</li>
+       <li><a href="http://www.operationwearehere.com/IdeasforSoldiersCardsLetters.html">Troops</a>&nbsp;&nbsp;– Find a list of organizations to help you send letters and messages to troops.&nbsp;</li>
+       <li><a href="https://www.dol.gov/vets/aboutvets/nationaloffice.htm">Veterans Employment and Training</a>&nbsp;&nbsp;–&nbsp; Key contacts for grants and employment and training assistance for veterans.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211325"> 
+      <header> 
+       <h2 id="item-211325">Money and Business</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://www.ftc.gov/faq/competition/report-antitrust-violation">Antitrust and Competition</a>&nbsp;&nbsp;–&nbsp;Email the Federal Trade Commission with a question or comment on an antitrust matter.</li>
+       <li><a href="http://www.justice.gov/atr/contact/newcase.html">Antitrust Violations</a>&nbsp;&nbsp;–&nbsp;Email, call, or mail a report of a possible antitrust violation or potential anti-competitive activity, whether civil or criminal, to the Department of Justice.</li>
+       <li><a href="http://www.federalreserveconsumerhelp.gov/complaint/complaintType.cfm">Bank Complaints</a>&nbsp;&nbsp;–&nbsp;File a complaint about a bank or other financial institution with the Federal Reserve.</li>
+       <li><a href="http://www.justice.gov/ust/eo/fraud/index.htm">Bankruptcy Fraud&nbsp;</a>&nbsp;–&nbsp;Report suspected bankruptcy fraud to the U.S. Trustee Program of the Department of Justice.</li>
+       <li><a href="https://www.ftccomplaintassistant.gov/#crnt&amp;panel1-1">Business and Electronic Commerce Practices</a>&nbsp;&nbsp;–&nbsp;Email complaints (stores, finance companies, auto dealers, mortgage companies, credit bureaus, spam email, etc.) to the Federal Trade Commission.</li>
+       <li><a href="http://www.federalreserveconsumerhelp.gov/complaint/complaintType.cfm">Charities</a>&nbsp;&nbsp;–&nbsp;Email complaints to the Federal Trade Commission.</li>
+       <li><a href="https://www.ncua.gov/About/Pages/contact.aspx">Credit Union</a> –&nbsp;Email or call with questions or comments, or report fraud to the National Credit Union Administration.</li>
+       <li><a href="https://www.fdic.gov/about/contact/ask/index.html">Deposit Insurance</a>&nbsp;&nbsp;–&nbsp;Email for assistance from the Federal Deposit Insurance Commission.</li>
+       <li><a href="http://www.usaid.gov/comment">Economic and Humanitarian Assistance Activities Overseas</a>&nbsp;&nbsp;–&nbsp;Email, call or write comments or questions to the U.S. Agency for International Development.</li>
+       <li><a href="https://www.irs.gov/filing/where-to-file-paper-tax-returns-with-or-without-a-payment">File Paper Tax Return</a>&nbsp;- Find out where to file your paper tax return - with or without a payment - with the IRS.&nbsp;</li>
+       <li><a href="http://www.sec.gov/complaint/select.shtml">Investors</a>&nbsp;&nbsp;–&nbsp;Email, fax or mail concerns and problems of individual investors to the Securities and Exchange Commission (SEC).</li>
+       <li><a href="http://www.improveirs.org/speakup.aspx">IRS (Internal Revenue Service) Reform</a>&nbsp;&nbsp;–&nbsp;Email an idea, issue or suggestion to the Taxpayer Advocacy Panel.</li>
+       <li><a href="http://www.irs.gov/Advocate">IRS Taxpayer Advocate Service</a>&nbsp;&nbsp;–&nbsp;The Taxpayer Advocate Service helps individuals and small businesses resolve problems with the IRS.</li>
+       <li><a href="http://www.uspto.gov/learning-and-resources/support-centers/uspto-contact-center-ucc">Patents and Trademarks</a>&nbsp;&nbsp;–&nbsp; Email, call or mail questions about patents and trademarks.</li>
+       <li><a href="http://www.sec.gov/contact.shtml">Securities and Exchange Commission</a>&nbsp;&nbsp;–&nbsp;Contact the SEC's Office of Investor Education and Advocacy for individual assistance at&nbsp;help@sec.gov.</li>
+       <li><a href="http://stats.bls.gov/help/hlpcont.htm#OEUS">Statistics</a>&nbsp;&nbsp;–&nbsp;Contacts to assist with locating and using Bureau of Labor Statistics data, publications, and services.</li>
+       <li><a href="http://www.irs.gov/uac/Contact-Your-Local-IRS-Office-1">Tax Help</a>&nbsp;&nbsp;–&nbsp;Email or call with comments and feedback.</li>
+       <li><a href="http://www.improveirs.org/signupalert.aspx">Taxpayer Advocacy Panel Application</a>&nbsp;&nbsp;–&nbsp;Volunteer for this unique opportunity to influence how the IRS delivers services to the public by becoming a member of the Taxpayer Advocacy Panel (TAP).</li>
+       <li><a href="https://sa.www4.irs.gov/irfof/lang/en/irfofgetstatus.jsp">Tax Refund Status</a>&nbsp;&nbsp;–&nbsp; Check your federal tax refund status online.</li>
+       <li><a href="https://www.export.gov/Contact-Us">Trade Barriers</a>&nbsp;&nbsp;–&nbsp;Call to receive assistance in resolving problems.</li>
+       <li><a href="https://www.osha.gov/pls/osha7/eComplaintForm.html">Workplace Safety</a>&nbsp;&nbsp;–&nbsp;Email a complaint to the Occupational Health and Safety Administration (OSHA).</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-211326"> 
+      <header> 
+       <h2 id="item-211326">Travel and Transportation</h2> 
+      </header> 
+      <ul>
+       <li><a href="https://travel.state.gov/content/travel/en/international-travel/emergencies.html">Americans Abroad – Assistance During a Crisis&nbsp;</a>&nbsp;–&nbsp;The Department of State and U.S. embassies and consulates help U.S. citizens overseas during emergencies.</li>
+       <li><a href="http://www.amtrak.com/contact-us">Amtrak Train Service</a>&nbsp;&nbsp;–&nbsp;Email or call to comment.</li>
+       <li><a href="https://www-odi.nhtsa.dot.gov/ivoq/">Automobiles, Trucks or Motorcycles</a>&nbsp;&nbsp;–&nbsp;Call or mail to report safety-related defects.</li>
+       <li><a href="http://www.faa.gov/contact/">Aviation Safety</a>&nbsp;&nbsp;–&nbsp;Call to report a possible violation to the Federal Aviation Administration.</li>
+       <li><a href="https://www.usa.gov/travel-complaint#item-36532">Complaints About Travel</a>&nbsp;- Find information to direct most complaints related to travel</li>
+       <li><a href="http://www.safercar.gov/Vehicle+Owners">Consumer Complaints Concerning a Vehicle</a> &nbsp;–&nbsp;Learn where to report your consumer complaint and find contact information to file.</li>
+       <li><a href="https://www.tsa.gov/travel/passenger-support/claims">File a Claim for Baggage Damaged by Airline Security Screeners</a></li>
+       <li><a href="https://register.state.gov/contactus/">International Travel Safety</a>&nbsp;&nbsp;–&nbsp;Email your questions to the Department of State.</li>
+       <li><a href="http://www.fs.fed.us/about-agency/contact-us">National Forests</a>&nbsp;&nbsp;–&nbsp;Contact the national headquarters office by comment form, email, phone, or by postal mail</li>
+       <li><a href="http://travel.state.gov/content/travel/en/passports/apply-renew-passport/emergencies.html">Passports for U.S. Citizens</a>&nbsp;&nbsp;–&nbsp;Email or call the Department of State's National Passport Information Center to learn about how to obtain, replace or change a passport.</li>
+       <li><a href="https://loc.gov/rr/askalib/">Transportation Research</a>&nbsp;&nbsp;–&nbsp;Email a librarian about specific transportation questions.</li>
+       <li><a href="https://www.tsa.gov/contact">Transportation Safety and Security</a>&nbsp;&nbsp;–&nbsp;The TSA contact center can help you prepare for an upcoming flight, file a complaint, and more.</li>
+       <li><a href="https://www-odi.nhtsa.dot.gov/ivoq/">Vehicle Safety</a>&nbsp;&nbsp;–&nbsp;Report an unsafe vehicle.</li>
+       <li><a href="https://travel.state.gov/content/travel/en/us-visas.html">Visas for Non-U.S. Citizens</a>&nbsp;&nbsp;–&nbsp;Email or call the Department of State's Visa Services' Public Inquiries Branch with questions about U.S. visas.</li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/contact-by-topic&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Contact Government by Topic https://www.usa.gov/contact-by-topic"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Contact Government by Topic&amp;body=https://www.usa.gov/contact-by-topic"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: April 2, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://usa.gov/espanol/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>USAGov is the Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>  
+ </body>
+</html>

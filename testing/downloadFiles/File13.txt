@@ -3,14 +3,14 @@
  <head> 
   <script>
      dataLayer = [ {
-    "pageType": "generic-navigation-page",
+    "pageType": "generic-content-page",
+    "assetIDs": "36987, 37157, 36857",
     "TaxLevel1": "USA.gov",
-    "TaxLevel2": "Government Agencies and Elected Officials",
-    "TaxLevel3": "State, Local, and Tribal Governments",
-    "TaxLevel4": "State, Local, and Tribal Governments",
-    "TaxLevel5": "State, Local, and Tribal Governments",
-    "TaxLevel6": "State, Local, and Tribal Governments",
-    "assetIDs": "null"
+    "TaxLevel2": "About the U.S.",
+    "TaxLevel3": "Data and Statistics about the U.S.",
+    "TaxLevel4": "Data and Statistics about the U.S.",
+    "TaxLevel5": "Data and Statistics about the U.S.",
+    "TaxLevel6": "Data and Statistics about the U.S."
 } ];
  </script> 
   <!--– Google Tag Manager –--> 
@@ -21,15 +21,15 @@
     })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
   <!--– End Google Tag Manager –--> 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-  <title>State, Local, and Tribal Governments  | USAGov</title> 
-  <link rel="canonical" href="https://www.usa.gov/state-tribal-governments"> 
+  <title>U.S. Data and Statistics  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/statistics"> 
   <meta name="google" value="notranslate"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <meta name="description" content="Find contact information for state, local, and tribal governments."> 
-  <meta property="og:url" content="https://www.usa.gov/state-tribal-governments"> 
+  <meta name="description" content="Find data about the U.S., such as maps and population, demographic, and economic data."> 
+  <meta property="og:url" content="https://www.usa.gov/statistics"> 
   <meta property="og:type" content="website"> 
-  <meta property="og:title" content="State, Local, and Tribal Governments | USAGov"> 
-  <meta property="og:description" content="Find contact information for state, local, and tribal governments."> 
+  <meta property="og:title" content="U.S. Data and Statistics | USAGov"> 
+  <meta property="og:description" content="Find data about the U.S., such as maps and population, demographic, and economic data."> 
   <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <!-- Favicons --> 
@@ -56,10 +56,9 @@ jQuery(document).ready( function () {
 </script> 
   <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-termId = '11006';
+termId = '10666';
 //--><!]]>
 </script> 
-  <script type="text/javascript" src="https://survey.usa.gov/widget/351/invitation.js?target_id=srvyinvt&amp;mobile_target_id=survey-target&amp;stylesheet=https%3A%2F%2Fwww.usa.gov/sites/all/themes/usa/css/popup-survey.css"></script> 
   <script type="text/javascript" src="/js/respond.js"></script> 
   <script type="text/javascript" src="/js/platform.js"></script> 
   <script type="text/javascript" src="/js/menu.js"></script> 
@@ -278,7 +277,6 @@ termId = '11006';
   <div class="hptoggles clearfix"> 
    <div class="container usa-grid"> 
     <ul> 
-     <li class="engtoggle"> <a href="/espanol/agencias-estatales" lang="es" xml:lang="es"> Español </a> </li>
     </ul> 
    </div> 
   </div> 
@@ -297,52 +295,145 @@ termId = '11006';
       </div> 
       <div class="shade dwn" aria-expanded="false"> 
        <header> 
-        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Government Agencies and Elected Officials</span> </a> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">About the U.S.</span> </a> 
          <meta itemprop="position" content="1"> </h2> 
        </header> 
        <ul> 
-        <li> <span> <a href="/federal-agencies" class="url" onmousedown="_sendEvent('Outbound','/federal-agencies','/',0);"> A-Z Index of U.S. Government Agencies </a> </span> </li> 
-        <li> <span> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);"> About the U.S. </a> </span> </li> 
+        <li> <span> <a href="/flag" class="url" onmousedown="_sendEvent('Outbound','/flag','/',0);"> American Flag </a> </span> </li> 
         <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
         <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/buy-from-government" class="url" onmousedown="_sendEvent('Outbound','/buy-from-government','/',0);"> Buying from the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/elected-officials" class="url" onmousedown="_sendEvent('Outbound','/elected-officials','/',0);"> Contact Elected Officials </a> </span> </li> 
-        <li> <span> <a href="/contact-by-topic" class="url" onmousedown="_sendEvent('Outbound','/contact-by-topic','/',0);"> Contact Government by Topic </a> </span> </li> 
-        <li> <span> <a href="/forms" class="url" onmousedown="_sendEvent('Outbound','/forms','/',0);"> Forms, by Agency </a> </span> </li> 
-        <li class="slctd"> <a> <span>State, Local, and Tribal Governments</span> </a> </li> 
+        <li class="slctd"> <a> <span>Data and Statistics about the U.S.</span> </a> </li> 
+        <li> <span> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);"> Government Agencies and Elected Officials </a> </span> </li> 
+        <li> <span> <a href="/history" class="url" onmousedown="_sendEvent('Outbound','/history','/',0);"> History and Historical Documents </a> </span> </li> 
+        <li> <span> <a href="/laws" class="url" onmousedown="_sendEvent('Outbound','/laws','/',0);"> Laws and Legal Issues </a> </span> </li> 
+        <li> <span> <a href="/life-in-the-us" class="url" onmousedown="_sendEvent('Outbound','/life-in-the-us','/',0);"> Learn About Life in the U.S. </a> </span> </li> 
+        <li> <span> <a href="/presidents" class="url" onmousedown="_sendEvent('Outbound','/presidents','/',0);"> Presidents, Vice Presidents, and First Ladies </a> </span> </li> 
        </ul> 
       </div> 
      </section> 
     </nav> 
+    <!--right container--> 
     <div class="col-md-9 col-sm-12 rightnav"> 
-     <article> 
+     <header> 
+      <h1>Data and Statistics about the U.S.</h1> 
+      <p>Find data about the U.S., such as maps and population, demographic, and economic data.</p> 
+     </header> 
+     <div class="wotp"> 
       <header> 
-       <h1>State, Local, and Tribal Governments</h1> 
-       <p>Find contact information for state, local, and tribal governments.</p> 
+       <h2>On This Page</h2> 
       </header> 
-      <section class="infobytpc clearfix row"> 
-       <ul class="dwnlvl"> 
-        <li class="col-md-6 col-xs-12"> <a href="/elected-officials"> <span class="mocklink">Contact Elected Officials</span> <p>Find contact information for federal, state, and local government officials.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-governor"> <span class="mocklink">Governors</span> <p>Contact your state's governor or the mayor of the District of Columbia.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/tribes"> <span class="mocklink">Indian Tribes and Resources for Native Americans</span> <p>Find information about and resources for Native Americans.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/local-governments"> <span class="mocklink">Local Governments</span> <p>Find contact information for local governments by state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-attorney-general"> <span class="mocklink">State Attorneys General</span> <p>Find contact information for the attorney general of each state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-consumer"> <span class="mocklink">State Consumer Protection Offices</span> <p>Find your state's consumer protection office.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/states-and-territories"> <span class="mocklink">State Governments</span> <p>Find contact information for each state or territory.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-courts"> <span class="mocklink">State, County, and Municipal Courts</span> <p>Find contact information for state, county, and municipal courts.</p> </a> </li> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-36987" onclick="document.getElementById('item-36987').focus();"> U.S. Census Data and Statistics </a> </li> 
+        <li> <a href="#item-37157" onclick="document.getElementById('item-37157').focus();"> Find Data and Statistics from the Government </a> </li> 
+        <li> <a href="#item-36857" onclick="document.getElementById('item-36857').focus();"> Maps </a> </li> 
        </ul> 
-      </section> 
-      <!-- social media feature begin--> 
-      <div id="sm-share">
-       <span id="share-page">Share This Page:</span> 
-       <div aria-labelledby="share-page"> 
-        <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/state-tribal-governments&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
-        <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=State, Local, and Tribal Governments https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
-        <a href="mailto:?subject=State, Local, and Tribal Governments&amp;body=https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
-       </div> 
       </div> 
-      <!-- social media feature ends--> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-36987"> 
+      <header> 
+       <h2 id="item-36987">U.S. Census Data and Statistics</h2> 
+      </header> 
+      <p>The <a href="http://www.census.gov">United States Census Bureau</a> provides data about the nation’s people and economy. Every 10 years, it conducts the Population and Housing Census, in which every resident in the United States is counted. The agency also gathers data through more than 100 other surveys of households and businesses every one to five years. You can explore the results of the surveys or find popular quick facts.</p>
+      <h3>Frequently Requested Statistics from the U.S. Census</h3>
+      <p>Get population and demographic information about the country, individual states, and more:</p>
+      <ul>
+       <li>View <a href="https://www.census.gov/quickfacts/">the latest QuickFacts statistics and estimates</a> for the most popular topics.</li>
+       <li>Zoom in and sort data from the 2010 Census with the <a href="https://www.census.gov/2010census/popmap/">Interactive Population Map</a>.</li>
+       <li>See U.S. and world population estimates changing live with the <a href="https://www.census.gov/popclock/">Population Clock</a>.</li>
+       <li>View <a href="https://www.census.gov/topics/population/age-and-sex/data/tables.html">age and sex data</a>&nbsp;to understand population change over time.</li>
+      </ul>
+      <h3>Research U.S. Census Survey Results</h3>
+      <p><a href="https://www.census.gov/data.html">Explore a variety of&nbsp;data</a>:</p>
+      <ul>
+       <li>Examine <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">data by community (such as city or ZIP code) across many different surveys</a>.</li>
+       <li>Focus on the <a href="https://www.census.gov/2010census/">data and research from the 2010 Census</a>.</li>
+       <li>Review all of the surveys and their data conducted by the Bureau:
+        <ul>
+         <li><a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/survey-list/household-survey-list.html">Surveys of households</a></li>
+         <li><a href="https://www.census.gov/econ/">Surveys of businesses</a></li>
+        </ul></li>
+      </ul>
+      <h3>Other Popular U.S. Census Information</h3>
+      <ul>
+       <li>Use U.S. Census data for&nbsp;<a href="https://www.census.gov/history/www/genealogy/">genealogical research</a>.</li>
+       <li>Census population data is used to divide&nbsp;<a href="http://www.census.gov/topics/public-sector/congressional-apportionment.html">the seats in the U.S. House of Representatives</a> among the 50 states.</li>
+       <li>Curious about whether a request you received to participate in a U.S. Census Bureau survey is real?
+        <ul>
+         <li><a href="https://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">Learn how to avoid </a><a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">scams</a><a href="https://www.census.gov/programs-surveys/are-you-in-a-survey/fraudulent-activity-and-scams.html">&nbsp;that claim to be from the U.S. Census Bureau</a>.</li>
+         <li>Find out how to contact the U.S. Census Bureau to&nbsp;confirm the <a href="http://www.census.gov/programs-surveys/are-you-in-a-survey/contact-us.html">validity of requests for information</a>.</li>
+        </ul></li>
+      </ul> 
      </article> 
+     <article role="complementary" aria-labelledby="item-37157"> 
+      <header> 
+       <h2 id="item-37157">Find Data and Statistics from the Government</h2> 
+      </header> 
+      <p>Many government agencies have statistical information on a wide range of topics. You may need to do further research to find out which agency has the information you are looking for or can help you find it.</p>
+      <p>Remember, keywords are important when doing a search. Make sure your keywords can help narrow down the search results. For example, instead of trying a search for "education statistics," try something more specific like "campus security statistics" or "graduation rates."</p>
+      <h3>Federal Government Data and Statistics</h3>
+      <p>These federal agency programs collect, analyze, and disseminate statistical data and information:</p>
+      <ul>
+       <li><a href="https://www.bea.gov/">Bureau of Economic Analysis</a>&nbsp;collects information on economic indicators, national and international trade, accounts, and industry.</li>
+       <li><a href="https://www.bjs.gov/">Bureau of Justice Statistics</a>&nbsp;reports on justice systems, crime, criminal offenders, and victims of crime.</li>
+       <li><a href="https://www.bls.gov/">Bureau of Labor Statistics</a>&nbsp;measures labor market activity, working conditions, and price changes in the U.S. economy.</li>
+       <li><a href="https://www.bts.gov/">Bureau of Transportation Statistics</a>&nbsp;provides data on airline on-time performance, pirates at sea, transportation safety and availability, motorcycle trends, and more.</li>
+       <li><a href="https://www.census.gov/">Census Bureau</a> is the main source of data about our nation's people and economy.</li>
+       <li><a href="https://analytics.usa.gov/">DAP Public Dashboard</a>&nbsp;provides a window into how people are interacting with the government online.</li>
+       <li><a href="https://www.data.gov/">Data.gov</a> is the home of the U.S. Government's open data. Find federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more.&nbsp;</li>
+       <li><a href="https://www.ers.usda.gov/">Economic Research Service</a>&nbsp;informs public and private decision making on economic and policy issues related to agriculture, food, the environment, and rural development. &nbsp;</li>
+       <li><a href="https://www.eia.gov/">Energy Information Administration</a>&nbsp;provides data on U.S. use of coal, natural gas, nuclear energy, renewable energy, and more.</li>
+       <li><a href="https://www.nass.usda.gov/">National Agricultural Statistical Service</a>&nbsp;researches data on food production and supply, organic sales, chemical use, demographics of U.S. producers, and more.&nbsp;Every five years it conducts the <a href="https://www.agcensus.usda.gov/">Census of Agriculture</a> that provides agricultural data for every county in&nbsp;the United States.</li>
+       <li><a href="https://nces.ed.gov/">National Center for Education Statistics</a> researches education in the United States.&nbsp;It publishes the <a href="https://nces.ed.gov/programs/digest/"><em>Digest of Education Statistics</em></a><em>,</em>&nbsp;which includes international comparisons of students, and the annual report to Congress,&nbsp;<em><a href="https://nces.ed.gov/programs/coe/">The&nbsp;Condition of Education</a>,&nbsp;</em>which reports the progress of American education.</li>
+       <li><a href="https://www.cdc.gov/nchs/">National Center for Health Statistics</a>&nbsp;is the principal health statistics agency for improving the health of the American people.</li>
+       <li><a href="https://www.nsf.gov/statistics/">National Center for Science and Engineering Statistics</a>&nbsp;publishes data on the American science and engineering workforce and the progress of science, technology, engineering, and mathematics (STEM) education in the United States.</li>
+       <li><a href="https://www.opm.gov/">Office of Personnel Management</a>&nbsp;provides statistics on the Federal civilian workforce through data sources such as&nbsp;<a href="https://www.opm.gov/policy-data-oversight/data-analysis-documentation/fedscope/">FedScope</a>.</li>
+       <li>Social Security Administration <a href="https://www.ssa.gov/policy/about/ORES.html">Office of Research Evaluation and Statistics</a>&nbsp;offers data on social security&nbsp;program benefits, payments, covered workers, and more.</li>
+       <li>Internal Revenue Service&nbsp;<a href="https://www.irs.gov/statistics">Statistics of Income</a>&nbsp;examines tax returns to report on such things as&nbsp;sources of income, exemptions,&nbsp;use of medical savings accounts, migration and geographic data, tax information on&nbsp;foreign corporations controlled by U.S. parent corporations, exports, international boycotts, and investments and activities in the U.S. by foreign persons.</li>
+      </ul>
+      <p>You may also search a federal agency's website to see what types of statistical information it provides. Find the <a href="https://www.usa.gov/federal-agencies/a">U.S. government department or agency</a> you want to search.</p>
+      <h3>State and Local Government Data and Statistics</h3>
+      <p>State and local government agencies also compile and maintain statistical information. Contact a state or local government for more information:</p>
+      <ul>
+       <li><a href="https://www.usa.gov/states-and-territories">State and Territorial Governments</a></li>
+       <li><a href="https://www.usa.gov/local-governments">Local Governments</a></li>
+       <li><a href="https://www.census.gov/quickfacts/fact/table/US/PST045217">State and County QuickFacts</a></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36857"> 
+      <header> 
+       <h2 id="item-36857">Maps</h2> 
+      </header> 
+      <p>The <a href="https://nationalmap.gov/">National Map</a> offers mapping products&nbsp;from federal, state, and local partners on a variety of topics, such as recreation, environmental resources, scientific analysis, and emergency response.</p>
+      <p>Other maps cover:</p>
+      <ul>
+       <li><a href="https://www.census.gov/programs-surveys/geography.html">Demographic data</a></li>
+       <li><a href="https://www3.epa.gov/myenv/MyMap.html">Local environmental data</a>&nbsp;and <a href="https://water.usgs.gov/maps.html">water resources</a></li>
+       <li><a href="https://www.weather.gov/forecastmaps">Current weather</a></li>
+       <li><a href="https://www.nass.usda.gov/Charts_and_Maps/">Agricultural information by commodity</a></li>
+       <li><a href="https://www.recreation.gov/unifSearch.do">Recreational places and activities</a></li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/statistics&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Data and Statistics about the U.S. https://www.usa.gov/statistics"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Data and Statistics about the U.S.&amp;body=https://www.usa.gov/statistics"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: November 8, 2018</p> 
     </div> 
    </div> 
   </main> 

@@ -1,0 +1,649 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "213781, 35812, 36977, 37237, 37252, 36122",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "All Topics and Services NOT LIVE",
+    "TaxLevel3": "Housing",
+    "TaxLevel4": "Affordable Rental Housing",
+    "TaxLevel5": "Affordable Rental Housing",
+    "TaxLevel6": "Affordable Rental Housing"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Find Affordable Rental Housing   | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/finding-home"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn about government programs that help low-income people find affordable rental housing. Each of the programs -subsidized housing, public housing, and housing choice vouchers - is different. Get the details on how they work, who is eligible, and how to apply. "> 
+  <meta property="og:url" content="https://www.usa.gov/finding-home"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Find Affordable Rental Housing  | USAGov"> 
+  <meta property="og:description" content="Learn about government programs that help low-income people find affordable rental housing. Each of the programs -subsidized housing, public housing, and housing choice vouchers - is different. Get the details on how they work, who is eligible, and how to apply. "> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10813';
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/9651.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/vivienda-de-renta-asequible" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/housing" class="url" onmousedown="_sendEvent('Outbound','/housing','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Housing</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li class="slctd"> <a> <span>Affordable Rental Housing</span> </a> </li> 
+        <li> <span> <a href="/foreclosure" class="url" onmousedown="_sendEvent('Outbound','/foreclosure','/',0);"> Foreclosure </a> </span> </li> 
+        <li> <span> <a href="/buying-home" class="url" onmousedown="_sendEvent('Outbound','/buying-home','/',0);"> Help Buying a Home </a> </span> </li> 
+        <li> <span> <a href="/housing-help-audiences" class="url" onmousedown="_sendEvent('Outbound','/housing-help-audiences','/',0);"> Housing Help </a> </span> </li> 
+        <li> <span> <a href="/housing-scams" class="url" onmousedown="_sendEvent('Outbound','/housing-scams','/',0);"> Housing Scams </a> </span> </li> 
+        <li> <span> <a href="/housing-complaints" class="url" onmousedown="_sendEvent('Outbound','/housing-complaints','/',0);"> Housing-Related Complaints </a> </span> </li> 
+        <li> <span> <a href="/mortgages" class="url" onmousedown="_sendEvent('Outbound','/mortgages','/',0);"> Mortgages </a> </span> </li> 
+        <li> <span> <a href="/moving" class="url" onmousedown="_sendEvent('Outbound','/moving','/',0);"> Moving </a> </span> </li> 
+        <li> <span> <a href="/property-insurance" class="url" onmousedown="_sendEvent('Outbound','/property-insurance','/',0);"> Property Insurance </a> </span> </li> 
+        <li> <span> <a href="/repairing-home" class="url" onmousedown="_sendEvent('Outbound','/repairing-home','/',0);"> Repairing and Improving a Home </a> </span> </li> 
+        <li> <span> <a href="/post-office" class="url" onmousedown="_sendEvent('Outbound','/post-office','/',0);"> U.S. Postal Service Issues </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Find Affordable Rental Housing </h1> 
+      <p>Learn about government programs that help low-income people find affordable rental housing. Each of the programs - subsidized housing, public housing, and housing choice vouchers - is different. Get the details on how they work, who is eligible, and how to apply.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-213781" onclick="document.getElementById('item-213781').focus();"> Infographic: Find Affordable Rental Housing </a> </li> 
+        <li> <a href="#item-35812" onclick="document.getElementById('item-35812').focus();"> Find Affordable Rental Housing </a> </li> 
+        <li> <a href="#item-36977" onclick="document.getElementById('item-36977').focus();"> How to Get Help Paying Rent </a> </li> 
+        <li> <a href="#item-37237" onclick="document.getElementById('item-37237').focus();"> Housing Choice Voucher Program (Formerly Section 8) </a> </li> 
+        <li> <a href="#item-37252" onclick="document.getElementById('item-37252').focus();"> Public Housing </a> </li> 
+        <li> <a href="#item-36122" onclick="document.getElementById('item-36122').focus();"> Identify and Complain about Housing Discrimination </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-213781"> 
+      <header> 
+       <h2 id="item-213781">Infographic: Find Affordable Rental Housing</h2> 
+      </header> 
+      <p> Government programs help low-income people find affordable rental housing. This infographic explains how they work. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/FindAffordableRentalHousing2019.png" alt="Infographic explaining three programs to help low income people get affordable rental housing."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="Infographic explaining three programs to help low income people get affordable rental housing."> <a href="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/FindAffordableRentalHousing2019Hires.png" aria-labelledby="item-213781" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/FindAffordableRentalHousing2019Hires.png',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-213781"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-213781" aria-labelledby="item-213781">Show Description of Infographic </button> 
+           <div id="infograph-b-213781" class="usa-accordion-content">
+            <p></p>
+            <p>If you have a low income and need affordable rental housing, government programs may help. Public housing agencies use federal funds to run housing programs locally, working with building owners to subsidize rent for eligible people.</p>
+            <h3>Privately-Owned Subsidized Housing</h3>
+            <p>The government gives some property owners money to provide low-rent apartments. Apply at a property’s rental office. Learn more and search for low-rent apartments at&nbsp;&nbsp;<a href="https://apps.hud.gov/apps/section8/">https://apps.hud.gov/apps/section8/</a>.</p>
+            <h4>To be eligible:</h4>
+            <p>1. You must be within the income limit set for the location and size of your family.</p>
+            <p>2. You may have to meet other requirements set by the property owner.</p>
+            <h3>Housing Choice Vouchers and Public Housing</h3>
+            <h4>Housing Choice Vouchers (Section 8)</h4>
+            <p>You find your own housing. The government pays your landlord the amount allowed by your voucher each month. You pay the difference, if any.</p>
+            <ul>
+             <li><p>You can rent an apartment, townhouse, or single-family home.</p></li>
+             <li><p>The property must meet health and safety standards.</p></li>
+             <li><p>Your voucher amount is based on your income, family composition, and local housing costs.</p></li>
+            </ul>
+            <h4>Public Housing</h4>
+            <p>You rent housing from the local public housing agency based on your gross annual income.</p>
+            <ul>
+             <li><p>Housing may include apartments, townhouses, or single-family homes.</p></li>
+             <li><p>The housing agency will contact your current and past landlords, and may visit you at your current home to determine your suitability as a tenant.</p></li>
+            </ul>
+            <h3>To be eligible for either program, you must be:</h3>
+            <ol>
+             <li><p>A family, senior citizen, or person with a disability</p></li>
+             <li><p>Within the program’s income limits</p></li>
+             <li><p>A U.S. citizen or eligible non-citizen</p></li>
+            </ol>
+            <h3>To apply for either program:</h3>
+            <ol>
+             <li><p>Contact your local public housing agency. Find yours at <a href="https://go.usa.gov/xn4ab">https://go.usa.gov/xn4ab</a>.</p></li>
+             <li><p>Complete an application that will ask about your income, family composition, employer, and bank. The housing agency will verify this information.</p></li>
+             <li><p>Provide all necessary documents such as photo ID, birth certificates, and tax returns at the time of your appointment.</p></li>
+            </ol>
+            <p>Wait times for these programs can be long and the waiting list may be closed when you try to apply. Keep checking your local public housing agency’s website for their list to reopen.</p>
+            <p>To learn more about these programs, call the PIH Customer Service Center at 1-800-955-2232 Monday - Friday 9:00 AM to 5:00 PM ET, or visit <a href="https://www.usa.gov/finding-home">https://www.USA.gov/finding-home</a>.</p>
+            <p>Brought to you by USAGov</p>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35812"> 
+      <header> 
+       <h2 id="item-35812">Find Affordable Rental Housing</h2> 
+      </header> 
+      <p>People with low income, seniors, and people with disabilities may qualify for help from the <a href="https://www.hud.gov/topics/rental_assistance">U.S. Department of Housing and Urban Development (HUD) to get affordable rental housing</a>.&nbsp;HUD doesn't own rental property. It gives money to states and building owners, who in turn provide low-income housing opportunities.</p>
+      <h3>Get Personalized Help with Your Search</h3>
+      <p>Find a HUD-approved&nbsp;<a href="https://www.hud.gov/program_offices/housing/sfh/hcc">housing counselor in your area online</a>&nbsp;or call <a href="tel:18005694287">1-800-569-4287</a> to find a local housing counseling agency. The counselor may be from a non-profit organization approved to offer advice on housing assistance.</p>
+      <h3>Search by Type of Program</h3>
+      <p>&nbsp;There are three main types of affordable rental housing that are supported by HUD:</p>
+      <ul>
+       <li>Privately owned, subsidized housing in which landlords are subsidized to offer reduced rents to low-income tenants.&nbsp;<a href="http://www.hud.gov/apps/section8/index.cfm">Search for an apartment</a>&nbsp;and apply directly at the rental management office.&nbsp;
+        <ul>
+         <li>For complaints about subsidized housing, call the Multifamily Housing Complaint Line at&nbsp;<a href="tel:18006858470">1-800-MULTI-70</a> (<a href="tel:18006858470">1-800-685-8470</a>).</li>
+        </ul></li>
+       <li><a href="https://www.usa.gov/finding-home#item-37252">Public Housing</a>&nbsp;provides affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. To apply, contact a&nbsp;<a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">public housing agency</a> in your state.</li>
+       <li><a href="https://www.usa.gov/finding-home#item-37237">Housing Choice Voucher Program</a>&nbsp;in which you find a rental property yourself, and use the voucher to pay for all or part of the rent. To apply, contact a&nbsp;<a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">public housing agency</a> in your state.</li>
+      </ul>
+      <p>If you have trouble contacting your local public housing agency, contact your <a href="https://www.hud.gov/program_offices/field_policy_mgt/localoffices">local HUD field office</a> for help.</p>
+      <p>If you're a landlord, learn how you can <a href="https://www.hud.gov/groups/landlords">participate in the Housing Choice Voucher Program</a>.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36977"> 
+      <header> 
+       <h2 id="item-36977">How to Get Help Paying Rent</h2> 
+      </header> 
+      <p>If you need help paying your rent, contact your&nbsp;<a href="http://www.ncsha.org/housing-help">state housing finance agency</a> or your <a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">local public housing agency office</a>. You may qualify for government programs to get help with your rent payments.</p>
+      <p>Contact your <a href="https://www.usa.gov/states-and-territories">state human or social service agency</a>:</p>
+      <ul>
+       <li>If you need immediate, emergency assistance</li>
+       <li>To find out what other help may be available for you locally&nbsp;</li>
+      </ul>
+      <p>Even if you don't qualify to get help with your rent payments&nbsp;through these agencies, they may be able to provide referrals to community organizations that might offer help. You may also search for and contact community or nonprofit organizations in your area directly for help or referral information.</p>
+      <h3>Veterans</h3>
+      <p>The Department of Veterans Affairs (VA) offers the&nbsp;<a href="https://www.va.gov/homeless/hud-vash_eligibility.asp">HUD-VASD</a>&nbsp;for homeless veterans. It&nbsp;combines HUD housing vouchers with VA supportive services.</p>
+      <h3>Seniors</h3>
+      <p>The <a href="https://eldercare.acl.gov/Public/Index.aspx">Eldercare Locator</a> is a free service that can connect you with resources and programs designed to help seniors in your area.</p>
+      <h3>Rural Residents</h3>
+      <p><a href="https://www.rd.usda.gov/contact-us/state-offices">Local Rural Development (RD) offices</a> can help rural residents through the Rural Housing Service.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37237"> 
+      <header> 
+       <h2 id="item-37237">Housing Choice Voucher Program (Formerly Section 8)</h2> 
+      </header> 
+      <h3>What help is available?</h3>
+      <p>The<a href="https://portal.hud.gov/hudportal/HUD?src=/topics/housing_choice_voucher_program_section_8"> Housing Choice Voucher Program</a> (formerly known as Section 8) is a program from&nbsp;the Department of Housing and Urban Development (HUD). It&nbsp;helps pay for rental housing for low-income families and for&nbsp;people who are&nbsp;elderly&nbsp;or who have a disability.</p>
+      <p>You can <a href="https://www.hud.gov/topics/housing_choice_voucher_program_section_8">find your own housing</a>, including single-family homes, townhouses, and apartments.&nbsp;Housing Choice Vouchers can&nbsp;pay for all or part of the rent.</p>
+      <h3>Am I eligible?</h3>
+      <p>Your local <a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">Public&nbsp;Housing Agency (PHA)</a>&nbsp;decides if you are eligible for a Housing Choice Voucher based on:</p>
+      <ul>
+       <li>Your annual gross income</li>
+       <li>Whether you qualify as elderly, a person with a disability, or as a family</li>
+       <li>U.S. citizenship or eligible immigration status</li>
+       <li>Your family's size</li>
+       <li>Other local factors</li>
+      </ul>
+      <p>In general, your&nbsp;family's income may not exceed 50% of the median income for the county or metropolitan area.</p>
+      <p>Each state or city may have different eligibility rules&nbsp;for housing programs. Contact your <a href="https://www.hud.gov/program_offices/field_policy_mgt/localoffices">local PHA</a><a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts"> </a>to learn about your eligibility for Housing Choice Vouchers.</p>
+      <h3>How do I apply?</h3>
+      <ul>
+       <li>To apply for Housing Choice Vouchers, contact a <a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">Public Housing Agency</a> in your state. If you need more assistance, contact <a href="https://www.hud.gov/program_offices/field_policy_mgt/localoffices">your local HUD office</a>.</li>
+       <li>You will need to fill out a written application or have a representative of your local PHA&nbsp;help&nbsp;you.</li>
+       <li>The PHA representative will collect information on your family size, income, and assets.</li>
+       <li>The PHA will check&nbsp;this information with other local agencies, your employer, and your bank. This helps them&nbsp;decide&nbsp;if you qualify and how&nbsp;much assistance you'll get.</li>
+       <li>The amount of assistance you could&nbsp;get would help you afford a moderately-priced rental&nbsp;in your area.</li>
+       <li>The housing you choose must meet health and safety standards before the PHA can approve the unit.</li>
+       <li>After you've been approved for a voucher and found a place to rent, the PHA&nbsp;will inspect the rental before you sign your lease to be sure it's worth the rental price.&nbsp;</li>
+      </ul>
+      <h3><br>How do I check the status of an application?</h3>
+      <p>If you qualify for a Housing Choice Voucher, the PHA will put your name on a waiting list. They will contact you when it's your turn to receive a voucher.</p>
+      <h3>How do I complain/where do I call for extra help?</h3>
+      <ul>
+       <li>If you need help&nbsp;applying for a Housing Choice Voucher&nbsp;or getting information about housing programs, contact your <a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts">local PHA</a>.&nbsp;If you need more help, contact your&nbsp;<a href="https://www.hud.gov/program_offices/field_policy_mgt/localoffices">local HUD office</a>.</li>
+       <li>For information by phone about any housing question or if you need to file a complaint about your local PHA, contact the <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/about/css">Public and Indian Housing Customer Service Center</a>.</li>
+       <li>If you feel that you have been a victim of housing discrimination, you can <a href="https://portal.hud.gov/hudportal/HUD?src=/topics/housing_discrimination">file a housing discrimination complaint</a>.</li>
+      </ul>
+      <h3>Is there anything else I need to know?</h3>
+      <p>Since the demand for housing assistance is usually greater than the resources available, you may wait a long time to get on a list and to get a voucher.&nbsp;</p>
+      <p>Being approved for a voucher in one city or state does not guarantee you'll be approved somewhere else.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-37252"> 
+      <header> 
+       <h2 id="item-37252">Public Housing</h2> 
+      </header> 
+      <h3>What help is available?</h3>
+      <p><a href="https://portal.hud.gov/hudportal/HUD?src=/topics/rental_assistance/phprog">Public housing</a> is state-owned, affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. Public housing is nationwide, and comes in all sizes and types, from single-family houses to high rise apartments. The program is administered by The Department of Housing and Urban Development (HUD).</p>
+      <h3>Am I eligible?</h3>
+      <p>Your local <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/pha/contacts">Public Housing Agency (PHA)</a> will determine your eligibility for public housing based on:</p>
+      <ul>
+       <li><p>Your annual gross income</p></li>
+       <li><p>Whether you qualify as elderly, a person with a disability, or as a family</p></li>
+       <li><p>U.S. citizenship or eligible immigration status</p></li>
+       <li><p>Other local factors</p></li>
+      </ul>
+      <p>PHAs use <a href="http://www.huduser.org/datasets/il.html">income limits</a> developed by HUD. The lower income limit is&nbsp;80% and very low income limit is&nbsp;50% of the median income for the county or metropolitan area where you want to live.</p>
+      <p>Because income limits and eligibility requirements vary from area to area, you may be eligible in one state, city, or county but not in another. Contact your <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/pha/contacts">local PHA</a> to learn about your eligibility for federal and local public housing programs, Housing Choice vouchers, rental assistance, or subsidized housing.</p>
+      <h3>How do I apply?</h3>
+      <p>To apply, contact <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/pha/contacts">your local PHA</a>. Here’s what you can expect during the application process:</p>
+      <p>Either you or a PHA representative will fill out your written application.</p>
+      <p>Your PHA usually needs to collect the following information to determine eligibility:</p>
+      <ul>
+       <li><p>Names of all people who would be living in the unit, their sex, date of birth, and relationship to the family head</p></li>
+       <li><p>Your present address and telephone number</p></li>
+       <li><p>Family characteristics (such as veteran) or circumstances (such as living in substandard housing) that might qualify your family for tenant selection preferences</p></li>
+       <li><p>Names and addresses of your current and previous landlords for information about your family's suitability as a tenant</p></li>
+       <li><p>An estimate of your family's income for the next twelve months and the sources of that income</p></li>
+       <li><p>The names and addresses of employers, banks, and any other information to check&nbsp;your income and deductions, and to verify your family composition</p></li>
+      </ul>
+      <ul>
+       <li><p>Someone from your PHA may visit you in your home to interview you and your family members to see how you manage the upkeep of your current home.</p></li>
+      </ul>
+      <p>After obtaining this information, the PHA representative should describe the public housing program and its requirements, and answer your&nbsp;questions.</p>
+      <p>A PHA representative will ask for documents including&nbsp;birth certificates and tax returns&nbsp;to verify the information on your application. The PHA&nbsp;may also talk to your employer and your other references. You will be asked to sign a form to authorize the release of&nbsp;information to the PHA.</p>
+      <h3>How do I check the status of an application?</h3>
+      <p>Your PHA has to provide written notification of your application's status. If the PHA determines you're&nbsp;eligible, your name will be put on a waiting list. Once it's your turn, the PHA will contact you.</p>
+      <h3>How do I complain/where do I call for extra help?</h3>
+      <p>If you need assistance applying for public housing or getting information about housing programs, contact your <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/pha/contacts">local PHA</a>. If you need further assistance, contact your local <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/field_policy_mgt/localoffices">HUD branch office</a>. &nbsp;</p>
+      <p>For information about any housing question or if you need to file a complaint about your local PHA, contact the <a href="https://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/about/css">PIH Customer Service Center</a>.</p>
+      <p>If you feel that you have been a victim of housing discrimination, <a href="https://portal.hud.gov/hudportal/HUD?src=/topics/housing_discrimination">File a housing discrimination complaint</a>.</p>
+      <h3>Is there anything else I need to know?</h3>
+      <p>Since the demand for public housing is often larger than the amount of housing available to HUD and the local PHA, long waiting periods are common. A PHA may close its waiting list when there are more families on the list than can be assisted in the near future.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36122"> 
+      <header> 
+       <h2 id="item-36122">Identify and Complain about Housing Discrimination</h2> 
+      </header> 
+      <p><a href="https://portalapps.hud.gov/AdaptivePages/HUD/welcome.htm">Housing discrimination</a> happens when a housing provider acts in a way that blocks someone from renting or buying housing because of their</p>
+      <ul>
+       <li>Race or color</li>
+       <li>Religion</li>
+       <li>Sex</li>
+       <li>National origin</li>
+       <li>Familial status (such as having children)</li>
+       <li>Disability</li>
+      </ul>
+      <p>A housing provider that discriminates against someone could be a landlord or a real estate management company. It could also be a lending institution like a bank or other organization that is an important part of acquiring a home.</p>
+      <p>Housing discrimination is prohibited by the Fair Housing Act. Discrimination covered by the Act can take many different forms beyond just raising prices or lying about availability. For example, the Act addresses wheelchair access in some newer properties. <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/FHLaws/yourrights">Learn what the Fair Housing Act covers, how to complain, and how the investigation process works</a>.</p>
+      <h3>File a Housing Discrimination Complaint</h3>
+      <p>If you think you are a victim of housing discrimination,</p>
+      <ul>
+       <li>Complete and submit a&nbsp;<a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint">Housing Discrimination Complaint Form</a>&nbsp;or&nbsp;</li>
+       <li>Contact your regional&nbsp;<a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/aboutfheo/fhhubs">HUD office</a></li>
+      </ul>
+      <h3>Discrimination Against LGBT People</h3>
+      <p>The Fair Housing Act does not specifically prohibit discrimination based on sexual orientation or gender identity. But discrimination against someone who is lesbian, gay, bisexual, or transgender (LGBT)&nbsp;<a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/housing_discrimination_and_persons_identifying_lgbtq">may still be in violation of the Act </a>or other state or local regulations. If you think you've been discriminated against for these reasons, file a complaint as described above, or&nbsp;email HUD at&nbsp;<a href="mailto:LGBTFairhousing@hud.gov">LGBTFairhousing@hud.gov</a> with general questions about LGBT housing issues.&nbsp;</p> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/finding-home&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Find Affordable Rental Housing  https://www.usa.gov/finding-home"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Find Affordable Rental Housing &amp;body=https://www.usa.gov/finding-home"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: February 4, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://usa.gov/espanol/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>USAGov is the Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

@@ -4,13 +4,13 @@
   <script>
      dataLayer = [ {
     "pageType": "generic-navigation-page",
+    "assetIDs": "213497",
     "TaxLevel1": "USA.gov",
-    "TaxLevel2": "Government Agencies and Elected Officials",
-    "TaxLevel3": "State, Local, and Tribal Governments",
-    "TaxLevel4": "State, Local, and Tribal Governments",
-    "TaxLevel5": "State, Local, and Tribal Governments",
-    "TaxLevel6": "State, Local, and Tribal Governments",
-    "assetIDs": "null"
+    "TaxLevel2": "All Topics and Services NOT LIVE",
+    "TaxLevel3": "Housing",
+    "TaxLevel4": "Housing",
+    "TaxLevel5": "Housing",
+    "TaxLevel6": "Housing"
 } ];
  </script> 
   <!--– Google Tag Manager –--> 
@@ -21,15 +21,15 @@
     })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
   <!--– End Google Tag Manager –--> 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-  <title>State, Local, and Tribal Governments  | USAGov</title> 
-  <link rel="canonical" href="https://www.usa.gov/state-tribal-governments"> 
+  <title>Housing  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/housing"> 
   <meta name="google" value="notranslate"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <meta name="description" content="Find contact information for state, local, and tribal governments."> 
-  <meta property="og:url" content="https://www.usa.gov/state-tribal-governments"> 
+  <meta name="description" content="Get information and services to help with finding and keeping a home."> 
+  <meta property="og:url" content="https://www.usa.gov/housing"> 
   <meta property="og:type" content="website"> 
-  <meta property="og:title" content="State, Local, and Tribal Governments | USAGov"> 
-  <meta property="og:description" content="Find contact information for state, local, and tribal governments."> 
+  <meta property="og:title" content="Housing | USAGov"> 
+  <meta property="og:description" content="Get information and services to help with finding and keeping a home."> 
   <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <!-- Favicons --> 
@@ -56,10 +56,9 @@ jQuery(document).ready( function () {
 </script> 
   <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-termId = '11006';
+termId = '10809';
 //--><!]]>
 </script> 
-  <script type="text/javascript" src="https://survey.usa.gov/widget/351/invitation.js?target_id=srvyinvt&amp;mobile_target_id=survey-target&amp;stylesheet=https%3A%2F%2Fwww.usa.gov/sites/all/themes/usa/css/popup-survey.css"></script> 
   <script type="text/javascript" src="/js/respond.js"></script> 
   <script type="text/javascript" src="/js/platform.js"></script> 
   <script type="text/javascript" src="/js/menu.js"></script> 
@@ -278,72 +277,61 @@ termId = '11006';
   <div class="hptoggles clearfix"> 
    <div class="container usa-grid"> 
     <ul> 
-     <li class="engtoggle"> <a href="/espanol/agencias-estatales" lang="es" xml:lang="es"> Español </a> </li>
+     <li class="engtoggle"> <a href="/espanol/vivienda" lang="es" xml:lang="es"> Español </a> </li>
     </ul> 
    </div> 
   </div> 
   <main id="content" role="main"> 
    <div class="container clearfix"> 
-    <nav aria-label="content" class="col-md-3 leftnav"> 
-     <section aria-label="left-side-navigation"> 
-      <div class="mrtp clearfix"> 
-       <button id="leftnav-toggle" type="button"> 
-        <div class="bttn"> 
-         <header> 
-          <h2>More Topics in this Section</h2> 
-         </header> 
-        </div> 
-        <div class="mrtpc"></div> </button> 
-      </div> 
-      <div class="shade dwn" aria-expanded="false"> 
-       <header> 
-        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Government Agencies and Elected Officials</span> </a> 
-         <meta itemprop="position" content="1"> </h2> 
-       </header> 
-       <ul> 
-        <li> <span> <a href="/federal-agencies" class="url" onmousedown="_sendEvent('Outbound','/federal-agencies','/',0);"> A-Z Index of U.S. Government Agencies </a> </span> </li> 
-        <li> <span> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);"> About the U.S. </a> </span> </li> 
-        <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/buy-from-government" class="url" onmousedown="_sendEvent('Outbound','/buy-from-government','/',0);"> Buying from the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/elected-officials" class="url" onmousedown="_sendEvent('Outbound','/elected-officials','/',0);"> Contact Elected Officials </a> </span> </li> 
-        <li> <span> <a href="/contact-by-topic" class="url" onmousedown="_sendEvent('Outbound','/contact-by-topic','/',0);"> Contact Government by Topic </a> </span> </li> 
-        <li> <span> <a href="/forms" class="url" onmousedown="_sendEvent('Outbound','/forms','/',0);"> Forms, by Agency </a> </span> </li> 
-        <li class="slctd"> <a> <span>State, Local, and Tribal Governments</span> </a> </li> 
-       </ul> 
-      </div> 
-     </section> 
-    </nav> 
-    <div class="col-md-9 col-sm-12 rightnav"> 
-     <article> 
-      <header> 
-       <h1>State, Local, and Tribal Governments</h1> 
-       <p>Find contact information for state, local, and tribal governments.</p> 
-      </header> 
-      <section class="infobytpc clearfix row"> 
-       <ul class="dwnlvl"> 
-        <li class="col-md-6 col-xs-12"> <a href="/elected-officials"> <span class="mocklink">Contact Elected Officials</span> <p>Find contact information for federal, state, and local government officials.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-governor"> <span class="mocklink">Governors</span> <p>Contact your state's governor or the mayor of the District of Columbia.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/tribes"> <span class="mocklink">Indian Tribes and Resources for Native Americans</span> <p>Find information about and resources for Native Americans.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/local-governments"> <span class="mocklink">Local Governments</span> <p>Find contact information for local governments by state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-attorney-general"> <span class="mocklink">State Attorneys General</span> <p>Find contact information for the attorney general of each state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-consumer"> <span class="mocklink">State Consumer Protection Offices</span> <p>Find your state's consumer protection office.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/states-and-territories"> <span class="mocklink">State Governments</span> <p>Find contact information for each state or territory.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-courts"> <span class="mocklink">State, County, and Municipal Courts</span> <p>Find contact information for state, county, and municipal courts.</p> </a> </li> 
-       </ul> 
-      </section> 
-      <!-- social media feature begin--> 
-      <div id="sm-share">
-       <span id="share-page">Share This Page:</span> 
-       <div aria-labelledby="share-page"> 
-        <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/state-tribal-governments&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
-        <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=State, Local, and Tribal Governments https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
-        <a href="mailto:?subject=State, Local, and Tribal Governments&amp;body=https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+    <article> 
+     <header> 
+      <h1>Housing</h1> 
+     </header> 
+     <div class="usa-grid-full topic-nav"> 
+      <div class="usa-width-two-thirds topic-nav-box1"> 
+       <div class="topic-nav-photo topic-nav-photo-mortgage"></div> 
+       <div class="topic-nav-tagline"> 
+        <span class="topic-nav-mortgage"><p>Get information and services to help with finding and keeping a home.</p></span> 
        </div> 
       </div> 
-      <!-- social media feature ends--> 
-     </article> 
-    </div> 
+      <div class="usa-width-one-third how-do-i-topic"> 
+       <h2>How do I ...</h2> 
+       <ul>
+        <li><a href="/post-office#item-37197">Change my address</a></li>
+        <li><a href="/finding-home">Find affordable housing</a></li>
+        <li><a href="/repairing-home">Get help repairing my home</a></li>
+       </ul> 
+      </div> 
+     </div> 
+     <section class="infobytpc clearfix row"> 
+      <ul class="dwnlvl">
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/finding-home"> <span class="mocklink">Affordable Rental Housing</span> <p>Get help finding rental assistance or public housing.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/foreclosure"> <span class="mocklink">Foreclosure</span> <p>Learn some of the basics about avoiding and handling foreclosures.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/buying-home"> <span class="mocklink">Help Buying a Home</span> <p>Learn about government programs that make it easier to purchase a home.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/housing-help-audiences"> <span class="mocklink">Housing Help</span> <p>Find housing resources targeted to certain audience groups.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/housing-scams"> <span class="mocklink">Housing Scams</span> <p>Beware of these frauds and scams when buying or foreclosing on a home.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/housing-complaints"> <span class="mocklink">Housing-Related Complaints</span> <p>Find out what to do if you have one of these complaints when buying or renting a home.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/mortgages"> <span class="mocklink">Mortgages</span> <p>Learn some of the basics about mortgages.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/moving"> <span class="mocklink">Moving</span> <p>Find resources to help you when you're moving.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/property-insurance"> <span class="mocklink">Property Insurance</span> <p>Learn about the different types of insurance for your property.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/repairing-home"> <span class="mocklink">Repairing and Improving a Home</span> <p>Look for help with repairing or making improvements to your home.</p> </a> </li>
+       <li class="col-md-4 col-sm-6 col-xs-12"> <a href="/post-office"> <span class="mocklink">U.S. Postal Service Issues</span> <p>Find answers to the most popular Post Office questions.</p> </a> </li> 
+      </ul> 
+     </section> 
+     <div class="usa-grid explore-topics"> 
+      <p><a href="/#tpcs">Explore All Topics and Services on USA.gov</a></p> 
+     </div> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/housing&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Housing https://www.usa.gov/housing"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Housing&amp;body=https://www.usa.gov/housing"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+    </article> 
    </div> 
   </main> 
   <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 

@@ -3,14 +3,14 @@
  <head> 
   <script>
      dataLayer = [ {
-    "pageType": "generic-navigation-page",
+    "pageType": "generic-content-page",
+    "assetIDs": "213209, 35952, 35972",
     "TaxLevel1": "USA.gov",
-    "TaxLevel2": "Government Agencies and Elected Officials",
-    "TaxLevel3": "State, Local, and Tribal Governments",
-    "TaxLevel4": "State, Local, and Tribal Governments",
-    "TaxLevel5": "State, Local, and Tribal Governments",
-    "TaxLevel6": "State, Local, and Tribal Governments",
-    "assetIDs": "null"
+    "TaxLevel2": "About the U.S.",
+    "TaxLevel3": "American Flag",
+    "TaxLevel4": "American Flag",
+    "TaxLevel5": "American Flag",
+    "TaxLevel6": "American Flag"
 } ];
  </script> 
   <!--– Google Tag Manager –--> 
@@ -21,15 +21,15 @@
     })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
   <!--– End Google Tag Manager –--> 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-  <title>State, Local, and Tribal Governments  | USAGov</title> 
-  <link rel="canonical" href="https://www.usa.gov/state-tribal-governments"> 
+  <title>The American Flag  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/flag"> 
   <meta name="google" value="notranslate"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <meta name="description" content="Find contact information for state, local, and tribal governments."> 
-  <meta property="og:url" content="https://www.usa.gov/state-tribal-governments"> 
+  <meta name="description" content="Learn about the American flag and how to display it."> 
+  <meta property="og:url" content="https://www.usa.gov/flag"> 
   <meta property="og:type" content="website"> 
-  <meta property="og:title" content="State, Local, and Tribal Governments | USAGov"> 
-  <meta property="og:description" content="Find contact information for state, local, and tribal governments."> 
+  <meta property="og:title" content="The American Flag | USAGov"> 
+  <meta property="og:description" content="Learn about the American flag and how to display it."> 
   <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <!-- Favicons --> 
@@ -56,10 +56,9 @@ jQuery(document).ready( function () {
 </script> 
   <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-termId = '11006';
+termId = '10668';
 //--><!]]>
 </script> 
-  <script type="text/javascript" src="https://survey.usa.gov/widget/351/invitation.js?target_id=srvyinvt&amp;mobile_target_id=survey-target&amp;stylesheet=https%3A%2F%2Fwww.usa.gov/sites/all/themes/usa/css/popup-survey.css"></script> 
   <script type="text/javascript" src="/js/respond.js"></script> 
   <script type="text/javascript" src="/js/platform.js"></script> 
   <script type="text/javascript" src="/js/menu.js"></script> 
@@ -278,7 +277,6 @@ termId = '11006';
   <div class="hptoggles clearfix"> 
    <div class="container usa-grid"> 
     <ul> 
-     <li class="engtoggle"> <a href="/espanol/agencias-estatales" lang="es" xml:lang="es"> Español </a> </li>
     </ul> 
    </div> 
   </div> 
@@ -297,52 +295,146 @@ termId = '11006';
       </div> 
       <div class="shade dwn" aria-expanded="false"> 
        <header> 
-        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Government Agencies and Elected Officials</span> </a> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">About the U.S.</span> </a> 
          <meta itemprop="position" content="1"> </h2> 
        </header> 
        <ul> 
-        <li> <span> <a href="/federal-agencies" class="url" onmousedown="_sendEvent('Outbound','/federal-agencies','/',0);"> A-Z Index of U.S. Government Agencies </a> </span> </li> 
-        <li> <span> <a href="/about-the-us" class="url" onmousedown="_sendEvent('Outbound','/about-the-us','/',0);"> About the U.S. </a> </span> </li> 
+        <li class="slctd"> <a> <span>American Flag</span> </a> </li> 
         <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
         <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/buy-from-government" class="url" onmousedown="_sendEvent('Outbound','/buy-from-government','/',0);"> Buying from the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/elected-officials" class="url" onmousedown="_sendEvent('Outbound','/elected-officials','/',0);"> Contact Elected Officials </a> </span> </li> 
-        <li> <span> <a href="/contact-by-topic" class="url" onmousedown="_sendEvent('Outbound','/contact-by-topic','/',0);"> Contact Government by Topic </a> </span> </li> 
-        <li> <span> <a href="/forms" class="url" onmousedown="_sendEvent('Outbound','/forms','/',0);"> Forms, by Agency </a> </span> </li> 
-        <li class="slctd"> <a> <span>State, Local, and Tribal Governments</span> </a> </li> 
+        <li> <span> <a href="/statistics" class="url" onmousedown="_sendEvent('Outbound','/statistics','/',0);"> Data and Statistics about the U.S. </a> </span> </li> 
+        <li> <span> <a href="/agencies" class="url" onmousedown="_sendEvent('Outbound','/agencies','/',0);"> Government Agencies and Elected Officials </a> </span> </li> 
+        <li> <span> <a href="/history" class="url" onmousedown="_sendEvent('Outbound','/history','/',0);"> History and Historical Documents </a> </span> </li> 
+        <li> <span> <a href="/laws" class="url" onmousedown="_sendEvent('Outbound','/laws','/',0);"> Laws and Legal Issues </a> </span> </li> 
+        <li> <span> <a href="/life-in-the-us" class="url" onmousedown="_sendEvent('Outbound','/life-in-the-us','/',0);"> Learn About Life in the U.S. </a> </span> </li> 
+        <li> <span> <a href="/presidents" class="url" onmousedown="_sendEvent('Outbound','/presidents','/',0);"> Presidents, Vice Presidents, and First Ladies </a> </span> </li> 
        </ul> 
       </div> 
      </section> 
     </nav> 
+    <!--right container--> 
     <div class="col-md-9 col-sm-12 rightnav"> 
-     <article> 
+     <header> 
+      <h1>The American Flag</h1> 
+      <p>Learn about the American flag and how to display it.</p> 
+     </header> 
+     <div class="wotp"> 
       <header> 
-       <h1>State, Local, and Tribal Governments</h1> 
-       <p>Find contact information for state, local, and tribal governments.</p> 
+       <h2>On This Page</h2> 
       </header> 
-      <section class="infobytpc clearfix row"> 
-       <ul class="dwnlvl"> 
-        <li class="col-md-6 col-xs-12"> <a href="/elected-officials"> <span class="mocklink">Contact Elected Officials</span> <p>Find contact information for federal, state, and local government officials.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-governor"> <span class="mocklink">Governors</span> <p>Contact your state's governor or the mayor of the District of Columbia.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/tribes"> <span class="mocklink">Indian Tribes and Resources for Native Americans</span> <p>Find information about and resources for Native Americans.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/local-governments"> <span class="mocklink">Local Governments</span> <p>Find contact information for local governments by state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-attorney-general"> <span class="mocklink">State Attorneys General</span> <p>Find contact information for the attorney general of each state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-consumer"> <span class="mocklink">State Consumer Protection Offices</span> <p>Find your state's consumer protection office.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/states-and-territories"> <span class="mocklink">State Governments</span> <p>Find contact information for each state or territory.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-courts"> <span class="mocklink">State, County, and Municipal Courts</span> <p>Find contact information for state, county, and municipal courts.</p> </a> </li> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-213209" onclick="document.getElementById('item-213209').focus();"> Infographic: How to Display the American Flag </a> </li> 
+        <li> <a href="#item-35952" onclick="document.getElementById('item-35952').focus();"> The American Flag and Its Flying Rules </a> </li> 
+        <li> <a href="#item-35972" onclick="document.getElementById('item-35972').focus();"> Fly the American Flag at Half-Staff </a> </li> 
        </ul> 
-      </section> 
-      <!-- social media feature begin--> 
-      <div id="sm-share">
-       <span id="share-page">Share This Page:</span> 
-       <div aria-labelledby="share-page"> 
-        <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/state-tribal-governments&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
-        <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=State, Local, and Tribal Governments https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
-        <a href="mailto:?subject=State, Local, and Tribal Governments&amp;body=https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
-       </div> 
       </div> 
-      <!-- social media feature ends--> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-213209"> 
+      <header> 
+       <h2 id="item-213209">Infographic: How to Display the American Flag</h2> 
+      </header> 
+      <p> Learn when and how to display the American flag properly. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/USA_Flag.png" alt="Infographic explaining how to display the American flag properly in different situations."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="Infographic explaining how to display the American flag properly in different situations."> <a href="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/USA_Flag_Hires.png" aria-labelledby="item-213209" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/USA_Flag_Hires.png',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-213209"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-213209" aria-labelledby="item-213209">Show Description of Infographic </button> 
+           <div id="infograph-b-213209" class="usa-accordion-content">
+            <p></p>
+            <p>The U.S. flag stands for our nation and the shared history, pride, principles, and commitment of its people. When we properly display this powerful symbol, we signal our respect for everything it represents.</p>
+            <ul>
+             <li><p>The flag shouldn't be flown in inclement weather unless it’s an all-weather flag.</p></li>
+             <li><p>Flags displayed at night should be properly illuminated.</p></li>
+             <li><p>In a time of national mourning, hang the flag at half-mast.</p></li>
+            </ul>
+            <p>The flag can be flown every day, but it is often flown to show patriotism on these observances:</p>
+            <ul>
+             <li><p>New Year’s Day</p></li>
+             <li><p>Inauguration Day</p></li>
+             <li><p>Lincoln’s Birthday</p></li>
+             <li><p>Washington’s Birthday</p></li>
+             <li><p>Armed Forces Day</p></li>
+             <li><p>Memorial Day</p></li>
+             <li><p>Flag Day</p></li>
+             <li><p>Independence Day</p></li>
+             <li><p>Labor Day</p></li>
+             <li><p>Patriot Day</p></li>
+             <li><p>Constitution Day</p></li>
+             <li><p>Columbus Day</p></li>
+             <li><p>Navy Day</p></li>
+             <li><p>Veterans Day</p></li>
+             <li><p>Thanksgiving Day</p></li>
+             <li><p>Christmas Day</p></li>
+            </ul>
+            <p>When displaying the flag…</p>
+            <ul>
+             <li><p>From your porch, place the union (blue section) at the peak of the staff.</p></li>
+             <li><p>Against a wall or on a window, place the union (blue section) at the top left corner.</p></li>
+             <li><p>On your vehicle, clamp the staff to the right front fender.</p></li>
+             <li><p>With another flag, place the U.S. flag to your left when crossed.</p></li>
+            </ul>
+            <p>Keep your flag completely dry and folded properly — into a triangle, with the union (blue section) visible — before storing it in a well-ventilated area. If the flag is damaged or worn out, it should be disposed of with dignity.</p>
+            <p>The flag should not touch anything below it or rest on the ground.</p>
+            <p>Source: United States Code, Title 4, Chapter 1–The Flag</p>
+            <p>Brought to you by USA.gov</p>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
      </article> 
+     <article role="complementary" aria-labelledby="item-35952"> 
+      <header> 
+       <h2 id="item-35952">The American Flag and Its Flying Rules</h2> 
+      </header> 
+      <p>The <a href="https://www.si.edu/spotlight/flag-day/flag-facts">Flag of the United States of America </a>is a symbol of freedom and liberty to which Americans <a href="https://bensguide.gpo.gov/liberty-bell-1753/35-age-4/apprentice-symbols-of-us-government/86-pledge-of-allegiance-1892">pledge their allegiance.</a> Standing at attention and facing the flag with their right hand over the heart, they recite:</p>
+      <p>"I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all."</p>
+      <p>The flag’s 13 alternating red and white stripes represent the 13 original colonies. Its 50 white stars on a blue field represent the 50 states.&nbsp;</p>
+      <p>The colors on the flag represent:</p>
+      <ul>
+       <li>Red: valor and bravery</li>
+       <li>White: purity and innocence</li>
+       <li>Blue: vigilance, perseverance, and justice</li>
+      </ul>
+      <p><a href="https://www.va.gov/opa/publications/celebrate/flagdisplay.pdf"><strong>Guidelines for Displaying the Flag of the United States</strong></a></p>
+      <p>If you need additional information or have a question, you can email the Department of State’s protocol office at <a href="mailto:protocolhelp@state.gov">protocolhelp@state.gov</a>.</p>
+      <p>To order a U.S. flag that has flown over the Capitol, <a href="https://www.senate.gov/senators/index.htm">contact your senator's office.</a></p>
+      <p><strong>Please note</strong>: According to <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title4/html/USCODE-2011-title4-chap1.htm">U.S. Flag Code</a>, a worn out American flag should be destroyed in a dignified way, preferably by burning.&nbsp;</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35972"> 
+      <header> 
+       <h2 id="item-35972">Fly the American Flag at Half-Staff</h2> 
+      </header> 
+      <p>The United States flag flies at half-staff when the nation is in mourning. These periods of mourning occur by&nbsp;<a href="https://www.whitehouse.gov/presidential-actions/">Presidential proclamation</a>.</p>
+      <p>The President of the United States can direct how the executive branch of the government flies the&nbsp;flag, including&nbsp;<a href="https://www.va.gov/opa/publications/celebrate/halfstaff.pdf">traditions or customs for flying the flag at half-staff</a>.</p>
+      <p>While you can follow how the executive branch flies the flag, it is not a requirement. For instance, a local community, a company, a school district, or a federal agency can decide to have all of their flags at half-staff because of the death of an employee, a student, a mayor, or a local police officer.</p> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/flag&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=The American Flag https://www.usa.gov/flag"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=The American Flag&amp;body=https://www.usa.gov/flag"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: April 5, 2019</p> 
     </div> 
    </div> 
   </main> 

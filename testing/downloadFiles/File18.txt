@@ -1,0 +1,775 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "192580, 36467, 35287, 34972, 35412, 34977, 34867, 35277, 212814",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Jobs and Unemployment",
+    "TaxLevel3": "Labor Laws and Issues",
+    "TaxLevel4": "Labor Laws and Issues",
+    "TaxLevel5": "Labor Laws and Issues",
+    "TaxLevel6": "Labor Laws and Issues"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>Labor Laws and Issues  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/labor-laws"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Learn about some important employment laws and issues."> 
+  <meta property="og:url" content="https://www.usa.gov/labor-laws"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Labor Laws and Issues | USAGov"> 
+  <meta property="og:description" content="Learn about some important employment laws and issues."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10777';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/jobs-and-unemployment" class="url" onmousedown="_sendEvent('Outbound','/jobs-and-unemployment','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Jobs and Unemployment</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li class="slctd"> <a> <span>Labor Laws and Issues</span> </a> </li> 
+        <li> <span> <a href="/job-search" class="url" onmousedown="_sendEvent('Outbound','/job-search','/',0);"> Looking for a New Job </a> </span> </li> 
+        <li> <span> <a href="/volunteer" class="url" onmousedown="_sendEvent('Outbound','/volunteer','/',0);"> Public Service and Volunteer Opportunities </a> </span> </li> 
+        <li> <span> <a href="/jobs-careers" class="url" onmousedown="_sendEvent('Outbound','/jobs-careers','/',0);"> Research Career Fields </a> </span> </li> 
+        <li> <span> <a href="/retirement" class="url" onmousedown="_sendEvent('Outbound','/retirement','/',0);"> Retirement </a> </span> </li> 
+        <li> <span> <a href="/business" class="url" onmousedown="_sendEvent('Outbound','/business','/',0);"> Small Business </a> </span> </li> 
+        <li> <span> <a href="/federal-employees" class="url" onmousedown="_sendEvent('Outbound','/federal-employees','/',0);"> U.S. Government Employees </a> </span> </li> 
+        <li> <span> <a href="/unemployment" class="url" onmousedown="_sendEvent('Outbound','/unemployment','/',0);"> Unemployment Help </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>Labor Laws and Issues</h1> 
+      <p>Learn about some important employment laws and issues. </p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-192580" onclick="document.getElementById('item-192580').focus();"> Discrimination and Harassment at Your Job </a> </li> 
+        <li> <a href="#item-36467" onclick="document.getElementById('item-36467').focus();"> Employment Background Checks </a> </li> 
+        <li> <a href="#item-35287" onclick="document.getElementById('item-35287').focus();"> Family and Medical Leave Act (FMLA) </a> </li> 
+        <li> <a href="#item-34972" onclick="document.getElementById('item-34972').focus();"> Labor Unions </a> </li> 
+        <li> <a href="#item-35412" onclick="document.getElementById('item-35412').focus();"> Minimum Wage, Overtime, and Misclassification </a> </li> 
+        <li> <a href="#item-34977" onclick="document.getElementById('item-34977').focus();"> Unsafe Workplace Complaints and Conditions </a> </li> 
+        <li> <a href="#item-34867" onclick="document.getElementById('item-34867').focus();"> Workers' Compensation </a> </li> 
+        <li> <a href="#item-35277" onclick="document.getElementById('item-35277').focus();"> Wrongful Discharge/Termination of Employment </a> </li> 
+        <li> <a href="#item-212814" onclick="document.getElementById('item-212814').focus();"> Youth Labor Laws </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-192580"> 
+      <header> 
+       <h2 id="item-192580">Discrimination and Harassment at Your Job</h2> 
+      </header> 
+      <p>The <a href="https://www.eeoc.gov/">Equal Employment Opportunity Commission (EEOC)</a> enforces <a href="https://www.eeoc.gov/laws/statutes/index.cfm">federal laws prohibiting employment discrimination</a>. These laws protect employees and job applicants against:</p>
+      <ul>
+       <li><p>Discrimination, harassment, and unfair treatment in the workplace by anyone because of:</p>
+        <ul>
+         <li><p>Race</p></li>
+         <li><p>Color</p></li>
+         <li><p>Religion</p></li>
+         <li><p>Sex (including gender identity, transgender status, and sexual orientation)</p></li>
+         <li><p>Pregnancy</p></li>
+         <li><p>National origin</p></li>
+         <li><p>Age (40 or older)</p></li>
+         <li><p>Disability</p></li>
+         <li><p>Genetic information</p></li>
+        </ul></li>
+       <li><p>Being denied reasonable workplace accommodations for disability or religious beliefs</p></li>
+       <li><p>Retaliation because they:</p>
+        <ul>
+         <li><p>Complained about job discrimination</p></li>
+         <li><p>Helped with an investigation or lawsuit</p></li>
+        </ul></li>
+      </ul>
+      <h3>Not All Employers Are Subject to EEOC Laws</h3>
+      <p><a href="https://www.eeoc.gov/employees/coverage.cfm">An employer must have a certain number of employees to be covered by EEOC-enforced laws.</a> This number varies based on the type of employer and the kind of discrimination alleged.</p>
+      <ul>
+       <li><p>Businesses, state, and local governments must follow most EEOC laws if they have 15 or more employees.</p></li>
+       <li><p>Federal agencies must follow all EEOC laws, no matter how many employees they have.</p></li>
+      </ul>
+      <h3>Filing a Charge with the EEOC</h3>
+      <p>If you are being harassed or discriminated against, you can <a href="http://www.eeoc.gov/employees/charge.cfm">file a charge</a> with the EEOC. In most cases, you must file within 180 days of the event. You can:</p>
+      <ul>
+       <li><p>File a charge online through the <a href="https://publicportal.eeoc.gov/portal/Login.aspx?ReturnUrl=%2fportal%2f">EEOC public portal</a>.</p></li>
+      </ul>
+      <ul>
+       <li><p>File a charge through the closest <a href="https://www.eeoc.gov/field/index.cfm">EEOC field office</a>.</p></li>
+      </ul>
+      <ul>
+       <li><p>Contact the EEOC at 1-800-669-4000 or info@eeoc.gov to learn about the filing process.</p></li>
+      </ul>
+      <p>Federal employees and job applicants have&nbsp;<a href="https://www.eeoc.gov/federal/fed_employees/complaint_overview.cfm">different complaint procedures</a>.</p>
+      <h3>Filing a Complaint with State or Local Government or Tribal Employment Rights Office</h3>
+      <p>Many state and local governments have their own anti-discrimination laws. These laws may offer extra protections beyond federal laws.</p>
+      <p>Some state laws:</p>
+      <ul>
+       <li><p>Apply to businesses with only five or six employees</p></li>
+       <li><p>Prohibit discrimination based on whether you're married or have children</p></li>
+       <li><p>Have different deadlines for filing a charge</p></li>
+       <li><p>Have different standards for deciding whether you’re covered by them</p></li>
+      </ul>
+      <p>To file a complaint, find your state, local. or tribal employment rights office:</p>
+      <ul>
+       <li><p><a href="https://www.eeoc.gov/field/">Enter your zip code or choose from the list to find your nearest EEOC field office.</a></p>
+        <ul>
+         <li><p>Select “State and Local Agencies” from the office information list in the box on the left.</p></li>
+        </ul></li>
+      </ul>
+      <p>Many state laws have more protections for nursing mothers than <a href="https://www.dol.gov/whd/nursingmothers/">federal law</a> requires.&nbsp;<a href="https://www.dol.gov/whd/contacts/state_of.htm">State labor offices</a> enforce these laws.</p>
+      <h3>Filing a Lawsuit</h3>
+      <p>If you're a victim of job discrimination or harassment, you can <a href="https://www.eeoc.gov/employees/lawsuit.cfm">file a lawsuit</a>. If the discrimination violates federal law, you must first file a charge with the EEOC. (This doesn't apply to cases of unequal pay between men and women.)</p>
+      <p>You may decide to sue if the EEOC can’t help you. In either case, look for an attorney who specializes in employment law. You can check with:</p>
+      <ul>
+       <li><p><a href="https://www.eeoc.gov/field">Your EEOC field office</a></p></li>
+      </ul>
+      <ul>
+       <li><p>American Bar Association</p></li>
+      </ul>
+      <ul>
+       <li><p><a href="http://exchange.nela.org/network/findalawyer">National Employment Lawyers Association</a></p></li>
+      </ul>
+      <h3>Laws that the EEOC Enforces</h3>
+      <p>Federal employment discrimination laws include:</p>
+      <ul>
+       <li><p><a href="https://www.eeoc.gov/laws/statutes/ada.cfm">The Americans with Disabilities Act</a> (ADA) – prohibiting discrimination against workers with disabilities and mandating reasonable accommodations</p></li>
+       <li><p><a href="https://www.eeoc.gov/laws/statutes/adea.cfm">The Age Discrimination in Employment Act of 1967</a> (ADEA)</p></li>
+       <li><p><a href="https://www.eeoc.gov/laws/statutes/titlevii.cfm">Title VII of the Civil Rights Act of 1964</a> (Title VII) – prohibiting discrimination based on:</p>
+        <ul>
+         <li><p>Race</p></li>
+         <li><p>Color</p></li>
+         <li><p>Religion</p></li>
+         <li><p>National origin</p></li>
+         <li><p>Sex (including sexual orientation and gender identity). Learn more about <a href="https://www.eeoc.gov/eeoc/newsroom/wysk/enforcement_protections_lgbt_workers.cfm">harassment and discrimination protections</a> for LGBTQ workers. These protections apply <a href="https://www.eeoc.gov/eeoc/newsroom/wysk/enforcement_protections_lgbt_workers.cfm#other">regardless of any contrary state or local laws</a>.</p></li>
+        </ul></li>
+       <li><p><a href="https://www.eeoc.gov/laws/types/equalcompensation.cfm">The Equal Pay Act</a> (EPA) – requiring equal pay for equal work by men and women</p></li>
+      </ul>
+      <h3>Harassment</h3>
+      <p><a href="http://www.eeoc.gov/laws/types/harassment.cfm">Harassment</a> is unwelcome conduct based on:</p>
+      <ul>
+       <li><p>Race</p></li>
+       <li><p>Color</p></li>
+       <li><p>Religion</p></li>
+       <li><p>Sex</p></li>
+       <li><p>National origin</p></li>
+       <li><p>Age</p></li>
+       <li><p>Pregnancy</p></li>
+       <li><p>Disability</p></li>
+       <li><p>Genetic information</p></li>
+      </ul>
+      <p>It can include:</p>
+      <ul>
+       <li><p>Offensive jokes</p></li>
+      </ul>
+      <ul>
+       <li><p>Physical assaults or threats</p></li>
+      </ul>
+      <ul>
+       <li><p>Ridicule or insults</p></li>
+      </ul>
+      <ul>
+       <li><p>Display of offensive objects or pictures</p></li>
+      </ul>
+      <p><a href="https://www.eeoc.gov/laws/types/sexual_harassment.cfm">Sexual harassment</a> may include:</p>
+      <ul>
+       <li><p>Unwelcome sexual advances</p></li>
+       <li><p>Requests for sexual favors</p></li>
+       <li><p>Other verbal or physical harassment of a sexual nature</p></li>
+       <li><p>Offensive remarks about a person's sex</p></li>
+      </ul>
+      <p>Harassment becomes illegal when:</p>
+      <ul>
+       <li><p>It creates a hostile or abusive work environment</p></li>
+       <li><p>The victim gets fired or demoted for refusing to put up with it</p></li>
+      </ul>
+      <h3>Protection from Retaliation</h3>
+      <p><a href="https://www.eeoc.gov/laws/types/retaliation.cfm">EEOC laws protect</a> employees and job applicants from retaliation. For example, it’s unlawful to punish people for:</p>
+      <ul>
+       <li><p>Filing or being a witness in an EEO charge or investigation</p></li>
+      </ul>
+      <ul>
+       <li><p>Talking to a supervisor or manager about discrimination or harassment</p></li>
+      </ul>
+      <ul>
+       <li><p>Refusing to follow orders that would result in discrimination</p></li>
+      </ul>
+      <ul>
+       <li><p>Resisting sexual advances, or intervening to protect others</p></li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36467"> 
+      <header> 
+       <h2 id="item-36467">Employment Background Checks</h2> 
+      </header> 
+      <p>Local, state, or federal government agencies and private employers may perform background checks when they hire an employee.</p>
+      <p>The FBI has contact information for the&nbsp;<a href="https://www.fbi.gov/services/cjis/identity-history-summary-checks/state-identification-bureau-listing">state agencies that conduct background checks</a>.&nbsp;</p>
+      <h3>Request a Copy of a Federal Background Check or an Identification Record</h3>
+      <p>The FBI website has information on&nbsp;how to request a <a href="http://www.fbi.gov/about-us/cjis/identity-history-summary-checks/identity-history-summary-checks">federal background check or an identification record request</a>.</p>
+      <p>Following the information on how to request a federal background check, you'll find information on&nbsp;how to challenge inaccurate or incomplete information that appears on your record.</p>
+      <h3>Arrest Records</h3>
+      <p>If you are looking for information on arrest records, contact the appropriate law enforcement agency.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35287"> 
+      <header> 
+       <h2 id="item-35287">Family and Medical Leave Act (FMLA)</h2> 
+      </header> 
+      <p>The <a href="http://www.dol.gov/whd/fmla/">Family and Medical Leave Act (FMLA)</a> is a federal labor law that allows an eligible employee to take an extended leave of absence from work due to:</p>
+      <ul>
+       <li>Illness</li>
+       <li>Caring for a qualifying sick family member</li>
+       <li>The birth or adoption of a child</li>
+       <li>Military caregiving or other emergencies related to a family member's active duty service</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>This unpaid leave is guaranteed by law and is available to workers at companies with 50 or more employees. <a href="https://www.dol.gov/whd/fmla/fact_sheets.htm">FMLA fact sheets</a> can help you understand your rights and coverage.</p>
+      <h3>Questions or Reporting a Violation of the FMLA</h3>
+      <p>If you have unanswered questions about the FMLA or you believe someone has violated your rights under FMLA, <a href="http://www.dol.gov/whd/contact_us.htm">contact the Department of Labor’s Wage and Hour Division</a> for assistance.</p>
+      <h3>Employer Information</h3>
+      <p>Employers with FMLA eligible employees have specific <a href="https://webapps.dol.gov/elaws/whd/fmla/8.aspx">rights and responsibilities</a> under the law. Learn&nbsp;<a href="https://webapps.dol.gov/elaws/whd/fmla/5.aspx">how different types of employers may be covered</a> by the FMLA.</p>
+      <p>If you are an employer with concerns about false FMLA leave, <a href="http://www.dol.gov/whd/contact_us.htm">contact the Wage and Hour Division</a> with any questions about FMLA compliance and seek the advice of your company's legal and human resources departments.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-34972"> 
+      <header> 
+       <h2 id="item-34972">Labor Unions</h2> 
+      </header> 
+      <p>A labor union or trade union is an organization of workers which bargains with employers on behalf of union members and negotiates labor contracts. Elected union leaders negotiate specific items of employment including:</p>
+      <ul>
+       <li>Pay and benefits</li>
+       <li>Complaint procedures</li>
+       <li>Hiring and firing guidelines</li>
+       <li>Help with unfair labor practices</li>
+      </ul>
+      <p>Agreements union leaders negotiate are binding on the union members, the employer, and in some cases, on other non-union workers. Labor unions can be found in the private sector, federal agencies or at a state or local government place of employment.</p>
+      <h3>Private Sector (Non-Government) Employees</h3>
+      <p>The <a href="https://www.nlrb.gov/rights-we-protect/rights/employee-rights">National Labor Relations Board (NLRB)</a> is an independent federal agency which has oversight to protect the rights of most private-sector (non-government) employees to organize and to determine whether to have unions as their bargaining representative.</p>
+      <ul>
+       <li>If you and your co-workers want to start a union or join or end your representation in an existing one, file a&nbsp;<a href="https://www.nlrb.gov/how-we-work/fillable-forms">petition form</a>. Your petition must show the support of at least 30 percent of your fellow employees.</li>
+       <li>If you have a complaint about a union, contact your nearest&nbsp;<a href="https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices">NLRB regional office</a>.</li>
+       <li>The NLRB does not handle complaints or inquiries about certain forms of employment discrimination such as race, sex, issues regarding workplace safety, entitlement to overtime pay, or family and medical leave. Federal and state laws and agencies regulate those forms of employment discrimination. Visit the <a href="https://www.nlrb.gov/resources/related-agencies">related agencies section of the NLRB website</a> to see which agency can help with your specific complaint. &nbsp;</li>
+      </ul>
+      <h3>Federal and State Government Employees</h3>
+      <ul>
+       <li>If you are a federal employee&nbsp;and have a question or complaint about federal unions, contact the&nbsp;<a href="https://www.flra.gov/contact">Federal Labor Relations Authority (FLRA)</a>,&nbsp;an independent federal agency responsible for the labor-management relations program. It establishes policies and resolves disputes for most federal employees and their managers.</li>
+       <li>If you and your fellow employees want to be represented by a union, contact an <a href="https://www.flra.gov/ogc-regional-offices">FLRA regional office</a> to see if one already exists at your agency. If one does not exist and you are interested in representation, file a <a href="https://www.flra.gov/webfm_send/581">petition form</a> with your closest FLRA regional office.</li>
+       <li>If you are a state or local government employee and have a question about unions, contact the information officer of the <a href="https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices">NLRB regional office</a> closest to your job.&nbsp;</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35412"> 
+      <header> 
+       <h2 id="item-35412">Minimum Wage, Overtime, and Misclassification</h2> 
+      </header> 
+      <p>The U.S. Department of Labor's&nbsp;<a href="https://www.dol.gov/whd/">Wage and Hour Division (WHD)</a>&nbsp;administers and enforces some of the nation's most comprehensive labor laws, including:</p>
+      <ul>
+       <li><a href="https://www.dol.gov/whd/minimumwage.htm">Minimum wage</a>&nbsp;</li>
+       <li><a href="https://www.dol.gov/whd/overtime_pay.htm">Overtime</a></li>
+       <li><a href="https://www.dol.gov/whd/workers/misclassification/">Misclassification</a></li>
+      </ul>
+      <h3>Minimum Wage</h3>
+      <ul>
+       <li>The federal minimum wage is the minimum hourly pay for many workers. Tipped employees may have a different wage.&nbsp;</li>
+       <li>The minimum wage is currently $7.25 per hour for covered nonexempt employees, effective July 24, 2009. Learn more about the minimum wage in the&nbsp;<a href="https://www.dol.gov/whd/flsa/">Fair Labor Standards Act (FLSA)</a>.</li>
+       <li>Many states and cities also have minimum wage laws. Where federal and state laws&nbsp;have different minimum wage rates, the higher wage applies.&nbsp;<a href="https://www.dol.gov/whd/minwage/america.htm">Find your state's minimum wage information</a>&nbsp;and&nbsp;<a href="https://www.dol.gov/whd/state/tipped.htm">minimum wage information by state for tipped employees</a>.&nbsp;</li>
+       <li>Contact your&nbsp;<a href="https://www.dol.gov/whd/contacts/state_of.htm">State Labor Office</a>&nbsp;with questions about minimum wage.</li>
+      </ul>
+      <h3>Overtime Pay</h3>
+      <p>An employer may require or permit a worker to work&nbsp;<a href="https://www.dol.gov/whd/overtime_pay.htm">overtime</a>. The&nbsp;<a href="https://www.dol.gov/whd/flsa/">Fair Labor Standards Act</a>&nbsp;requires that workers who clock more than 40 hours per week receive overtime pay with few exceptions.</p>
+      <ul>
+       <li><a href="https://www.dol.gov/general/topic/wages/overtimepay">Learn more&nbsp;about overtime pay.</a></li>
+       <li><a href="https://www.dol.gov/whd/overtime_pay.htm">Download fact sheets and see e-tools</a>&nbsp;for overtime pay guidance.</li>
+       <li>Visit the&nbsp;<a href="https://webapps.dol.gov/elaws/faq/esa/flsa/011.htm">Fair Labor Standards Act Advisor</a>&nbsp;for exemption classifications and state legal tools.</li>
+      </ul>
+      <h3>Misclassification</h3>
+      <p>Misclassification is when an employer declares that a worker is an independent contractor instead of an employee, even if that worker should be classified as an employee under the law. This can affect a worker’s pay, protections, and benefits as well as cause tax problems for both businesses and workers.</p>
+      <ul>
+       <li>See a&nbsp;<a href="https://www.dol.gov/whd/workers/Misclassification/misclassification-facts.pdf">fact sheet</a>&nbsp;about misclassification.</li>
+       <li>Find <a href="https://www.dol.gov/whd/workers/Misclassification/">more resources about misclassification</a>.&nbsp;</li>
+       <li>If you’ve been misclassified, <a href="https://www.dol.gov/whd/contacts/state_of.htm">select your state</a>&nbsp;for more information or <a href="https://www.dol.gov/whd/contacts/state_of.htm">file a complaint</a>&nbsp;with the Department of Labor.</li>
+      </ul>
+      <p>Labor laws vary by state. Contact&nbsp;<a href="https://www.usa.gov/states-and-territories">the state government</a>&nbsp;for information about specific laws where you work.&nbsp;</p>
+      <ul>
+       <li><a href="https://www.dol.gov/whd/state/state.htm">Learn more about each state’s labor laws from the Department of Labor.</a></li>
+       <li><a href="https://www.dol.gov/whd/contacts/state_of.htm">Find your state labor office.</a></li>
+       <li>If you're a business owner, see the easy-to-use&nbsp;<a href="https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant">state labor law guides</a>&nbsp;from the Small Business Administration.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-34977"> 
+      <header> 
+       <h2 id="item-34977">Unsafe Workplace Complaints and Conditions</h2> 
+      </header> 
+      <p>Several different federal government agencies handle questions or complaints about workplace issues, depending on the nature of the issue:</p>
+      <ul>
+       <li>Mining:&nbsp;Contact the&nbsp;<a href="https://www.msha.gov/">Mine Safety and Health Administration (MSHA)</a>&nbsp;at <a href="tel:18007461553">1-800-746-1553</a> or file online to&nbsp;<a href="https://lakmshaegov01.msha.gov/HazardousConditionComplaint.aspx">report mine safety or health hazards</a>.</li>
+       <li>Interstate Trucking:
+        <ul>
+         <li>For complaints about safety issues on the road, such as being forced to drive in unsafe conditions, fill out the online&nbsp;<a href="http://nccdb.fmcsa.dot.gov/">complaint form</a>&nbsp;or call&nbsp;<a href="tel:18883687238">1-888-DOT-SAFT</a>&nbsp;(<a href="tel:18883687238">1-888-368-7238</a>).</li>
+         <li>If you have a complaint about safety issues occurring inside a trucking building or facility, there are a variety of ways for workers to&nbsp;<a href="https://www.osha.gov/workers/file_complaint.html">file a complaint</a>&nbsp;with the Occupational Safety &amp; Health Administration (OSHA).&nbsp;</li>
+        </ul></li>
+       <li>Aviation: Contact the&nbsp;<a href="https://www.faa.gov/">Federal Aviation Administration (FAA)</a>&nbsp;or use the&nbsp;<a href="https://hotline.faa.gov">online complaint form</a>.</li>
+       <li>Most Other Industries:&nbsp;<a href="https://www.osha.gov/workers/file_complaint.html">File a complaint</a>&nbsp;with the Occupational Safety &amp; Health Administration (OSHA). Please note: OSHA may refer you to a state agency.</li>
+      </ul>
+      <h3>Workers’ Rights</h3>
+      <p>As an employed worker, you’re entitled to certain&nbsp;<a href="https://www.osha.gov/workers/index.html">rights in the workplace</a>&nbsp;- especially ones that keep you safe. These include the right to:</p>
+      <ul>
+       <li>Be trained in a language that you understand</li>
+       <li>Be provided with the necessary safety equipment</li>
+       <li>Report injury or illness</li>
+       <li>Voice your concern over unsafe working conditions without fear of retaliation</li>
+      </ul>
+      <p>In order to improve safety in the workplace, the Occupational Safety &amp; Health Administration (OSHA)&nbsp;<a href="https://www.osha.gov/recordkeeping/finalrule/index.html">updated its existing rules regarding how employers must report injury or illness in the workplace</a>.</p>
+      <p>As of January 1, 2017, certain employers are required to electronically submit injury or illness data. Doing this allows OSHA to improve enforcement of workplace safety requirements and provide valuable information online for workers, job seekers, customers, and the general public. The new rule also prohibits employers from discouraging their workers from reporting an injury or illness.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-34867"> 
+      <header> 
+       <h2 id="item-34867">Workers' Compensation</h2> 
+      </header> 
+      <p>Workers' compensation laws protect employees who get hurt on the job or sick from it. The laws establish workers’ comp, a form of insurance that employers pay for. These laws vary from state to state and for federal employees. In general, workers’ comp provides:</p>
+      <ul>
+       <li><p>Coverage for workers’ medical expenses</p></li>
+       <li><p>Compensation for lost wages while a worker is out recovering &nbsp;</p></li>
+       <li><p>Benefits for dependents of workers who died from job-related hazards</p></li>
+      </ul>
+      <h3>Private Sector and State or Local Government Employees</h3>
+      <p>If you get hurt working for a private company or state or local government, seek help through your state. Your<a href="http://www.dol.gov/owcp/dfec/regs/compliance/wc.htm"> state workers' compensation program</a> can help you file a claim. If your claim is denied, you can appeal.</p>
+      <h3>Longshoremen, Harbor Workers, Coal Miners, and Federal Employees</h3>
+      <p>Federal laws protect longshoremen, harbor workers, &nbsp;coal miners, and federal employees. Contact the <a href="http://www.dol.gov/owcp/owcpkeyp.htm">workers' compensation program</a> that applies to you for help filing a claim.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35277"> 
+      <header> 
+       <h2 id="item-35277">Wrongful Discharge/Termination of Employment</h2> 
+      </header> 
+      <p>If you feel that you have been wrongfully fired from a job or let go from an employment situation, you may wish to&nbsp;learn more about your state's wrongful discharge&nbsp;laws.</p>
+      <ul>
+       <li>Wrongful termination or wrongful discharge laws vary from state to state.</li>
+       <li>Some states are "employment-at-will" states, which means that if there is no employment contract (or collective bargaining agreement), an employer can let an employee go for any reason, or no reason, with or without notice, as long as the discharge does not violate a law.</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>If you feel you have been wrongfully discharged or terminated from employment, you may:&nbsp;</p>
+      <ul>
+       <li>Contact your&nbsp;<a href="http://www.dol.gov/whd/contacts/state_of.htm">State Labor Office</a>&nbsp;for more information on wrongful termination laws in your state.</li>
+       <li>Seek&nbsp;legal counsel&nbsp;if your employer terminated you for any reason not covered under state or federal law.</li>
+       <li>You may also be eligible for&nbsp;<a href="https://www.dol.gov/general/topic/termination">unemployment compensation and extension of your health care benefits</a>.</li>
+      </ul>
+      <h3>Employers</h3>
+      <p>If you are an employer seeking information about legal termination of employees, you may wish to contact both the&nbsp;<a href="https://www.eeoc.gov/">Equal Employment Opportunity Commission (EEOC)</a>&nbsp;and your&nbsp;<a href="http://www.dol.gov/whd/contacts/state_of.htm">State Labor Office</a>&nbsp;to ensure you do not violate any federal or state labor laws. You may wish to consult with a&nbsp;licensed attorney.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-212814"> 
+      <header> 
+       <h2 id="item-212814">Youth Labor Laws</h2> 
+      </header> 
+      <h3>Types of Work, Hours, and Pay</h3>
+      <p>If you are under 18 and want to get a job it is important to know what rights and restrictions you have as a worker. Youth labor laws are designed to protect you from unsafe and inappropriate work experiences and to make sure that your job doesn’t interfere with your schooling. &nbsp;These laws establish:</p>
+      <ul>
+       <li>What types of work you’re allowed to do</li>
+       <li>When you’re allowed to work</li>
+       <li>How many hours per week you’re allowed to work</li>
+       <li>How much you should be paid</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>The Department of Labor’s <a href="https://www.youthrules.gov/">Youth Rules</a> website helps you:</p>
+      <ul>
+       <li><a href="https://www.youthrules.gov/know-the-limits/index.htm">Know the Rules</a>: Select your age and learn what work you’re allowed to do and when you’re allowed to work. &nbsp;</li>
+       <li><a href="https://www.youthrules.gov/support/index.htm">Find Support</a>: Learn about other agencies that can help you and learn how to file a complaint.</li>
+      </ul>
+      <p>It also helps <a href="https://www.youthrules.gov/for-employers/index.htm">employers, parents and educators</a> stay informed.</p>
+      <p>Youth Rules also has a <a href="https://www.youthrules.gov/law-library/index.htm">Law Library</a>, which includes both federal and state laws. The rules for young employees are different depending on your age and the <a href="https://www.youthrules.gov/law-library/state-laws/index.htm">state you live in</a>. When federal and state rules are different, the rules that provide the most protection apply.</p>
+      <h3>Safety and Health</h3>
+      <p>Employers must follow all <a href="https://www.osha.gov/">Occupational Safety &amp; Health Administration</a> (OSHA) standards to keep you from being injured at work. In addition to following the federal and state rules on youth labor, <a href="https://www.osha.gov/youngworkers/workers.html">employers must</a>:</p>
+      <ul>
+       <li>Provide a hazard-free workplace</li>
+       <li>Provide training on potential workplace hazards</li>
+       <li>Provide you with resources to answer your questions on safety or health in the workplace</li>
+       <li>Tell you what to do if you get hurt on the job &nbsp;</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>OSHA provides <a href="https://www.osha.gov/youngworkers/resources.html">resources for young workers</a>, including information on how to protect yourself in restaurant, agricultural, construction, and landscaping jobs.</p>
+      <p>You can find statistics and other details on job-related hazards and injuries at the <a href="https://www.cdc.gov/niosh/topics/youth/default.html">National Institute for Occupational Safety and Health Young Worker</a>&nbsp;site.</p>
+      <h3>Equal Employment Opportunities</h3>
+      <p><a href="https://www.eeoc.gov/youth/">Youth@Work</a>, a division of the Equal Employment Opportunity Commission (EEOC), &nbsp;will help you:</p>
+      <ul>
+       <li>Learn your rights as a young worker</li>
+       <li>Identify workplace discrimination</li>
+       <li>Learn what laws are enforced by the EEOC</li>
+       <li>File a complaint if you suspect workplace discrimination</li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/labor-laws&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=Labor Laws and Issues https://www.usa.gov/labor-laws"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=Labor Laws and Issues&amp;body=https://www.usa.gov/labor-laws"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: March 29, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://usa.gov/espanol/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>USAGov is the Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

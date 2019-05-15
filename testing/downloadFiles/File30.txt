@@ -1,0 +1,691 @@
+<!doctype html>
+<html lang="en" xml:lang="en">
+ <head> 
+  <script>
+     dataLayer = [ {
+    "pageType": "generic-content-page",
+    "assetIDs": "214337, 35592, 35217, 35382, 35587, 36662, 35432, 36902, 214358, 213886, 213884",
+    "TaxLevel1": "USA.gov",
+    "TaxLevel2": "Money and Taxes",
+    "TaxLevel3": "Taxes",
+    "TaxLevel4": "How to File Your Federal Taxes",
+    "TaxLevel5": "How to File Your Federal Taxes",
+    "TaxLevel6": "How to File Your Federal Taxes"
+} ];
+ </script> 
+  <!--– Google Tag Manager –--> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
+  <!--– End Google Tag Manager –--> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>How to File Your Federal Taxes  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/file-taxes"> 
+  <meta name="google" value="notranslate"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="description" content="Taxes are due on April 15, 2019 (April 17 in Maine and Massachusetts). The new tax law has changed many forms, credits, and deductions. Check this page carefully before filing your federal income tax return."> 
+  <meta property="og:url" content="https://www.usa.gov/file-taxes"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="How to File Your Federal Taxes | USAGov"> 
+  <meta property="og:description" content="Taxes are due on April 15, 2019 (April 17 in Maine and Massachusetts). The new tax law has changed many forms, credits, and deductions. Check this page carefully before filing your federal income tax return."> 
+  <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
+  <!-- Favicons --> 
+  <link rel="apple-touch-icon-precomposed" href="/images/USA_Fav_Icon152_default.png"> 
+  <link rel="icon" sizes="16x16" href="/images/USA_Fav_Icon16.ico"> 
+  <link rel="icon" sizes="32x32" href="/images/favicon.ico"> 
+  <link rel="icon" sizes="152x152" href="/images/USA_Fav_Icon152_default.png"> 
+  <!-- Styles --> 
+  <link rel="stylesheet" href="/css/style.css"> 
+  <link rel="stylesheet" href="/css/pagelevelsurvey.css"> 
+  <link rel="stylesheet" href="/css/print.css" media="print"> 
+  <!-- Scripts --> 
+  <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script> 
+  <script type="text/javascript" src="/js/media_link_alter.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+/* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
+jQuery(document).ready( function () {
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","doc":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOC, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","docx":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">DOCX, <a href=\"https:\/\/support.microsoft.com\/en-us\/help\/891090\/how-to-obtain-the-latest-word-viewer\">Download Word Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+});
+
+//--><!]]>
+</script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+termId = '10859';
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async></script> 
+  <script type="text/javascript" src="/js/respond.js"></script> 
+  <script type="text/javascript" src="/js/platform.js"></script> 
+  <script type="text/javascript" src="/js/menu.js"></script> 
+  <script type="text/javascript" src="/js/standardsModifications.js"></script> 
+  <script type="text/javascript" src="/js/modal.js"></script> 
+  <script type="text/javascript" src="/js/states.js"></script> 
+  <script type="text/javascript" src="/js/homepage.js"></script> 
+  <script type="text/javascript" src="/js/uswds.js"></script> 
+  <!--[if lte IE 8]>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4BZFD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <noscript> 
+   <div style="background-color:#c61f0c; color:#fff; margin:0; padding-left:1.3rem; width:100%; padding-top:.5%; min-height:7rem;"> 
+    <span style="display:inline-block; padding-top:.2%; padding-bottom:.2%; padding-left:4.5rem; padding-right:5rem; background-image:url(../images/Icon_Alert.png); background-repeat:no-repeat; background-size:1.4em; background-position:1% 42%; line-height:20px; font-size:medium;"> <p>Please enable JavaScript in your web browser; otherwise some parts of this site might not work properly.</p> </span> 
+   </div> 
+  </noscript> 
+  <a class="usa-skipnav" href="#skiptarget" onclick="document.getElementById('#skiptarget').focus();"> Skip to main content </a> 
+  <header class="usa-header usa-header-extended" role="banner" data-stickyheight="22"> 
+   <div class="usa-banner"> 
+    <div class="usa-accordion"> 
+     <header class="usa-banner-header"> 
+      <div class="usa-grid usa-banner-inner"> 
+       <img src="../../images/favicon-57.png" alt="U.S. flag"> 
+       <p> An official website of the United States government </p> 
+       <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner"> <span class="usa-banner-button-text"> Here's how you know </span> </button> 
+      </div> 
+     </header> 
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner"> 
+      <div class="usa-banner-guidance-gov usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-dot-gov.svg" alt="Dot gov"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>The .gov means it’s official.</strong> <br> Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. </p> 
+       </div> 
+      </div> 
+      <div class="usa-banner-guidance-ssl usa-width-one-half"> 
+       <img class="usa-banner-icon usa-media_block-img" src="../../images/icon-https.svg" alt="SSL"> 
+       <div class="usa-media_block-body"> 
+        <p> <strong>This site is secure.</strong> <br> The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-navbar"> 
+    <div class="usa-logo" id="logo"> 
+     <em class="usa-logo-text"> <a href="/" title="Home"><img src="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Logo_USAGov.png" alt="USAGov Logo"></a> </em> 
+    </div> 
+    <button class="usa-menu-btn">MENU</button> 
+   </div> 
+   <nav role="navigation" class="usa-nav"> 
+    <div class="usa-nav-inner"> 
+     <div class="usa-nav-secondary"> 
+      <button class="usa-nav-close">Close</button> 
+      <form action="https://search.usa.gov/search" method="get" name="search_form" accept-charset="UTF-8" class="usa-search usa-search-small"> 
+       <div role="search"> 
+        <label class="usa-sr-only" for="search-field-small">Search</label> 
+        <input id="affiliate" name="affiliate" type="hidden" value="usagov"> 
+        <input id="search-field-small" type="search" name="query" placeholder="Search All Government" onfocus="this.placeholder = ''" class="text usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" aria-autocomplete="list" aria-haspopup="true"> 
+        <button type="submit"> <span class="usa-sr-only">Search</span> </button> 
+       </div> 
+      </form> 
+      <ul class="usa-unstyled-list usa-nav-secondary-links"> 
+       <li class="js-search-button-container"> <button class="usa-header-search-button js-search-button">Search</button> </li> 
+       <li> <a href="/phone">1-844-USA-GOV1</a> </li> 
+      </ul> 
+     </div> 
+     <ul class="usa-nav-primary usa-accordion usa-accordion-escapable"> 
+      <li> <a class="usa-nav-link" onclick="location.hash='tpcs'; location.reload();" href="/#tpcs"> <span>All Topics and Services</span> </a> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1"> <span>About the U.S.</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li>
+          <li><a href="/statistics">Data and Statistics about the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/history">History and Historical Documents</a></li>
+          <li><a href="/flag">American Flag</a></li>
+          <li><a href="/life-in-the-us">Learn About Life in the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/presidents">Presidents, Vice Presidents, and First Ladies</a></li>
+          <li><a href="/agencies">Government Agencies and Elected Officials</a></li>
+          <li><a href="/laws">Laws and Legal Issues</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-flag"> <a class="usa-button" href="/about-the-us">About the U.S.</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2"> <span>Benefits, Grants, Loans</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits">Benefits</a></li>
+          <li><a href="/help-with-bills">Help with Bills</a></li>
+          <li><a href="/grants">Grants and Loans</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/food-help">Food Assistance</a></li>
+          <li><a href="/about-social-security">Social Security Questions</a></li>
+          <li><a href="/finding-home">Affordable Rental Housing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/financial-aid">Financial Aid for Students</a></li>
+          <li><a href="/military-assistance">Military Programs and Benefits</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unemployment">Unemployment Help</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-benefit"> <a class="usa-button" href="/benefits-grants-loans">Benefits, Grants, Loans</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3"> <span>Government Agencies and Elected Officials</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-3"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-agencies">A-Z Index of U.S. Government Agencies</a></li>
+          <li><a href="/state-tribal-governments">State, Local, and Tribal Governments</a></li>
+          <li><a href="/elected-officials">Contact Elected Officials</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/forms">Forms, by Agency</a></li>
+          <li><a href="/contact-by-topic">Contact Government by Topic</a></li>
+          <li><a href="/buy-from-government">Buying from the U.S. Government</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/about-the-us">About the U.S.</a></li>
+          <li><a href="/branches-of-government">Branches of the U.S. Government</a></li>
+          <li><a href="/budget">Budget of the U.S. Government</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-agencies"> <a class="usa-button" href="/agencies">Government Agencies and Elected Officials</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4"> <span>Jobs and Unemployment</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-4"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/job-search">Looking for a New Job</a></li>
+          <li><a href="/unemployment">Unemployment Help</a></li>
+          <li><a href="/labor-laws">Labor Laws and Issues</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/federal-employees">U.S. Government Employees</a></li>
+          <li><a href="/retirement">Retirement</a></li>
+          <li><a href="/volunteer">Public Service and Volunteer Opportunities</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/jobs-careers">Research Career Fields</a></li>
+          <li><a href="/business">Small Business</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-job"> <a class="usa-button" href="/jobs-and-unemployment">Jobs and Unemployment</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5"> <span>Money and Taxes</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-5"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/taxes">Taxes</a></li>
+          <li><a href="/credit-and-debt">Credit and Debt</a></li>
+          <li><a href="/spend-save-invest">Spending, Saving and Investing</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/unclaimed-money">Unclaimed Money from the Government</a></li>
+          <li><a href="/state-lotteries">State Lottery Results</a></li>
+          <li><a href="/currency">Currency</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/benefits-grants-loans">Benefits, Grants, Loans</a></li>
+          <li><a href="/consumer">Consumer Issues</a></li>
+          <li><a href="/handbook">Download a Copy of the Consumer Action Handbook</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/housing">Housing</a></li>
+          <li><a href="/retirement">Retirement</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-tax"> <a class="usa-button" href="/money">Money and Taxes</a> </li> 
+       </ul> </li> 
+      <li> <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6"> <span>Travel and Immigration</span> </button>
+       <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6"> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/travel-abroad">Passports and International Travel</a></li>
+          <li><a href="/immigration-and-citizenship">Immigration and Citizenship</a></li>
+          <li><a href="/visas-and-visitors">Visas and Visiting the U.S.</a></li>
+         </ul> </li> 
+        <li class="usa-megamenu-col"> 
+         <ul>
+          <li><a href="/recreation-and-travel">Recreation and Travel within the U.S.</a></li> 
+         </ul> </li> 
+        <li class="topic-link topic-nav-globe"> <a class="usa-button" href="/travel-and-immigration">Travel and Immigration</a> </li> 
+       </ul> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="usa-overlay"></div> 
+  <div class="clearfix"> 
+   <p id="skiptargetholder"> <a id="skiptarget" class="skip" tabindex="-1"></a> </p> 
+  </div> 
+  <div class="hptoggles clearfix"> 
+   <div class="container usa-grid"> 
+    <ul> 
+     <li class="engtoggle"> <a href="/espanol/declaracion-impuestos" lang="es" xml:lang="es"> Español </a> </li>
+    </ul> 
+   </div> 
+  </div> 
+  <main id="content" role="main"> 
+   <div class="container clearfix"> 
+    <nav aria-label="content" class="col-md-3 leftnav"> 
+     <section aria-label="left-side-navigation"> 
+      <div class="mrtp clearfix"> 
+       <button id="leftnav-toggle" type="button"> 
+        <div class="bttn"> 
+         <header> 
+          <h2>More Topics in this Section</h2> 
+         </header> 
+        </div> 
+        <div class="mrtpc"></div> </button> 
+      </div> 
+      <div class="shade dwn" aria-expanded="false"> 
+       <header> 
+        <h2 itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"> <a href="/taxes" class="url" onmousedown="_sendEvent('Outbound','/taxes','/',0);" itemtype="http://schema.org/Thing" itemprop="item"> <span itemprop="name">Taxes</span> </a> 
+         <meta itemprop="position" content="1"> </h2> 
+       </header> 
+       <ul> 
+        <li> <span> <a href="/after-taxes" class="url" onmousedown="_sendEvent('Outbound','/after-taxes','/',0);"> After You've Filed Your Federal Taxes </a> </span> </li> 
+        <li> <span> <a href="/business-taxes" class="url" onmousedown="_sendEvent('Outbound','/business-taxes','/',0);"> Business Tax Information </a> </span> </li> 
+        <li> <span> <a href="/help-with-taxes" class="url" onmousedown="_sendEvent('Outbound','/help-with-taxes','/',0);"> Get Help with Your Taxes </a> </span> </li> 
+        <li class="slctd"> <a> <span>How to File Your Federal Taxes</span> </a> </li> 
+        <li> <span> <a href="/irs-scams" class="url" onmousedown="_sendEvent('Outbound','/irs-scams','/',0);"> IRS Scams </a> </span> </li> 
+        <li> <span> <a href="/state-taxes" class="url" onmousedown="_sendEvent('Outbound','/state-taxes','/',0);"> State and Local Taxes </a> </span> </li> 
+        <li> <span> <a href="/tax-benefits" class="url" onmousedown="_sendEvent('Outbound','/tax-benefits','/',0);"> Tax Credits and Deductions </a> </span> </li> 
+        <li> <span> <a href="/tax-reform" class="url" onmousedown="_sendEvent('Outbound','/tax-reform','/',0);"> Tax Reform </a> </span> </li> 
+       </ul> 
+      </div> 
+     </section> 
+    </nav> 
+    <!--right container--> 
+    <div class="col-md-9 col-sm-12 rightnav"> 
+     <header> 
+      <h1>How to File Your Federal Taxes</h1> 
+      <p>Taxes are due on April 15, 2019 (April 17 in Maine and Massachusetts). The new tax law has changed many forms, credits, and deductions. Check this page carefully before filing your federal income tax return.</p> 
+     </header> 
+     <div class="wotp"> 
+      <header> 
+       <h2>On This Page</h2> 
+      </header> 
+      <div class="clearfix"> 
+       <ul> 
+        <li> <a href="#item-214337" onclick="document.getElementById('item-214337').focus();"> Infographic: Tax Reform - Big Changes to Credits and Deductions for 2018 </a> </li> 
+        <li> <a href="#item-35592" onclick="document.getElementById('item-35592').focus();"> File a Federal Income Tax Return </a> </li> 
+        <li> <a href="#item-35217" onclick="document.getElementById('item-35217').focus();"> IRS Mailing Addresses </a> </li> 
+        <li> <a href="#item-35382" onclick="document.getElementById('item-35382').focus();"> Get Tax Forms and Publications </a> </li> 
+        <li> <a href="#item-35587" onclick="document.getElementById('item-35587').focus();"> Tax Filing Deadlines </a> </li> 
+        <li> <a href="#item-36662" onclick="document.getElementById('item-36662').focus();"> Extension to File Your Tax Return </a> </li> 
+        <li> <a href="#item-35432" onclick="document.getElementById('item-35432').focus();"> Get Your W-2 Before Tax Time </a> </li> 
+        <li> <a href="#item-36902" onclick="document.getElementById('item-36902').focus();"> 1099 Income Statements </a> </li> 
+        <li> <a href="#item-214358" onclick="document.getElementById('item-214358').focus();"> Check Your Tax Withholding </a> </li> 
+        <li> <a href="#item-213886" onclick="document.getElementById('item-213886').focus();"> Filing Tax Returns When Living Abroad </a> </li> 
+        <li> <a href="#item-213884" onclick="document.getElementById('item-213884').focus();"> Nonresidents Filing Tax Returns in the U.S. </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <article role="complementary" aria-labelledby="item-214337"> 
+      <header> 
+       <h2 id="item-214337">Infographic: Tax Reform - Big Changes to Credits and Deductions for 2018</h2> 
+      </header> 
+      <p> Learn the changes that affect you and your family under the tax reform law. </p> 
+      <div class="fea-cntntmddl-img"> 
+       <img src="//app-usa-modeast-prod-a01239f.s3.amazonaws.com/Tax_Reform_0.png" alt="Infographic about the tax reform law's big changes to credits and deductions."> 
+      </div> 
+      <p class="lnk-icon"> <img src="/sites/all/themes/usa/images/Icon_New_Screen.png" width="30" height="26" alt="Infographic about the tax reform law's big changes to credits and deductions."> <a href="https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Tax_Reform_Hires.png" aria-labelledby="item-214337" onmousedown="_sendEvent('Outbound Downloads','pdf','https://app-usa-modeast-prod-a01239f.s3.amazonaws.com/Tax_Reform_Hires.png',0);"> View a larger version of the infographic. </a> </p> 
+      <div class="clearfix"> 
+       <article role="complementary" aria-labelledby="infograph-b-214337"> 
+        <div class="usa-accordion-bordered"> 
+         <ul> 
+          <li class="transcript_img"> <button class="usa-accordion-button" data-toggledtext="Hide Description of Infographic" data-initialtext="Show Description of Infographic" aria-expanded="false" aria-controls="infograph-b-214337" aria-labelledby="item-214337">Show Description of Infographic </button> 
+           <div id="infograph-b-214337" class="usa-accordion-content">
+            <p></p>
+            <p>The new tax law increases the standard deduction and child tax credit and eliminates or reduces other deductions.</p>
+            <h3>The law nearly doubles the standard deduction for most filers.</h3>
+            <p>{Deductions lower the amount of income that you pay tax on.}</p>
+            <ul>
+             <li><p>Standard deduction is now $12,000 for individuals, $18,000 for heads of household, and $24,000 for married couples filing jointly.</p></li>
+             <li><p>If you used to itemize deductions, it may no longer be worth it. Your standard deduction may be more than your total itemized deductions now.</p></li>
+            </ul>
+            <h3>The maximum Child Tax Credit has doubled to $2,000.</h3>
+            <p>{Tax credits reduce your tax bill dollar-for-dollar.}</p>
+            <ul>
+             <li><p>More families will qualify as income limits increase to $200,000 for individual filers and $400,000 for married filing jointly.</p></li>
+             <li><p>Even if you don’t owe any tax, you can still get refunded up to $1,400 per child when you claim the child tax credit on your return. &nbsp;</p></li>
+            </ul>
+            <h3>There’s a new $500 credit for other dependents.</h3>
+            <p>Claim it for your children age 17 and older, including college students, and other qualifying relatives in your household.</p>
+            <h3>Many itemized deductions have changed.</h3>
+            <p>If you do itemize, check for new rules in each category. These are just a few.</p>
+            <ul>
+             <li><p>The total deduction for state and local income, sales, and property taxes is now limited to $10,000.</p></li>
+             <li><p>Interest on a home equity loan is now deductible only if you use the money to build or renovate your home. &nbsp;&nbsp;</p></li>
+             <li><p>Moving expenses, tax preparation fees, and job expenses are no longer deductible for most filers.</p></li>
+            </ul>
+            <h3>The personal and dependent exemptions have been eliminated.</h3>
+            <p>{These exemptions lowered your taxable income, just as deductions do.}</p>
+            <p>The increases in the standard deduction and the child tax credit may help offset the loss of the personal and dependent exemptions.</p>
+            <p>Learn more about the changes and how they’ll affect you at <a href="https://www.irs.gov/tax-reform">irs.gov/tax-reform</a>.</p>
+            <p></p>
+           </div> </li> 
+         </ul> 
+        </div> 
+       </article> 
+      </div> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35592"> 
+      <header> 
+       <h2 id="item-35592">File a Federal Income Tax Return</h2> 
+      </header> 
+      <p>The federal government uses taxes to pay its bills and provide public goods and services. The Internal Revenue Service (IRS) collects the taxes you owe through withholding from your paycheck, estimated tax payments, and when you file your taxes each year.</p>
+      <h3>Do I Need to File?</h3>
+      <p>You may not have to file a federal income tax return if your income is below a certain amount. However, you must file a tax return to claim a refundable tax credit or a refund on income tax withheld. <a href="https://www.irs.gov/help/ita/do-i-need-to-file-a-tax-return">Find out if you have to file a tax return</a>.</p>
+      <h3>Follow These Steps to File a Tax Return</h3>
+      <p>Note: The new tax law has changed the forms, credits, and deductions you may have used in the past. <a href="https://www.irs.gov/tax-reform">Learn the basics of the tax law changes</a>.</p>
+      <ol>
+       <li><p>Gather your paperwork, including</p>
+        <ul>
+         <li><p>A <a href="https://www.usa.gov/file-taxes#item-35432">W-2 form</a> from each employer</p></li>
+         <li><p>Other <a href="https://www.usa.gov/file-taxes#item-36902">earning and interest statements (1099 and 1099-INT forms)</a></p></li>
+         <li><p><a href="https://www.irs.gov/affordable-care-act/individuals-and-families/gathering-your-health-coverage-documentation-for-the-tax-filing-season">Proof of health insurance coverage</a></p></li>
+         <li><p>Receipts for charitable donations, medical, and business expenses</p></li>
+        </ul></li>
+       <li><p><a href="https://www.irs.gov/help/ita/what-is-my-filing-status">Choose your filing status</a> - Whether you’re married and the percentage you pay for household expenses determine your filing status.</p></li>
+       <li><p><a href="https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers">See if you qualify for free tax return preparation</a> - The IRS offers free tax help to people with a low income, military service members and their families, people with disabilities, seniors, and taxpayers with limited English.</p></li>
+       <li><p>Decide how you want to file your taxes - The IRS recommends using tax preparation software for easiest and most accurate returns. You can use free or paid programs to <a href="https://www.irs.gov/filing/e-file-options">calculate and file your taxes online</a> or get <a href="https://www.usa.gov/file-taxes#item-35382">paper forms</a> to <a href="https://www.irs.gov/filing/where-to-file-paper-tax-returns-with-or-without-a-payment">mail to the IRS</a>. You can also <a href="https://www.irs.gov/tax-professionals/choosing-a-tax-professional">hire a tax preparer</a> to do your taxes for you.</p></li>
+       <li><p><a href="https://www.irs.gov/credits-deductions-for-individuals">Calculate your taxes, credits, and deductions</a> - Tax law changes may impact your credits and deductions and the taxes you owe.</p>
+        <ul>
+         <li><p>Add up your sources of income, including salary, interest and investment earnings, and pension or retirement accounts.</p></li>
+         <li><p>Check if you are eligible for education, family, and <a href="https://www.irs.gov/help/ita/whom-may-i-claim-as-a-dependent">dependent credits</a> for a qualifying child or relative.</p></li>
+         <li><p>You may also qualify for deductions for things like mortgage interest or charitable donations. Credits and deductions can lower the amount of your taxable income. But keep in mind, while the IRS has increased the standard deduction for tax year 2018, <a href="https://www.irs.gov/newsroom/individuals">it eliminated some other types of deductions</a>.</p></li>
+        </ul></li>
+       <li><p>If you owe money, &nbsp;<a href="https://www.irs.gov/payments">learn how to make a tax payment</a>, including applying for a payment plan.</p></li>
+       <li><p>File your taxes by April 15, 2019 (April 17 in Maine and Massachusetts).</p></li>
+      </ol>
+      <p><a href="https://www.usa.gov/after-taxes#item-35442">Find out how to check the status of your tax refund.</a></p>
+      <h3>Contacting the IRS</h3>
+      <p>For the fastest information, the IRS recommends <a href="https://www.usa.gov/help-with-taxes#item-37047">finding answers to your questions online</a>. You can also <a href="https://www.irs.gov/help/telephone-assistance">call the IRS</a>. This option works best for less complex questions. Keep in mind that wait times to speak with a representative may be long.</p>
+      <h3>Do I Need to Pay Quarterly Estimated Taxes?</h3>
+      <p>If you’re self-employed, not enough tax is taken out of your salary or pension, or you have other earnings such as alimony, interest, or dividends, you may need to pay quarterly estimated taxes. <a href="https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes">Learn how to calculate your estimated taxes, when they’re due, and the penalty for underpaying.</a></p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35217"> 
+      <header> 
+       <h2 id="item-35217">IRS Mailing Addresses</h2> 
+      </header> 
+      <p>The Internal Revenue Service (IRS) provides mailing addresses for tax returns, non-return forms, applications, and payments. The correct mailing address to use depends on the purpose of contact and the region of the country you are in:</p>
+      <ul>
+       <li><a href="https://www.irs.gov/uac/where-to-file-paper-tax-returns-with-or-without-a-payment">Paper Tax Returns</a> (with or without a payment)</li>
+       <li><a href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Where-to-Send-Non-Return-Forms-Applications-and-Payments/">Non-Return Forms</a> (applications and payments)</li>
+      </ul>
+      <p>You can also check a&nbsp;<a href="http://www.irs.gov/instructions/">form's corresponding instructions</a> for a mailing address.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35382"> 
+      <header> 
+       <h2 id="item-35382">Get Tax Forms and Publications</h2> 
+      </header> 
+      <h3><strong>Federal Tax Forms</strong></h3>
+      <p>Federal tax forms have changed as a result of <a href="https://www.irs.gov/tax-reform">the new tax law</a>. Get the new forms, instructions, and publications for free directly from the Internal Revenue Service (IRS).</p>
+      <ul>
+       <li><a href="https://www.irs.gov/forms-instructions">Download them from IRS.gov</a></li>
+       <li>Order by phone at <a href="tel:18008293676">1-800-TAX-FORM</a> (<a href="tel:18008293676">1-800-829-3676</a>)</li>
+      </ul>
+      <p>The IRS can provide many forms and publications in accessible formats, including <a href="https://www.irs.gov/forms-pubs/irs-section-508-compliant-pdf-forms">Section 508 accessible PDFs</a> and <a href="https://www.irs.gov/forms-pubs/irs-tax-forms-in-braille-and-text-formats">Braille or text</a>. They also have forms for prior tax years.</p>
+      <p>You can find the new tax forms in your community for free at</p>
+      <ul>
+       <li><a href="https://tools.usps.com/go/POLocatorAction!input.action">Post offices</a></li>
+       <li><a href="http://www.lib-web.org/united-states/public-libraries">Libraries</a></li>
+       <li><a href="https://www.irs.gov/help/contact-your-local-irs-office">IRS Taxpayer Assistance Centers</a></li>
+      </ul>
+      <h3><strong>State Tax Forms</strong></h3>
+      <p>Download your <a href="http://www.taxadmin.org/state-tax-forms">state's tax forms and instructions</a> for free.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35587"> 
+      <header> 
+       <h2 id="item-35587">Tax Filing Deadlines</h2> 
+      </header> 
+      <p>The Internal Revenue Service (IRS) began accepting and processing federal tax returns for tax year 2018 on January 28, 2019.&nbsp;The deadline to file federal taxes for most taxpayers is April 15, 2019, unless you&nbsp;<a href="https://www.irs.gov/filing/extension-of-time-to-file-your-tax-return">file&nbsp;for an extension</a>.&nbsp;If you live in Maine or Massachusetts, you have until April 17, 2019, to complete your return.</p>
+      <p>Federal and state taxes usually have the same filing deadlines. <a href="https://www.irs.gov/businesses/small-businesses-self-employed/state-links-1">Find out the tax filing due dates in your state</a>. If you do not file and pay your taxes on time, you will be charged interest and a late payment penalty. For taxpayers due a refund, there is no penalty for filing a late return.</p>
+      <h3>Tax Filing and Payment Help</h3>
+      <ul>
+       <li>Learn how to <a href="/file-taxes#item-35592">file a federal income tax return</a>.</li>
+       <li><a href="https://www.irs.gov/filing/e-file-options">File online</a> or find the address for <a href="https://www.irs.gov/filing/where-to-file-paper-tax-returns-with-or-without-a-payment">mailing your paper return</a>. To find out how to mail your tax return, get tips and information from the <a href="https://www.usps.com/taxes/welcome.htm">U.S. Postal Service (USPS)</a>.</li>
+       <li>Explore <a href="https://www.irs.gov/filing">free online tools</a>&nbsp;from the IRS and <a href="http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers">special programs for qualifying taxpayers</a>.</li>
+       <li>Learn about your <a href="https://www.irs.gov/taxtopics/tc202">payment options</a>&nbsp;if you owe money. If the IRS owes you money, you can choose to receive your <a href="http://www.irs.gov/taxtopics/tc152.html">tax refund</a> by direct deposit, U.S. Series I Savings Bonds, or paper check.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36662"> 
+      <header> 
+       <h2 id="item-36662">Extension to File Your Tax Return</h2> 
+      </header> 
+      <p>If you are unable to file your federal income tax return by the due date, you may be able to get an extension from the Internal Revenue Service (IRS).&nbsp;This <em><strong>does&nbsp;not</strong></em> grant you more time to pay your taxes.</p>
+      <p>You may be able to get an automatic six-month extension to file your return. To do so, you must file <a href="http://www.irs.gov/pub/irs-pdf/f4868.pdf">IRS&nbsp;Form 4868, Application for Automatic Extension of Time To File U.S. Individual Income Tax Return</a>&nbsp;by the due date for filing your calendar year return (usually April 15) or fiscal year return. For a Spanish version of this form, download <a href="http://www.irs.gov/pub/irs-pdf/f4868sp.pdf">IRS Form 4868sp</a>.</p>
+      <p>Special rules may apply if you are:</p>
+      <ul>
+       <li>Living outside the United States</li>
+       <li>Out of the country when your six-month extension expires</li>
+       <li>Living in a combat zone or a&nbsp;qualified hazardous area</li>
+      </ul>
+      <p><a href="http://www.irs.gov/publications/p17/ch01.html">Get tax&nbsp;filing information</a>, including guidelines on extensions of time to file.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-35432"> 
+      <header> 
+       <h2 id="item-35432">Get Your W-2 Before Tax Time</h2> 
+      </header> 
+      <p>The Wage and Tax Statement, known as a <a href="http://www.irs.gov/uac/About-Form-W2">W-2 form</a>, is an important document to have at tax time. This form shows the income you earned for the year and the&nbsp;taxes withheld from those earnings. If you have had several jobs over the year, you may have several W-2 forms to file your tax return. Employers must send you your W-2 by January 31 for the earnings from the previous calendar year of work.</p>
+      <p>The Internal Revenue Service (IRS) offers advice on what to do if you were an employee and <a href="http://www.irs.gov/uac/Newsroom/Form-W2-Missing-IRS-Can-Help/">haven't received your W-2</a> by&nbsp;January 31 or if&nbsp;<a href="https://www.irs.gov/faqs/irs-procedures/w-2-additional-incorrect-lost-non-receipt-omitted/w-2-additional-incorrect-lost-non-receipt-omitted">the information is incorrect</a>. Employers that have questions about filing W-2 forms for employees can check these <a href="http://www.irs.gov/taxtopics/tc752.html">resources on where, when, and how to file</a> from the IRS.</p>
+      <p>For more information, <a href="https://www.irs.gov/help/telephone-assistance">contact the IRS</a>.&nbsp;Wait times to speak with a representative may be long.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-36902"> 
+      <header> 
+       <h2 id="item-36902">1099 Income Statements</h2> 
+      </header> 
+      <p>Businesses and government agencies use Form 1099 to report various types of income other than wages, salaries, and tips to the Internal Revenue Service (IRS).</p>
+      <p>Common types of Form 1099&nbsp;include</p>
+      <ul>
+       <li><a href="https://www.irs.gov/forms-pubs/about-form-1099-misc">1099-MISC</a> for contracting and freelance work, gambling and prize winnings, and more</li>
+       <li><a href="https://www.irs.gov/forms-pubs/about-form-1099-int">1099-INT</a> for bank account interest</li>
+       <li><a href="https://www.irs.gov/forms-pubs/about-form-1099-div">1099-DIV</a> for investment distributions and dividends</li>
+       <li><a href="https://www.irs.gov/forms-pubs/about-form-1099-r">1099-R</a> for retirement account distributions from 401(k) accounts, IRAs, Thrift Savings Plans, annuities, and pensions&nbsp;</li>
+       <li><a href="https://www.irs.gov/forms-pubs/about-form-1099-s">1099-S</a> for real estate sales income</li>
+      </ul>
+      <p>Every business or agency must</p>
+      <ul>
+       <li>Complete a Form 1099 for each transaction</li>
+       <li>Retain a copy for its records</li>
+       <li>Send a copy to you and to the IRS. You should have received your copy by early February (or mid-February for Form 1099-B).</li>
+      </ul>
+      <p>You must include this income on your federal tax return.</p>
+      <h3>Incorrect or Missing Form 1099</h3>
+      <p>If you do not agree with the information contained in your Form 1099, contact the business or <a href="/federal-agencies/a">federal agency</a>&nbsp;that issued it.</p>
+      <p>If you did not receive your Form 1099, contact the business or <a href="/federal-agencies/a">federal agency</a> that should have issued it.&nbsp;</p>
+      <h3>Contact the IRS</h3>
+      <p>If you requested Form 1099 from a business or agency and did not receive it, <a href="https://www.irs.gov/taxtopics/tc154">contact the IRS</a>. Wait times to speak with a representative may be long.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-214358"> 
+      <header> 
+       <h2 id="item-214358">Check Your Tax Withholding</h2> 
+      </header> 
+      <p>Withholding is the amount of income tax your employer pays on your behalf from your paycheck. Keep in mind, <a href="/file-taxes#item-214337">the new tax law</a> has changed tax rates, credits, and deductions, and could affect your withholding. If you don’t withhold enough tax, you could face a penalty.</p>
+      <p><a href="https://www.irs.gov/individuals/irs-withholding-calculator">Use the IRS Withholding Calculator</a> to estimate your 2019 income tax and compare it with your current withholding. You’ll need your most recent pay stubs and income tax return.</p>
+      <p>The results from the calculator can help you figure out if you need to <a href="https://www.irs.gov/pub/irs-pdf/fw4.pdf">fill out a new Form W-4</a> for your employer or <a href="/business-taxes#item-37167">make an estimated tax payment</a> to the IRS before the end of the year.</p> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213886"> 
+      <header> 
+       <h2 id="item-213886">Filing Tax Returns When Living Abroad </h2> 
+      </header> 
+      <h3>Who Files</h3>
+      <ul>
+       <li>U.S. citizens or resident aliens (Green Card holders) living abroad must pay U.S. income tax on their worldwide income.</li>
+       <li>The rules for filing tax returns, paying estimated taxes, or estate taxes are generally the same whether you are in the U.S. or abroad. <a href="https://www.irs.gov/individuals/international-taxpayers/taxpayers-living-abroad">Get information for taxpayers living abroad.</a></li>
+      </ul>
+      <h3>How to File</h3>
+      <ul>
+       <li>As a resident alien or U.S. citizen living abroad, you can use the same forms (<a href="https://www.irs.gov/forms-instructions">1040, 1040A or 1040EZ</a>) as people living in the U.S. to file your taxes.</li>
+       <li>The amounts you report on your U.S. tax return must be in U.S. dollars. <a href="https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad-filing-requirements">Learn more about filing requirements</a>.</li>
+      </ul>
+      <h3>When to File</h3>
+      <ul>
+       <li>As a taxpayer living outside the U.S., you are allowed a two-month extension. <a href="https://www.irs.gov/individuals/international-taxpayers/taxpayers-living-abroad">Get more information about your filing date.</a>
+        <ul>
+         <li><a href="https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad-automatic-2-month-extension-of-time-to-file">Learn more about the rules for getting a two-month extension</a>.</li>
+        </ul></li>
+      </ul>
+      <h3>Where to File</h3>
+      <ul>
+       <li>If you’re living outside the U.S., you can mail your return or <a href="https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free">use e-file</a>.</li>
+       <li>Learn where to <a href="https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad-where-and-when-to-file-and-pay">mail your return</a> if you are expecting a refund or if you owe money to the IRS.</li>
+      </ul>
+      <h3>Where to Get Tax Preparation Help While Living Abroad</h3>
+      <p>Taxpayer service is no longer available at foreign posts of duty. Instead, use the <a href="https://www.irs.gov/help/contact-my-local-office-internationally">International Taxpayer Service Call Center</a>.</p>
+      <h3>Find More Resources for Taxpayers Living Abroad</h3>
+      <ul>
+       <li>Use the list of <a href="https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-about-international-individual-tax-matters#GeneralFAQs">frequently asked questions (FAQs)</a> about international individual tax matters or <a href="https://taxmap.irs.gov/taxmap/internationalindex.htm">search by international tax topic</a>.</li>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-about-international-individual-tax-matters#GreenCardHolders">Find a list of tax FAQs especially for resident aliens. </a></li>
+       <li>Use the <a href="https://www.irs.gov/individuals/international-taxpayers/international-taxpayers-interactive-tools">international taxpayers interactive tools</a> for general tax questions.</li>
+       <li>If you owe money to the IRS but do not have a U.S. bank account to send a check, <a href="https://www.irs.gov/payments/pay-taxes-by-credit-or-debit-card">you may be able to use a debit or credit card</a>.</li>
+      </ul> 
+     </article> 
+     <article role="complementary" aria-labelledby="item-213884"> 
+      <header> 
+       <h2 id="item-213884">Nonresidents Filing Tax Returns in the U.S.</h2> 
+      </header> 
+      <h3>Who Files&nbsp;</h3>
+      <p>You will need to file a U.S. tax return depending on your:</p>
+      <ul>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/nonresident-aliens-source-of-income">Source of U.S. income</a></li>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/determining-alien-tax-status">Tax filing status</a></li>
+      </ul>
+      <p><a href="https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens">Review this list of five situations to learn more about who must file</a>.&nbsp;</p>
+      <h3>How to File</h3>
+      <ul>
+       <li>You will need an individual taxpayer identification number (ITIN) or Social Security number (SSN). The IRS will issue an ITIN if a foreign national is not eligible for an SSN for tax reporting purposes. <a href="https://www.irs.gov/individuals/international-taxpayers/general-itin-information">Learn more about getting an ITIN for federal tax reporting. </a></li>
+       <li>You can use <a href="https://www.irs.gov/forms-pubs/about-form-1040nr-us-nonresident-alien-income-tax-return">form 1040NR</a> to file a tax return.</li>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/foreign-students-and-scholars">Review the specific filing requirements if you are a foreign exchange student or visiting scholar.</a></li>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/au-pairs">If you are on a J-1 visa working as </a><a href="https://www.irs.gov/individuals/international-taxpayers/au-pairs">an au pair, you may need to&nbsp;file estimated taxes using form 1040ES-NR.</a></li>
+       <li>If you can’t file your return by the due date, <a href="https://www.irs.gov/forms-pubs/about-form-4868-application-for-automatic-extension-of-time-to-file-us-individual-income-tax-return">use form 4868</a>.</li>
+      </ul>
+      <h3>Find More Resources</h3>
+      <ul>
+       <li><a href="https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z">Review the tax treaty</a> information between the U.S. and your country. In some cases, your taxable amount may be lower.</li>
+       <li><a href="https://www.irs.gov/individuals/international-taxpayers/references-for-foreign-students-and-scholars">If you are a foreign student, use this reference guide to learn more about the special rules that apply to your U.S. income</a> including your liability for Social Security and Medicare taxes.</li>
+       <li>Learn more from the most recent version of the <a href="https://www.irs.gov/forms-pubs/about-publication-519">U.S. Tax Guide for Aliens</a>.</li>
+      </ul> 
+     </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/file-taxes&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=How to File Your Federal Taxes https://www.usa.gov/file-taxes"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=How to File Your Federal Taxes&amp;body=https://www.usa.gov/file-taxes"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: March 28, 2019</p> 
+    </div> 
+   </div> 
+  </main> 
+  <a id="backToTop" href="#skiptarget" data-stickyheight="500"> Top </a> 
+  <!-- begin footer container --> 
+  <footer class="usa-footer usa-footer-big" role="contentinfo"> 
+   <h2 class="hidden-title">footer</h2> 
+   <!-- <div class="usa-grid usa-footer-return-to-top">
+      <a href="#">Return to top</a>
+    </div> --> 
+   <div class="usa-footer-primary-section"> 
+    <div class="usa-grid-full"> 
+     <nav class="usa-footer-nav usa-width-two-thirds"> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content"> 
+       <li class="usa-footer-primary-link"> <h3>About USA.gov</h3> </li> 
+       <li><a href="/about">About Us and Site Notices</a></li> 
+       <li><a href="/media">For the Media</a></li> 
+       <li><a href="/developer">For Developers</a></li> 
+       <li><a href="/site-issue-report-form">Report a Website Issue</a></li> 
+       <li><a href="/site-index">Site Index</a></li> 
+      </ul> 
+      <ul class="usa-unstyled-list usa-width-one-half usa-footer-primary-content footer-list-continued"> 
+       <li class="usa-footer-primary-link"> <h3>Ask USA.gov a Question</h3> </li> 
+       <li><a href="/phone">Call 1-844-USAGOV1 (1-844-872-4681)</a></li> 
+       <li><a href="https://usa.gov/espanol/contactenos" lang="es" xml:>En Español</a></li> 
+      </ul> 
+     </nav> 
+     <div class="usa-sign_up-block usa-width-one-third"> 
+      <h3 class="usa-sign_up-header">Sign up</h3> 
+      <form action="https://connect.usa.gov/subscribe" method="get"> 
+       <label class="" for="email-2" id="">Your email address</label> 
+       <input id="email-2" name="email" type="email"> 
+       <button type="submit">Sign up</button> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="usa-footer-secondary_section usa-footer-big-secondary-section"> 
+    <div class="usa-grid"> 
+     <div class="usa-footer-contact-links"> 
+      <ul class="usa-unstyled-list noborder"> 
+       <li> <a href="https://www.facebook.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Facebook.png" alt="Facebook USAGov"></a> </li> 
+       <li> <a href="https://twitter.com/USAgov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Twitter.png" alt="Twitter USAGov"></a> </li> 
+       <li> <a href="https://www.youtube.com/usagov1"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Youtube.png" alt="YouTube USAGov"></a> </li> 
+       <li> <a href="https://www.instagram.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Instragram.png" alt="Instagram USAGov"></a> </li> 
+       <li> <a href="https://www.snapchat.com/add/usagov"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Snapchat.png" alt="Snapchat USAGov"></a> </li> 
+       <li> <a href="https://www.pinterest.com/usagov/"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_Pinterest.png" alt="Pinterest USAGov"></a> </li> 
+       <li> <a href="https://www.usa.gov/rss"><img class="sm-image" src="/sites/all/themes/usa/images/Icon_Connect_RSS.png" alt="RSS USAGov"></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footertagline"> 
+    <!-- <section> --> 
+    <div class="tagline clearfix container"> 
+     <p>USAGov is the Official Guide to Government Information and Services</p> 
+    </div> 
+   </div> 
+  </footer> 
+  <!-- end footer container --> 
+  <!-- Needed_for_USA.gov_uptime_check' --> 
+  <div id="srvyinvt"></div> 
+  <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-28227333-1', 'auto');
+	ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+
+//<![CDATA[
+	var usasearch_config = { siteHandle:"usagov" };
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src = "https://search.usa.gov/javascripts/remote.loader.js";
+	document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+
+</script>  
+ </body>
+</html>

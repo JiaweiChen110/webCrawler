@@ -3,14 +3,14 @@
  <head> 
   <script>
      dataLayer = [ {
-    "pageType": "generic-navigation-page",
+    "pageType": "generic-content-page",
+    "assetIDs": "37442",
     "TaxLevel1": "USA.gov",
     "TaxLevel2": "Government Agencies and Elected Officials",
-    "TaxLevel3": "State, Local, and Tribal Governments",
-    "TaxLevel4": "State, Local, and Tribal Governments",
-    "TaxLevel5": "State, Local, and Tribal Governments",
-    "TaxLevel6": "State, Local, and Tribal Governments",
-    "assetIDs": "null"
+    "TaxLevel3": "Contact Elected Officials",
+    "TaxLevel4": "Contact Elected Officials",
+    "TaxLevel5": "Contact Elected Officials",
+    "TaxLevel6": "Contact Elected Officials"
 } ];
  </script> 
   <!--– Google Tag Manager –--> 
@@ -21,15 +21,15 @@
     })(window,document,'script','dataLayer','GTM-KV4BZFD');</script> 
   <!--– End Google Tag Manager –--> 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-  <title>State, Local, and Tribal Governments  | USAGov</title> 
-  <link rel="canonical" href="https://www.usa.gov/state-tribal-governments"> 
+  <title>Elected Officials  | USAGov</title> 
+  <link rel="canonical" href="https://www.usa.gov/elected-officials"> 
   <meta name="google" value="notranslate"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <meta name="description" content="Find contact information for state, local, and tribal governments."> 
-  <meta property="og:url" content="https://www.usa.gov/state-tribal-governments"> 
+  <meta name="description" content="Find contact information for federal, state, and local government officials."> 
+  <meta property="og:url" content="https://www.usa.gov/elected-officials"> 
   <meta property="og:type" content="website"> 
-  <meta property="og:title" content="State, Local, and Tribal Governments | USAGov"> 
-  <meta property="og:description" content="Find contact information for state, local, and tribal governments."> 
+  <meta property="og:title" content="Elected Officials | USAGov"> 
+  <meta property="og:description" content="Find contact information for federal, state, and local government officials."> 
   <meta property="og:image" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <meta property="og:image:secure_url" content="https://www.usa.gov/images/facebook_share_thumbnail.png"> 
   <!-- Favicons --> 
@@ -56,10 +56,10 @@ jQuery(document).ready( function () {
 </script> 
   <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-termId = '11006';
+termId = '10673';
 //--><!]]>
 </script> 
-  <script type="text/javascript" src="https://survey.usa.gov/widget/351/invitation.js?target_id=srvyinvt&amp;mobile_target_id=survey-target&amp;stylesheet=https%3A%2F%2Fwww.usa.gov/sites/all/themes/usa/css/popup-survey.css"></script> 
+  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0007/9651.js" async></script> 
   <script type="text/javascript" src="/js/respond.js"></script> 
   <script type="text/javascript" src="/js/platform.js"></script> 
   <script type="text/javascript" src="/js/menu.js"></script> 
@@ -278,7 +278,7 @@ termId = '11006';
   <div class="hptoggles clearfix"> 
    <div class="container usa-grid"> 
     <ul> 
-     <li class="engtoggle"> <a href="/espanol/agencias-estatales" lang="es" xml:lang="es"> Español </a> </li>
+     <li class="engtoggle"> <a href="/espanol/funcionarios-elegidos" lang="es" xml:lang="es"> Español </a> </li>
     </ul> 
    </div> 
   </div> 
@@ -306,43 +306,69 @@ termId = '11006';
         <li> <span> <a href="/branches-of-government" class="url" onmousedown="_sendEvent('Outbound','/branches-of-government','/',0);"> Branches of the U.S. Government </a> </span> </li> 
         <li> <span> <a href="/budget" class="url" onmousedown="_sendEvent('Outbound','/budget','/',0);"> Budget of the U.S. Government </a> </span> </li> 
         <li> <span> <a href="/buy-from-government" class="url" onmousedown="_sendEvent('Outbound','/buy-from-government','/',0);"> Buying from the U.S. Government </a> </span> </li> 
-        <li> <span> <a href="/elected-officials" class="url" onmousedown="_sendEvent('Outbound','/elected-officials','/',0);"> Contact Elected Officials </a> </span> </li> 
+        <li class="slctd"> <a> <span>Contact Elected Officials</span> </a> </li> 
         <li> <span> <a href="/contact-by-topic" class="url" onmousedown="_sendEvent('Outbound','/contact-by-topic','/',0);"> Contact Government by Topic </a> </span> </li> 
         <li> <span> <a href="/forms" class="url" onmousedown="_sendEvent('Outbound','/forms','/',0);"> Forms, by Agency </a> </span> </li> 
-        <li class="slctd"> <a> <span>State, Local, and Tribal Governments</span> </a> </li> 
+        <li> <span> <a href="/state-tribal-governments" class="url" onmousedown="_sendEvent('Outbound','/state-tribal-governments','/',0);"> State, Local, and Tribal Governments </a> </span> </li> 
        </ul> 
       </div> 
      </section> 
     </nav> 
+    <!--right container--> 
     <div class="col-md-9 col-sm-12 rightnav"> 
      <article> 
       <header> 
-       <h1>State, Local, and Tribal Governments</h1> 
-       <p>Find contact information for state, local, and tribal governments.</p> 
+       <h1 id="item-37442">How to Contact Your Elected Officials</h1> 
+       <p>Find contact information for federal, state, and local government officials.</p> 
       </header> 
-      <section class="infobytpc clearfix row"> 
-       <ul class="dwnlvl"> 
-        <li class="col-md-6 col-xs-12"> <a href="/elected-officials"> <span class="mocklink">Contact Elected Officials</span> <p>Find contact information for federal, state, and local government officials.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-governor"> <span class="mocklink">Governors</span> <p>Contact your state's governor or the mayor of the District of Columbia.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/tribes"> <span class="mocklink">Indian Tribes and Resources for Native Americans</span> <p>Find information about and resources for Native Americans.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/local-governments"> <span class="mocklink">Local Governments</span> <p>Find contact information for local governments by state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-attorney-general"> <span class="mocklink">State Attorneys General</span> <p>Find contact information for the attorney general of each state.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-consumer"> <span class="mocklink">State Consumer Protection Offices</span> <p>Find your state's consumer protection office.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/states-and-territories"> <span class="mocklink">State Governments</span> <p>Find contact information for each state or territory.</p> </a> </li> 
-        <li class="col-md-6 col-xs-12"> <a href="/state-courts"> <span class="mocklink">State, County, and Municipal Courts</span> <p>Find contact information for state, county, and municipal courts.</p> </a> </li> 
-       </ul> 
-      </section> 
-      <!-- social media feature begin--> 
-      <div id="sm-share">
-       <span id="share-page">Share This Page:</span> 
-       <div aria-labelledby="share-page"> 
-        <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/state-tribal-governments&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
-        <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=State, Local, and Tribal Governments https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
-        <a href="mailto:?subject=State, Local, and Tribal Governments&amp;body=https://www.usa.gov/state-tribal-governments"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
-       </div> 
-      </div> 
-      <!-- social media feature ends--> 
+      <p>Learn how to get in touch with your federal, state, and local elected leaders.</p>
+      <header>
+       <h2>Contact Federal Elected Officials</h2>
+      </header>
+      <ul>
+       <li>President Donald Trump—Contact the president of the United States by <a href="https://www.whitehouse.gov/contact">filling out the online contact form</a> or by calling the White House switchboard at <a href="tel:2024561414">202-456-1414</a> or the comments line at <a href="tel:2024561111">202-456-1111</a>&nbsp;during business hours.</li>
+       <li>Members of the U.S. Congress
+        <ul>
+         <li><a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">U.S. Senators</a>—Get contact information for your Senators in the U.S. Senate.</li>
+         <li><a href="http://www.house.gov/representatives/">U.S. Representatives</a>—Find the website and contact information for your Representative in the U.S. House of Representatives.</li>
+        </ul></li>
+      </ul>
+      <header>
+       <h2>Contact State Elected Officials</h2>
+      </header>
+      <ul>
+       <li><a href="https://www.usa.gov/state-governor">State Governors</a>—Learn how to get in touch with your state governor.</li>
+       <li><a href="https://www.congress.gov/state-legislature-websites">State Legislators</a>—Find the names and current activities of your state legislators.</li>
+      </ul>
+      <header>
+       <h2>Contact Local Elected Officials</h2>
+      </header>
+      <ul>
+       <li><a href="https://www.usmayors.org/mayors/">U.S. Mayors</a>—Locate mayors by name, city, or population size.</li>
+       <li><a href="http://explorer.naco.org/">County Executives</a>—Search on a map or by your ZIP code to find the head of the executive branch of government in your county. (The county executive may be an elected or an appointed position.)</li>
+       <li><a href="https://www.usa.gov/local-governments">Other Local Government Officials</a>—Get contact information for your city, county, and town officials in your state.&nbsp;</li>
+      </ul> 
      </article> 
+     <!-- social media feature begin--> 
+     <div id="sm-share">
+      <span id="share-page">Share This Page:</span> 
+      <div aria-labelledby="share-page"> 
+       <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/elected-officials&amp;v=3"> <img src="../../images/Icon_Connect_Facebook.png" alt="Facebook"> </a> 
+       <a href="http://twitter.com/intent/tweet?source=webclient&amp;text=How to Contact Your Elected Officials https://www.usa.gov/elected-officials"> <img src="../../images/Icon_Connect_Twitter.png" alt="Twitter"> </a> 
+       <a href="mailto:?subject=How to Contact Your Elected Officials&amp;body=https://www.usa.gov/elected-officials"> <img src="../../images/Icon_Connect_Email.png" alt="Email"> </a> 
+      </div> 
+     </div> 
+     <!-- social media feature ends--> 
+     <div id="cntctbx"> 
+      <h2 id="">Do you need help?</h2> 
+      <p> Ask us any question about the U.S. government for free. We'll get you the answer or tell you where to find it. </p> 
+      <ul> 
+       <li><a href="/phone">Call USA.gov</a></li> 
+       <li><a href="/chat">Chat with USA.gov</a></li> 
+      </ul> 
+     </div> 
+     <div id="pagesurvey-qual-container"></div> 
+     <p class="last">Last Updated: November 8, 2018</p> 
     </div> 
    </div> 
   </main> 

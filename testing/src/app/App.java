@@ -59,14 +59,23 @@ public class App {
     		}
     	}
     	
+    	//***********store in harddrive for testing purpose
+    	//***********Please change the path to your own directory.
     	Path f = Paths.get("C:\\Users\\alph_\\OneDrive\\Desktop\\Java\\testing\\indexFolder");
     	StandardAnalyzer analyzer = new StandardAnalyzer();
     	IndexWriterConfig config = new IndexWriterConfig(analyzer);
     	Directory directory = FSDirectory.open(f);
     	
+    	//**********************This clear(Empty out) the index files in your indexFolder
+//    	for(String s:directory.listAll()) {
+//    		System.out.println(s);
+//			directory.remove(s); //clear the directory. renew index
+//    	}
+    	
+    	//******************************************
     	
     	/*
-        //````````````````INDEX
+        //````````````````INDEX PART
     	IndexWriter indexWriter = new IndexWriter(directory, config);
 //        List<Page> pages = Arrays.asList(
 //                new Page("UCR article", "Search engine is considered the most successful application of IR."),
@@ -89,8 +98,10 @@ public class App {
         indexWriter.close();
  		*/
     	
+    	
+    	//******************************************
     	/*
-    	//```````````````IndexSearch
+    	//```````````````IndexSearch PART
         DirectoryReader indexReader = DirectoryReader.open(directory);
         IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
@@ -114,26 +125,35 @@ public class App {
         }
         indexReader.close();
         */
+    	
+    	//******************************************
+    	
+    	
         directory.close();
 
-    	/*########## Crawling HTML to testing.file
-    	 * 
-    	FileWriter w = new FileWriter("writeTest.txt",true);
-    	BufferedWriter writer = new BufferedWriter(w);
-    	HashSet<String> tSet = new HashSet<String>();
-    	tSet.add("https://www.usa.gov");
-    	tSet.add("https://www.state.gov");
-    	HashSet<String> fSet = crawlWeb(tSet,0);
-    	for(String i:fSet) {
-//    		System.out.println(i);
-    		writer.write(i);
-    		writer.newLine();
-    	}
-    	writer.close();
-    	*/
+        
+        
+        
+    	//########## Crawling HTML to testing.file
+//    	FileWriter w = new FileWriter("writeTest.txt",true);
+//    	BufferedWriter writer = new BufferedWriter(w);
+//    	HashSet<String> tSet = new HashSet<String>();
+//    	tSet.add("https://www.usa.gov");
+//    	tSet.add("https://www.state.gov");
+//    	HashSet<String> fSet = crawlWeb(tSet,0);
+//    	for(String i:fSet) {
+////    		System.out.println(i);
+//    		writer.write(i);
+//    		writer.newLine();
+//    	}
+//    	writer.close();
     	
-    	/*########## Download the html to downloadFile
-    	 * 
+        
+        
+        //******************************************
+    	//########## Download the html to downloadFile
+    	
+        /*
     	FileReader r = new FileReader("writeTest.txt");
     	BufferedReader reader = new BufferedReader(r);
     	//reader.readLine()
@@ -151,6 +171,9 @@ public class App {
     		}
     		
     		if(doc!=null){
+    			//success to HTML
+    			System.out.println(next_line);
+    			htmlLink(next_line);
     			downloadHTML(next_line,Integer.toString(count));
     			count++;
     		}
@@ -158,7 +181,20 @@ public class App {
     	reader.close();
     	*/
     	
-    	System.out.println("run");
+//    	System.out.println("run");
+    }
+    
+    public static void htmlLink(String s) {
+    	try {
+			FileWriter w = new FileWriter("HTML.txt",true);
+			BufferedWriter writer = new BufferedWriter(w);
+			writer.write(s);
+			writer.newLine();
+			writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
     }
     
 	public static void downloadHTML(String s, String i) {

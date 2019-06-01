@@ -60,6 +60,91 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin("*")
 public class App {
 	
+	public static void main(String[] args) throws Exception{
+		List<Page> matches = new ArrayList<>();
+		
+		// Check if no query
+//        if (query.isEmpty())
+//        	return matches;
+		
+        Path f = Paths.get("indexFolder");
+    	StandardAnalyzer analyzer = new StandardAnalyzer();
+    	IndexWriterConfig config = new IndexWriterConfig(analyzer);
+    	Directory directory = FSDirectory.open(f);
+    	
+    	//	CLEAN THE INDEX FOLDER BEFORE STARTING
+    	String indexLocation = System.getProperty("user.dir") + "/indexFolder";
+    	File index = new File(indexLocation);
+    	File[] files = index.listFiles();
+    	for (File file : files) {
+    		if (!file.delete()) { 
+    			System.out.println("Failed to delete "+file);
+    		}
+    	}
+    	
+    	
+        // GATHER ALL THE FILES FROM DOWNLOAD FOLDER AND INDEX THEM
+    	IndexWriter indexWriter = new IndexWriter(directory, config);
+    	List<Page> pages = new ArrayList<Page>();
+    	
+    	// Get all the .txt files from folder and put them into array
+    	String downloadLocation = System.getProperty("user.dir") + "/downloadFiles";
+    	File folder = new File(downloadLocation);
+    	String[] listOfFiles = folder.list();
+    	if(listOfFiles == null) {
+    		System.out.println("Couldn't find the download folder");
+    		// return matches;
+    	}
+    	
+    	// Get all links from HTML.txt and add them to list
+    	String linkLocation = System.getProperty("user.dir") + "\\HTML.txt";
+    	List<String> listOfLinks = Files.readAllLines(Paths.get(linkLocation));
+    	
+    	
+    	for (int i = 0; i < listOfLinks.size(); i++) {
+    		String data = new String(Files.readAllBytes(Paths.get("downloadFiles/" + listOfFiles[i])));
+    	    org.jsoup.nodes.Document d = Jsoup.parse(data);
+    	    String link = listOfLinks.get(i);
+    	    Page test = new Page(d.title(),d.body().text(),link);
+    	    pages.add(test);
+    	}
+    	    	
+        for (Page page: pages) {
+            Document doc = new Document();
+            doc.add(new org.apache.lucene.document.TextField("title", page.title, Field.Store.YES));
+            doc.add(new org.apache.lucene.document.TextField("content", page.content, Field.Store.YES));
+            doc.add(new org.apache.lucene.document.TextField("link", page.link, Field.Store.YES));
+            indexWriter.addDocument(doc);
+        }
+        indexWriter.close();
+    	
+        
+        // SCORE THE INDEXED FILES
+        DirectoryReader indexReader = DirectoryReader.open(directory);
+        IndexSearcher indexSearcher = new IndexSearcher(indexReader);
+
+        String[] fields = {"title", "content"};
+        Map<String, Float> boosts = new HashMap<>();
+        boosts.put(fields[0], 1.0f);
+        boosts.put(fields[1], 0.5f);
+        MultiFieldQueryParser parser = new MultiFieldQueryParser(fields, analyzer, boosts);
+        Query q = parser.parse("military");
+        int topHitCount = 100;
+        ScoreDoc[] hits = indexSearcher.search(q, topHitCount).scoreDocs;
+
+        
+        // Iterate through the results:
+        for (int rank = 0; rank < hits.length; ++rank) {
+            Document hitDoc = indexSearcher.doc(hits[rank].doc);
+            Page p = new Page(hitDoc.get("title"), hitDoc.get("content"), hits[rank].score, hitDoc.get("link"));
+            System.out.println("" + hitDoc.get("title") + hitDoc.get("link"));
+            matches.add(p);
+        }
+        indexReader.close();
+		
+        directory.close();
+	}
+	
 	@GetMapping("/articles")
     public List<Page> searchArticles (
             @RequestParam(required=false, defaultValue="usa") String query) throws Exception{
@@ -88,24 +173,34 @@ public class App {
         // GATHER ALL THE FILES FROM DOWNLOAD FOLDER AND INDEX THEM
     	IndexWriter indexWriter = new IndexWriter(directory, config);
     	List<Page> pages = new ArrayList<Page>();
+    	
+    	// Get all the .txt files from folder and put them into array
     	String downloadLocation = System.getProperty("user.dir") + "/downloadFiles";
     	File folder = new File(downloadLocation);
     	String[] listOfFiles = folder.list();
     	if(listOfFiles == null) {
-    		return matches;
+    		System.out.println("Couldn't find the download folder");
+    		// return matches;
     	}
-		for (String name: listOfFiles) {
-	    	    // System.out.println(name);
-	    	    String data = new String(Files.readAllBytes(Paths.get("downloadFiles/" + name)));
-	    	    org.jsoup.nodes.Document d = Jsoup.parse(data);
-	    	    Page test = new Page(d.title(),d.body().text());
-	    	    pages.add(test);
+    	
+    	// Get all links from HTML.txt and add them to list
+    	String linkLocation = System.getProperty("user.dir") + "/HTML.txt";
+    	List<String> listOfLinks = Files.readAllLines(Paths.get(linkLocation));
+    	
+    	
+    	for (int i = 0; i < listOfLinks.size(); i++) {
+    		String data = new String(Files.readAllBytes(Paths.get("downloadFiles/" + listOfFiles[i])));
+    	    org.jsoup.nodes.Document d = Jsoup.parse(data);
+    	    String link = listOfLinks.get(i);
+    	    Page test = new Page(d.title(),d.body().text(),link);
+    	    pages.add(test);
     	}
     	    	
         for (Page page: pages) {
             Document doc = new Document();
             doc.add(new org.apache.lucene.document.TextField("title", page.title, Field.Store.YES));
             doc.add(new org.apache.lucene.document.TextField("content", page.content, Field.Store.YES));
+            doc.add(new org.apache.lucene.document.TextField("link", page.link, Field.Store.YES));
             indexWriter.addDocument(doc);
         }
         indexWriter.close();
@@ -115,7 +210,7 @@ public class App {
         DirectoryReader indexReader = DirectoryReader.open(directory);
         IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
-        String[] fields = {"title", "content"};
+        String[] fields = {"title", "content", "link"};
         Map<String, Float> boosts = new HashMap<>();
         boosts.put(fields[0], 1.0f);
         boosts.put(fields[1], 0.5f);
@@ -128,7 +223,8 @@ public class App {
         // Iterate through the results:
         for (int rank = 0; rank < hits.length; ++rank) {
             Document hitDoc = indexSearcher.doc(hits[rank].doc);
-            Page p = new Page(hitDoc.get("title"), hitDoc.get("content"), hits[rank].score);
+            Page p = new Page(hitDoc.get("title"), hitDoc.get("content"), hits[rank].score, hitDoc.get("link"));
+            //System.out.println("" + hitDoc.get("title") + hitDoc.get("link"));
             matches.add(p);
         }
         indexReader.close();

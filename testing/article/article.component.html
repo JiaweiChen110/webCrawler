@@ -1,0 +1,14 @@
+<input #searchBox id="search-box"
+(keyup.enter)="search(searchBox.value)"/>
+<button (click)="search(searchBox.value)">Search</button>
+
+<h4 *ngIf="lastSearch">Last search query: <i>"{{lastSearch}}"</i></h4>
+
+<h2>Relevant Articles:</h2>
+<ul class="articles" *ngIf="articles">
+  <li *ngFor="let article of articles" (click)="onNavigate(article.link)">
+    Title: <span class="badge">{{article.title}}</span>    
+    Score: <span class="badge">{{article.score}}</span> 
+  </li>
+</ul>
+
